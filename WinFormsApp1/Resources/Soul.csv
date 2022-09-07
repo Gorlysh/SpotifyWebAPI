@@ -1,0 +1,261 @@
+﻿USER_ID;TRACK_ID;NAME;ARTIST;Acousticness;Danceability;Duration_Ms;Energy;Instrumentalness;Key;Liveness;Loudness;Mode;Speechiness;Tempo;Time_Signature;Valence;Like
+No_Autorization;7gyDV6Y7GmHqQS4KnzI5Zk;Are You Ready to Love Me?;The War and Treaty;0,151;0,533;214187;0,776;8,65E-05;8;0,13;-7,092;1;0,0847;90,061;4;0,697;0
+No_Autorization;6CgsttSWDA2sISZQp1upXK;I Don't Wanna Lie;Yola;0,3;0,562;181535;0,821;0;5;0,519;-5,082;1;0,0277;105,512;4;0,893;0
+No_Autorization;4kP69y3GKHi9tXckfgp4bK;For Once In My Life;Stevie Wonder;0,195;0,524;169800;0,519;0;6;0,523;-11,903;1;0,043;110,121;4;0,847;0
+No_Autorization;6Pi1WqBTTSjtl6BWHQSccH;Lovely Day;Bill Withers;0,179;0,702;251467;0,658;0,000636;9;0,1;-7,835;1;0,0332;97,851;4;0,736;0
+No_Autorization;4TBBPZks71c60whhq0PgdP;(Your Love Keeps Lifting Me) Higher & Higher;Jackie Wilson;0,176;0,631;181067;0,69;0;2;0,121;-6,676;1;0,0531;94,574;4;0,938;0
+No_Autorization;0iBnSo8vrCJtPCDb4xuDj4;Good, Better, Best;Swamp Dogg;0,336;0,84;170040;0,405;0,0347;10;0,111;-11,714;0;0,16;90,036;4;0,814;0
+No_Autorization;5SfM1f729pv1DdiEcyDiex;Diamond Studded Shoes;Yola;0,329;0,522;204693;0,817;1,6E-06;0;0,0807;-6,17;1;0,0512;151,106;4;0,562;0
+No_Autorization;16ZNz0wXDJERo4zquNPw7x;How Sweet It Is (To Be Loved By You);Jr. Walker & The All Stars;0,0114;0,575;179640;0,731;3,97E-06;1;0,351;-7,876;1;0,168;125,44;4;0,694;0
+No_Autorization;2QOB5UiRKggr2j9uMD3GYK;FREEDOM;Jon Batiste;0,0251;0,873;178290;0,651;0,000107;1;0,213;-4,179;1;0,0374;115,002;4;0,828;0
+No_Autorization;2jg4Yc8071puvDRYi22B3a;Signed, Sealed, Delivered (I'm Yours);Stevie Wonder;0,00495;0,646;158040;0,784;0;5;0,061;-6,137;1;0,0334;108,84;4;0,819;0
+No_Autorization;3GrTxDPEBPyofDy06rO9mj;Hold On;Kool & The Gang;0,0312;0,793;215404;0,601;0,00351;4;0,105;-8,179;1;0,0317;103,003;4;0,703;0
+No_Autorization;3jrPIWpTMWlh4qIiDAhfPS;In Love (Don't Mess Things Up);Lady Wray;0,623;0,758;137320;0,364;5,87E-06;9;0,138;-7,491;0;0,0549;95,619;4;0,533;0
+No_Autorization;0DcrhZ12WcCqruCs8ibXSf;I Can See Clearly Now;Johnny Nash;0,633;0,681;164733;0,373;0,00113;2;0,0751;-13,2;1;0,0568;123,423;4;0,623;0
+No_Autorization;7MF7QAodbGzNYav5ZfIhAY;Midnight Train to Georgia;Gladys Knight & The Pips;0,271;0,595;279333;0,379;2,81E-05;10;0,1;-12,058;0;0,0454;92,006;4;0,448;0
+No_Autorization;7F1eoVZd2ySSJ70iP3PN1m;I Get The Sweetest Feeling;Jackie Wilson;0,778;0,684;178373;0,482;0,000351;5;0,148;-9,234;1;0,0371;123,532;4;0,749;0
+No_Autorization;5N7s7nhywtONPI5FJhabAP;Sunday Morning;The Main Squeeze;0,287;0,49;229600;0,569;0;1;0,365;-8,401;1;0,246;147,369;3;0,43;0
+No_Autorization;6fuvYxKEvU4inG8eTB2nYi;I Can't Help Myself (Sugar Pie, Honey Bunch);Four Tops;0,197;0,692;166467;0,633;0;0;0,0929;-7,733;1;0,0291;126,812;4;0,965;0
+No_Autorization;2m3qhWMiEjqgkfslIRf4pg;Baby (You've Got What It Takes);Dinah Washington;0,85;0,673;165760;0,598;0,00147;3;0,652;-9,232;1;0,0687;133,383;4;0,802;0
+No_Autorization;22n3sLGqLcaYKiVniC1ZOT;Last One Standing;Monophonics;0,217;0,588;436840;0,576;0,0354;6;0,172;-6,945;0;0,0367;129,157;4;0,661;0
+No_Autorization;241RmK77gecJ1y7jOoQ5lu;This Will Be (An Everlasting Love) - 2003 Remaster;Natalie Cole;0,185;0,682;171360;0,605;0,00326;8;0,0469;-10,771;1;0,0403;125,96;4;0,914;0
+No_Autorization;5K09WxKdlkroDyEVyOSySy;(You Make Me Feel Like) A Natural Woman - 2021 Remaster;Aretha Franklin;0,679;0,603;165333;0,271;0;5;0,141;-10,083;1;0,0284;110,89;3;0,405;0
+No_Autorization;69Qa7czzqraPWZgxpQN405;You Can't Hurry Love;The Supremes;0,762;0,617;165080;0,81;0;10;0,134;-6,513;1;0,0798;97,389;4;0,65;0
+No_Autorization;7t7VTdIZS01AfR2w2SHb17;Good To You;Jonny P;0,358;0,789;158855;0,38;0,0207;1;0,0928;-10,662;1;0,0362;92,028;4;0,702;0
+No_Autorization;113bLFbp3F9MVN0w2KJ1ma;How Long Do I Have to Wait for You?;Sharon Jones & The Dap-Kings;0,469;0,674;243760;0,909;0,0131;10;0,105;-3,369;0;0,0464;103,942;4;0,969;0
+No_Autorization;4wQD0djo6Id4fQLQeRKQ6e;It Takes Two;Marvin Gaye;0,206;0,519;177667;0,493;0;3;0,0754;-10,962;1;0,0528;151,269;4;0,831;0
+No_Autorization;62r1CS9zL1FL5Ilb7hLX7n;Take Me to the River;Al Green;0,218;0,786;225373;0,418;0,000158;9;0,134;-11,115;1;0,0432;119,101;4;0,94;0
+No_Autorization;2G2YzndIA6jeWFPBXhUjh5;Be My Baby;The Ronettes;0,181;0,511;160907;0,769;0;4;0,0921;-7,032;1;0,042;129,657;4;0,818;0
+No_Autorization;3VgrSJEKBRT3xmwzpaxxEF;(Love Is Like A) Heat Wave;Martha Reeves & The Vandellas;0,513;0,514;163053;0,624;0,00517;0;0,307;-9,287;0;0,0842;166,726;4;0,755;0
+No_Autorization;6KNV6L3b7beomEUnzWgw0X;Ride or Die;Durand Jones & The Indications;0,375;0,607;254722;0,629;0,0806;2;0,0844;-10,509;1;0,0406;101,974;4;0,688;0
+No_Autorization;2QW3aWIzjEDdHFPZFvOlXX;You Send Me - Mono;Sam Cooke;0,883;0,565;163267;0,286;0;4;0,178;-10,871;0;0,0289;95,964;4;0,487;0
+No_Autorization;5Gird0FlC1rfCDujzz0C4N;Rescue Me;Fontella Bass;0,666;0,677;172640;0,546;1,47E-05;7;0,113;-9,7;1;0,0321;122,732;4;0,956;0
+No_Autorization;6cpNEgirhi0QmLDA2cVSHO;It's A Shame;The Spinners;0,0952;0,411;191960;0,788;0;8;0,175;-10,197;0;0,109;198,435;4;0,612;0
+No_Autorization;5c33j1xFVOL4G24zxYhssB;This Old Heart Of Mine (Is Weak For You) - Alternate Mix;The Isley Brothers;0,346;0,632;172733;0,59;0;5;0,24;-10,206;1;0,0305;130,287;4;0,953;0
+No_Autorization;7A3LJCI6LmrGMnFHQ8whl7;Thinking About You;Lee Fields & The Expressions;0,00281;0,81;160701;0,76;0,002;7;0,101;-4,368;1;0,0411;133,251;4;0,945;0
+No_Autorization;4RQgqR09VmHn345vRhKQ6T;Sir Duke;Stevie Wonder;0,16;0,576;234093;0,579;0;6;0,0777;-9,628;1;0,0769;106,978;4;0,947;0
+No_Autorization;5wJcMwXuy1x6EatowWOxha;Dancing In The Street - Stereo;Martha Reeves & The Vandellas;0,108;0,601;159000;0,828;2,35E-06;11;0,106;-5,268;0;0,0453;125,945;4;0,618;0
+No_Autorization;7FS541dJh3iQAEXEZoDhE6;Twistin' the Night Away;Sam Cooke;0,691;0,458;159853;0,801;0;9;0,328;-7,83;1;0,0565;160,547;4;0,93;0
+No_Autorization;6cy84k8xqRXe2II7DQ1XVj;Heaven Must Have Sent You;The Elgins;0,123;0,632;156307;0,569;0,00131;2;0,145;-5,75;0;0,0307;139,914;4;0,584;0
+No_Autorization;28wGX1hoLCRbBZbEqITvE3;Ain't No Mountain High Enough;Marvin Gaye;0,437;0,677;146160;0,693;0;11;0,405;-7,561;0;0,0343;130,013;4;0,755;0
+No_Autorization;4k6WZXbHUFEZR02X9FhOuT;Sure Don't Miss You;The Dip;0,334;0,664;174520;0,586;2,96E-06;4;0,16;-7,985;0;0,0283;102,991;4;0,727;0
+No_Autorization;1XvCs8az0V297Ex0I9VAPu;Family Affair;Sly Stone;0,362;0,748;199427;0,719;0,139;2;0,114;-11,172;0;0,0421;107,962;4;0,737;0
+No_Autorization;0pvA063uNyGQFp7DNtmk0P;Sweet Soul Music;Arthur Conley;0,104;0,59;141067;0,659;6,56E-06;5;0,356;-9,669;1;0,0697;80,201;4;0,965;0
+No_Autorization;0PpamSdfQzIAvj5OB9Bz54;Reach Out I'll Be There - Single Version / Mono;Four Tops;0,0615;0,62;182467;0,763;0;3;0,289;-4,908;0;0,0311;119,534;4;0,718;0
+No_Autorization;6vcG9EgeqJUSmmF65lxUm6;One Fine Day;The Chiffons;0,488;0,251;128200;0,868;7,34E-06;1;0,814;-2,685;1;0,128;177,13;4;0,599;0
+No_Autorization;2sRlynMtS89ewDIh44qgVu;The Love I Lost (feat. Teddy Pendergrass);Harold Melvin & The Blue Notes;0,28;0,681;383533;0,744;0;2;0,0762;-8,718;1;0,0567;123,277;4;0,729;0
+No_Autorization;3NfxSdJnVdon1axzloJgba;I Say a Little Prayer - 2021 Remaster;Aretha Franklin;0,478;0,592;216773;0,355;0;9;0,0585;-14,051;1;0,0352;133,032;4;0,499;0
+No_Autorization;2g2GkH3vZHk4lWzBjgQ6nY;(What A) Wonderful World;Sam Cooke;0,627;0,691;125440;0,507;0;11;0,457;-10,23;1;0,0343;128,518;4;0,885;0
+No_Autorization;3zBhihYUHBmGd2bcQIobrF;(Sittin' On) the Dock of the Bay;Otis Redding;0,684;0,769;163756;0,367;1,62E-05;2;0,081;-11,226;1;0,0312;103,621;4;0,535;0
+No_Autorization;0rN1OjmFyAPQmLOloqUBMs;Come On In;Lady Wray;0,165;0,653;218966;0,445;0,0167;5;0,128;-8,749;0;0,0248;80,725;4;0,688;0
+No_Autorization;5EA06TsQmqmQXZiEhr1AaM;Coming Home;Leon Bridges;0,461;0,427;206387;0,465;5,52E-05;6;0,154;-6,595;1;0,0291;112,137;3;0,458;0
+No_Autorization;7kWhdmRYv8CqbWNqfojqVd;Let's Stay Together;Al Green;0,606;0,746;199400;0,273;0,0168;5;0,0526;-16,63;1;0,0573;101,952;4;0,502;0
+No_Autorization;5joZkgTCteYR5SWvSesUSQ;Black Heart;Stealth;0,0539;0,852;174688;0,76;3,08E-05;1;0,151;-4,026;1;0,0849;121,672;4;0,584;0
+No_Autorization;5AoTuHE5P5bvC7BBppYnja;Respect - 2003 Remaster;Aretha Franklin;0,0723;0,744;142187;0,611;0,000532;0;0,0692;-6,386;1;0,0333;114,991;4;0,961;0
+No_Autorization;7lL2lMWNtzOcf5HnEudNgn;Everyday People;Sly & The Family Stone;0,245;0,813;139507;0,619;0,0151;7;0,113;-8,203;1;0,0294;114,58;4;0,774;0
+No_Autorization;7yrhYiObdVbdo1XDUg8VdD;Baby Love;The Supremes;0,35;0,579;157373;0,637;0;0;0,0905;-6,201;1;0,0289;135,28;4;0,719;0
+No_Autorization;28285KFbyCq8sJofn58qlD;Love Train;The O'Jays;0,186;0,743;178400;0,572;1,44E-05;0;0,163;-9,627;1;0,0493;122,658;4;0,675;0
+No_Autorization;5YLnfy7R2kueN0BRPkjiEG;I'll Take You There;The Staple Singers;0,0904;0,846;196827;0,595;1,96E-06;0;0,063;-8,372;1;0,0439;101,632;4;0,78;0
+No_Autorization;4F68WqrshWc5aWyJGCumd2;Blessed with the Best;Lee Fields & The Expressions;0,303;0,591;229720;0,653;0,000741;1;0,0709;-4,708;1;0,0499;161,726;4;0,904;0
+No_Autorization;19jo0UT2vqD4pNVfIqTy4R;River Deep - Mountain High;Ike & Tina Turner;0,472;0,621;244160;0,972;0,000585;8;0,195;-3,791;1;0,0724;155,113;4;0,866;0
+No_Autorization;5P11rW6aJErF37MTfRZS31;Hallelujah, I Love Her So;Ray Charles;0,792;0,696;155507;0,547;0;5;0,155;-5,954;0;0,169;73,203;4;0,623;0
+No_Autorization;5QXAMj4GVRUPOQVUNJjLJl;Come See About Me;The Supremes;0,658;0,739;162760;0,626;0;7;0,14;-7,666;1;0,0389;126,388;4;0,812;0
+No_Autorization;3AW8RH8wosGLxd6ZojTGBe;Hard to Handle;Otis Redding;0,573;0,666;141000;0,549;1,84E-06;10;0,122;-8,672;1;0,0616;95,552;4;0,961;0
+No_Autorization;4ZKGarvWsSOruOaw40cFNz;Love That Girl;Raphael Saadiq;0,0136;0,71;184413;0,674;1,73E-05;1;0,0366;-5,393;1;0,0352;124,033;4;0,7;0
+No_Autorization;2rs00HEFJT0yg1NC64JWpS;Hard Up;The Bamboos;0,00655;0,782;255228;0,922;0,0118;11;0,0728;-4,028;0;0,0497;104,015;4;0,761;0
+No_Autorization;4oP1iFJ5GSxeMMHofCg4ae;Love Again;RuthAnne;0,624;0,58;210454;0,424;0;8;0,103;-6,366;1;0,0714;92,291;4;0,478;0
+No_Autorization;2NMbpeb1VI7GyeJQMJZF2I;Wake Up Everybody (feat. Teddy Pendergrass);Harold Melvin & The Blue Notes;0,402;0,577;452733;0,646;0;6;0,228;-8,126;1;0,0696;97,814;4;0,659;0
+No_Autorization;6hJhVBOnkchxBsDHbLOBJP;Drift Away;Dobie Gray;0,308;0,521;237467;0,443;0;11;0,475;-8,188;1;0,0395;76,228;4;0,596;0
+No_Autorization;6jWkZvd1URGktyTTwcpPpB;My Girl;The Temptations;0,625;0,579;165000;0,419;0;0;0,0981;-10,72;1;0,0346;104,564;4;0,673;0
+No_Autorization;7N3UAu6FkwdBg9J7OONBBP;Jimmy Mack;Martha Reeves & The Vandellas;0,765;0,701;163733;0,517;0;2;0,385;-7,951;1;0,0357;127,401;4;0,688;0
+No_Autorization;01H6EVBkDRIIICVpciXOHC;Black Boy;Joel Culpepper;0,0498;0,618;243625;0,518;0,000286;6;0,131;-5,122;1;0,156;169,966;4;0,466;0
+No_Autorization;4T43c9I2dDyrrlds7qqS2N;Something's Got A Hold On Me;Etta James;0,771;0,474;170200;0,558;0;1;0,839;-6,3;1;0,132;151,221;4;0,619;0
+No_Autorization;3axZhjWYerBhaovH5MlkTZ;Make Me Yours;Bettye Swann;0,454;0,711;195293;0,492;1,45E-05;3;0,126;-8,119;1;0,0325;107,917;4;0,868;0
+No_Autorization;3Qe0dJkQXx7jJWXRxuVqJ0;Easy;Commodores;0,204;0,577;258707;0,481;0,00229;10;0,317;-10,581;0;0,03;132,159;4;0,311;0
+No_Autorization;5usNPz6U1acDrkUYekGYDY;Then He Kissed Me;The Crystals;0,681;0,44;158853;0,682;3,33E-05;4;0,207;-7,416;1;0,0373;135,917;4;0,626;0
+No_Autorization;4NRQwaks9r58tTDvr4iEyv;In the Midnight Hour;Wilson Pickett;0,12;0,75;157160;0,444;3,69E-06;4;0,118;-8,63;1;0,0403;111,919;4;0,849;0
+No_Autorization;0W5qBuHbbBfCzszFxrQWMc;Call Me;St. Paul & The Broken Bones;0,0625;0,573;171267;0,786;0,211;7;0,117;-4,354;1;0,0353;110,289;4;0,61;0
+No_Autorization;5CMw1IWB7JOpUY9nk54n1K;It's Only A Paper Moon;Ella Fitzgerald;0,958;0,732;156933;0,138;0;10;0,107;-14,28;1;0,0431;118,44;4;0,634;0
+No_Autorization;65jrjEhWfAvysKfnojk1i0;Under the Boardwalk;The Drifters;0,908;0,747;161960;0,226;0,000168;7;0,107;-13,635;1;0,0414;123,792;4;0,778;0
+No_Autorization;3sTc75CCyIw4FPs6cXkOe7;Save Room;John Legend;0,0451;0,69;235667;0,572;0;7;0,0969;-6,131;1;0,0264;111,92;4;0,375;0
+No_Autorization;4uCbetXW9LStYPUjCpBVp9;Son of a Preacher Man;Aretha Franklin;0,545;0,474;199267;0,473;1,25E-06;2;0,0356;-11,454;1;0,0601;77,583;4;0,561;0
+No_Autorization;7b8s4Z0abQQ4x4jpct4GjR;Cissy Strut;The Meters;0,106;0,521;185227;0,799;0,732;0;0,332;-11,993;1;0,097;175,921;4;0,709;0
+No_Autorization;7rUPIW0pQoshbOtysdlWX2;My Guy;Mary Wells;0,715;0,699;172187;0,574;0;10;0,173;-6,96;1;0,0519;126,56;4;0,912;0
+No_Autorization;0WVTQp3SOCuMr08jh1jweV;Bring It On Home to Me;Sam Cooke;0,778;0,523;162533;0,402;0;0;0,432;-8,233;1;0,0305;70,863;4;0,675;0
+No_Autorization;6bo1ykqKEAYsdwVtR1ze8x;Pelvis Pusher;Vintage Trouble;0,0528;0,544;187783;0,842;0;0;0,0946;-4,634;1;0,115;169,406;4;0,714;0
+No_Autorization;4NL8D4RQsC6ux6eI3m3Lg5;Everybody Needs Somebody to Love;Solomon Burke;0,145;0,629;166067;0,543;0;8;0,116;-9,185;1;0,045;75,519;4;0,858;0
+No_Autorization;2BydLQAh7CUIFvSEqAMc4x;If You Want Me to Stay;Sly & The Family Stone;0,28;0,843;180493;0,48;0,000782;11;0,108;-11,574;0;0,0492;101,993;4;0,762;0
+No_Autorization;41FRsZNXpsBkJ46BxyC20m;Do You Love Me - Mono Single;The Contours;0,611;0,597;172667;0,71;0;5;0,104;-9,798;1;0,0378;150,13;4;0,763;0
+No_Autorization;3JbqwFY5q0ORO3siv5zL3A;Smooth Sailin';Leon Bridges;0,413;0,641;183333;0,721;7,15E-06;11;0,246;-6,788;0;0,0451;67,055;4;0,753;0
+No_Autorization;2Bls0igCm79XQQ95IoUbhq;Mr. Big Stuff;Jean Knight;0,29;0,886;164560;0,491;2,46E-06;8;0,229;-12,589;1;0,171;93,236;4;0,971;0
+No_Autorization;242UAWExQDujCkiQtLQvcu;Don’t You Know;Durand Jones & The Indications;0,637;0,68;200687;0,658;4,27E-05;4;0,107;-4,186;0;0,0339;96,041;4;0,722;0
+No_Autorization;3XcuLPQb1LG13ZJEEa6wUI;Build Me Up Buttercup - Mono;The Foundations;0,361;0,657;178533;0,423;0;0;0,31;-10,465;1;0,0308;133,612;4;0,842;0
+No_Autorization;0ZZbKNLGRNHs93FhNebPFH;Soul Connection;Diplomats of Solid Sound;0,104;0,654;149293;0,627;3,18E-05;2;0,143;-6,137;1;0,0298;109,057;4;0,817;0
+No_Autorization;1k1Bqnv2R0uJXQN4u6LKYt;Ain't No Sunshine;Bill Withers;0,457;0,527;125093;0,415;1,72E-05;4;0,117;-11,451;0;0,122;78,169;4;0,515;0
+No_Autorization;27m1soUndRthrAA1ediOXn;I Heard It Through The Grapevine;Marvin Gaye;0,195;0,729;195267;0,324;0;8;0,101;-13,017;0;0,0393;116,855;4;0,679;0
+No_Autorization;3YJx77Xx8JSwEoxqrkQO5c;Knock On Wood;Eddie Floyd;0,277;0,864;189840;0,346;0,00521;4;0,0514;-12,918;1;0,0365;105,164;4;0,964;0
+No_Autorization;621JEkyIPeNSfyOb6tplfi;Nothing But A Heartache;The Flirtations;0,00235;0,554;160600;0,899;2,57E-05;8;0,0731;-8,04;1;0,0447;111,934;4;0,742;0
+No_Autorization;2OyaNAq8BcGstyzueloqpE;Too Late To Turn Back Now;Cornelius Brothers & Sister Rose;0,344;0,516;198693;0,73;0;7;0,425;-7,136;1;0,0494;115,126;4;0,907;0
+No_Autorization;3tSi6iFO9yLGIYIqMEgjC9;I Want You Back;The Jackson 5;0,439;0,67;179227;0,584;0,00614;8;0,178;-8,325;1;0,034;98,185;4;0,944;0
+No_Autorization;5rrXkymfQdhNBgBZ3BUVbB;Mama Said - Rerecorded Version;The Shirelles;0,0573;0,762;129613;0,528;0;8;0,281;-6,789;0;0,0335;140,403;4;0,933;0
+No_Autorization;7l3QyhptrvjiNS5dOcUQvr;Lady (You Bring Me Up);Commodores;0,0772;0,88;290440;0,702;0,000303;0;0,0742;-6,657;0;0,0336;120,844;4;0,833;0
+No_Autorization;2luK9cqWdNKliKj7xQVaa3;Back of My Hand (Live);Stephen Day;0,847;0,711;265265;0,165;1,33E-05;7;0,142;-14,523;1;0,114;65,972;4;0,351;0
+No_Autorization;5X5XhvErlZwcy9Mj0O2aVV;Love Falls Down;Poppy Ajudha;0,353;0,582;315984;0,518;0,0111;11;0,116;-9,912;1;0,0503;155,922;4;0,568;0
+No_Autorization;1EKAEKLKc9hi6x8bjgTT9T;Make a Change;Durand Jones & The Indications;0,0173;0,664;209231;0,672;0,432;7;0,13;-9,309;1;0,105;160,984;4;0,841;0
+No_Autorization;1W7gmQ7AgRMIUthrV0OD0h;Nobody (feat. Ms. Lauryn Hill);Nas;0,408;0,732;282193;0,716;0;10;0,169;-5,553;0;0,307;91,015;4;0,586;0
+No_Autorization;7qzCsFUXg9ov9eQ78BQQdl;Good Morning (Mndsgn Remix);Joyce Wrice;0,0392;0,736;205752;0,406;2,84E-06;8;0,0915;-10,763;0;0,0601;83,999;4;0,741;0
+No_Autorization;51rPRW8NjxZoWPPjnRGzHw;Tadow;Masego;0,669;0,704;301893;0,487;8,64E-05;9;0,111;-6,407;0;0,0604;121,726;4;0,313;0
+No_Autorization;4mbOTHs6heygME9uDHg0mf;Elusive;blackwave.;0,335;0,567;222200;0,675;0;5;0,247;-6,699;0;0,219;167,737;4;0,651;0
+No_Autorization;5wUBONclIQRIFrsPzW5TiY;You;Nicole Bus;0,0613;0,319;206493;0,768;0;11;0,0904;-4,708;0;0,0722;176,448;4;0,367;0
+No_Autorization;1g8U8GIX2S3g3M8H2MtSpO;honest;Bnnyhunna;0,132;0,476;233482;0,444;0,659;6;0,111;-13,109;1;0,0572;141,964;4;0,186;0
+No_Autorization;3x3b6gLfASQ3oKMC5tM6Wf;Molly;GINGE;0,691;0,82;123142;0,623;0,00424;2;0,0827;-7,43;1;0,252;95,157;4;0,621;0
+No_Autorization;4dLMspbmxpSvjG2rH0uofK;Oil Slick;Duoya;0,38;0,579;181012;0,401;0,908;9;0,119;-14,62;0;0,0594;170,338;4;0,707;0
+No_Autorization;3JPFtBDSWygqLCZ07DVsNQ;With You;Devin Morrison;0,032;0,749;247339;0,421;0;1;0,0939;-8,162;1;0,0365;87,967;4;0,621;0
+No_Autorization;5yuYE3N0sSIPXLE3L3GbSK;Wish The Love Never Died;SABRI;0,31;0,733;181600;0,467;0,000816;9;0,106;-8,467;0;0,0444;79,938;4;0,434;0
+No_Autorization;54SqlaPV5mzRTBBWdnE1OO;Soul Sista - Remix / From "Queen & Slim: The Soundtrack";Bilal;0,815;0,598;339847;0,412;0,000352;11;0,114;-9,838;1;0,14;146,039;4;0,431;0
+No_Autorization;1QIIQ1B2syNBSvQULkXgTa;Traingazing;Sam Wills;0,692;0,849;214160;0,361;0,00673;11;0,14;-10,057;1;0,0641;137,539;4;0,553;0
+No_Autorization;4k5TtH1KiIh13ElOttHWg7;The Loneliest Thing;Cosma Joy;0,957;0,565;179773;0,205;0,00354;9;0,121;-13,439;0;0,0366;134,148;4;0,273;0
+No_Autorization;2TgTGJyiWf1ptW5g3QG938;Imagineering;Nightmares On Wax;0,651;0,619;274973;0,184;0,847;9;0,134;-12,242;0;0,0324;146,338;4;0,389;0
+No_Autorization;38eB2BbrR7PLK7zyQYgBDx;Everything You Touch Is Gold;Gregory Porter;0,336;0,637;363240;0,446;1,82E-05;4;0,183;-7,767;1;0,0649;75,007;4;0,423;0
+No_Autorization;6uL0ZXwr17RgsMRmXKYY11;Whatever You Are;Myles Sanko;0,344;0,737;300678;0,715;1,28E-05;7;0,1;-6,434;0;0,0354;104,98;4;0,742;0
+No_Autorization;1dDlUI0TJwXCS7CVf4bMqn;TIBBE;Bluestaeb;0,401;0,784;145181;0,337;0,63;5;0,143;-9,53;1;0,0442;101,015;4;0,405;0
+No_Autorization;1Qxqg9EGoPS9vaGsK6S3lG;Mile High;Raquel Rodriguez;0,124;0,752;222635;0,569;0,000156;5;0,0688;-4,927;0;0,0571;78,96;4;0,83;0
+No_Autorization;5JTjqiwTbED3kRWmDc1f16;Futurity;Latanya Alberto;0,493;0,46;254551;0,532;0,167;7;0,078;-9,54;1;0,117;82,391;4;0,655;0
+No_Autorization;6yefcxg5NPvCNPavfcq1VY;The Optimist;Toine Thys Trio;0,747;0,602;386093;0,356;0,363;6;0,0875;-14,448;1;0,139;88,259;3;0,439;0
+No_Autorization;1qPxBxzTbnJ7PCVAyBsy1R;Wandering Ways;Matt Quentin;0,532;0,782;168913;0,365;0,893;7;0,0837;-14,049;0;0,0726;91,894;4;0,684;0
+No_Autorization;1CbxG199T0fzfUV5EO7aPV;Eternal Light;Free Nationals;0,648;0,793;193740;0,465;0,000132;5;0,0871;-8,134;0;0,271;141,85;4;0,898;0
+No_Autorization;3Td12QdISvxCc924l70f8n;Five Feet Tall;Lady Blackbird;0,874;0,38;200725;0,199;1,66E-06;0;0,158;-10,488;0;0,0352;163,074;5;0,122;0
+No_Autorization;4JNTpbntShpUpACDUzwHV5;GO!;Common;0,0915;0,838;224160;0,763;1,37E-05;10;0,123;-11,132;0;0,227;104,958;4;0,544;0
+No_Autorization;4Enwbl0M7hXUU9gYf6l928;Jusqu'ici tout va bien;Okvsho;0,451;0,804;206672;0,529;0,863;5;0,115;-11,921;0;0,149;159,949;4;0,656;0
+No_Autorization;7cRhOk7j7jxXZpsX0s3TA5;A Thousand Things That Were You;Trijntje Oosterhuis;0,956;0,306;255701;0,108;0,0118;3;0,154;-18,283;0;0,0336;132,334;4;0,205;0
+No_Autorization;61qAqFcfogzqpJ9IW9lUW3;Tomb for Rockets;Feng Suave;0,657;0,438;263587;0,384;0,0054;2;0,0873;-12,65;1;0,054;83,979;4;0,441;0
+No_Autorization;65N5mnAk0WOubXkCryAxEe;Another Day;Jamie Lidell;0,163;0,702;228907;0,634;0;3;0,288;-4,996;1;0,0418;135,552;4;0,897;0
+No_Autorization;6pda92NQRMnWwbOgQhYhtw;Belong To You;Shishani;0,428;0,649;185733;0,513;0,377;0;0,0946;-10,339;1;0,0306;140,039;4;0,295;0
+No_Autorization;2VbNBhOi7n7WX1yCVfy77I;No Reply;Joshua J;0,0574;0,774;177653;0,629;1,15E-05;8;0,0767;-4,982;1;0,143;77,504;4;0,44;0
+No_Autorization;2IdfvxOWNu4usISuuQvJFB;Nothing Can Tear Us Apart;Das Sound Kollektiv;0,211;0,694;235082;0,534;0,0018;7;0,366;-9,126;1;0,061;85,024;4;0,609;0
+No_Autorization;0fEcztdrrEaiBpEVkfggd2;Inside You;Eddie Henderson;0,38;0,661;292133;0,608;0,162;10;0,0823;-9,516;0;0,0291;87,174;4;0,962;0
+No_Autorization;3aTv2MzcK17DfHzcUCyte1;On the Hill;Oliver Sain St. Louis Breakdown;0,0374;0,592;276640;0,553;0,698;10;0,0675;-11,404;0;0,0588;166,81;4;0,683;0
+No_Autorization;3Fw7pl6UpksTfmYcXLbvx3;Fool of Me;Meshell Ndegeocello;0,772;0,44;212640;0,239;0,00304;7;0,0924;-17,042;1;0,0264;106,777;3;0,167;0
+No_Autorization;4tEOo7B5elipkDbdQ59JOp;Moonlove;Shamis;0,795;0,695;235370;0,387;0,0001;7;0,282;-11,892;1;0,174;92,036;4;0,304;0
+No_Autorization;4c60yLpE5lXvICT0pyEaZ5;Better Give U Up;FKJ;0,176;0,525;256800;0,72;0,00648;11;0,0769;-6,916;0;0,169;91,708;4;0,483;0
+No_Autorization;5urU79wSXrxVUhQAYYNWnF;Blended Family (What You Do For Love) (feat. A$AP Rocky);Alicia Keys;0,0658;0,721;211547;0,518;0,000113;9;0,069;-7,619;1;0,0719;96,988;4;0,231;0
+No_Autorization;36YNheAQ0FKZ4I9qaYIY6P;Neon Noir;QUANZA;4,19E-05;0,289;280258;0,729;0,818;8;0,0467;-7,567;1;0,0368;137,174;4;0,172;0
+No_Autorization;3JLzTwLuKBTcxrua5PeLfV;Grace;RIMON;0,211;0,745;205714;0,521;0;5;0,105;-9,244;0;0,141;98,036;4;0,668;0
+No_Autorization;5fVDAO6wDRWdC9xGSYxx3Q;12 AM in Bali;SMANDEM.;0,0628;0,348;336889;0,366;0,789;0;0,0889;-13,607;1;0,0786;88,427;3;0,155;0
+No_Autorization;58pJZsMEPXmYX8gvXWyt3V;Mixer;Amber Mark;0,0509;0,703;192824;0,742;0,000636;9;0,625;-5,542;1;0,0454;94,926;4;0,812;0
+No_Autorization;2Vr3sHONmr4oBHkim59hAw;Come In My Kitchen;Diplomats of Solid Sound;0,0122;0,571;204653;0,83;0;1;0,211;-5,487;0;0,0896;100,8;4;0,928;0
+No_Autorization;0nnocliX58UkQQf0Ayl2kU;Strength;The RH Factor;0,156;0,695;278267;0,507;0,657;2;0,122;-10,014;1;0,0576;98,855;4;0,433;0
+No_Autorization;7GO7XfiDsUysp4MMkdCiXo;Yes We Can Can;Maceo Parker;0,183;0,748;342880;0,634;0,000211;2;0,0433;-10,094;1;0,142;169,946;4;0,838;0
+No_Autorization;6KFpDUBxj4dQRiBcdpSQvT;Say It;Papik;0,494;0,591;209645;0,698;0,000204;5;0,206;-9,355;1;0,0557;107,979;4;0,595;0
+No_Autorization;032JVeAfSSc7XK3bTZqK0z;Side by Side;Loren Nine;0,983;0,777;143552;0,17;1,09E-06;2;0,1;-10,636;1;0,108;119,876;4;0,467;0
+No_Autorization;6WFwC46XQapcmnToEcromu;Smooth Move;Cory Wong;0,648;0,688;316108;0,729;0,381;8;0,805;-6,168;1;0,0858;170,138;4;0,665;0
+No_Autorization;5mc98yTbpJAwgpCGRRlB0l;Perspective;Sy Smith;0,113;0,74;247579;0,394;4,86E-05;8;0,189;-9,313;1;0,152;95,011;4;0,533;0
+No_Autorization;6sBYTq8zxSBhLv41bmFE9k;Still Broke - Keyon's Cocktail Mix;Samm Henshaw;0,105;0,503;237738;0,574;0,634;5;0,258;-7,561;0;0,107;148,328;4;0,455;0
+No_Autorization;1wMVd1DxRhwdVtAugMbP2i;Do You?;Lee Brave;0,575;0,452;192000;0,673;0,000484;10;0,689;-4,781;1;0,0882;178,854;4;0,668;0
+No_Autorization;4igMWltZhzr97iuC8YwJPk;LIA;Tom Bailey;0,51;0,79;218679;0,48;0;7;0,103;-5,701;0;0,0686;87,775;4;0,931;0
+No_Autorization;0tNuJpBgtE65diL6Q8Q7fI;On & On;Erykah Badu;0,0396;0,762;226133;0,403;0,0113;11;0,256;-10,423;0;0,158;80,476;4;0,346;0
+No_Autorization;4Yu599Am0GHlAMsnq158GD;Unweaving the Rainbow Forever;Feng Suave;0,412;0,313;197840;0,376;0,00835;2;0,104;-11,753;1;0,0294;203,346;4;0,33;0
+No_Autorization;0Rliuj2FRErOzjvSSKTGLd;Smile;Durand Jones & The Indications;0,372;0,681;229404;0,774;5,74E-05;11;0,373;-8,001;0;0,06;104,71;4;0,773;0
+No_Autorization;37jMCyGpHpwvv8ePVReFGl;A Storm On A Summers Day;Full Crate;0,702;0,712;178356;0,295;0,0003;0;0,172;-14,508;1;0,236;115,073;4;0,134;0
+No_Autorization;5Rc3pgfumRrE6b67rBAsi2;Status Quo;Sabrina Starke;0,139;0,839;236640;0,339;0,000252;11;0,2;-12,633;1;0,319;94,038;4;0,425;0
+No_Autorization;2Sh3g3NaqkD23mZ6Ugfrsq;Good to Be Home (feat. Tom Misch, Loyle Carner & Rebel Kleff);Barney Artist;0,301;0,892;263090;0,685;0,000744;10;0,0775;-4,906;0;0,072;95,958;4;0,61;0
+No_Autorization;3OREiYBiC7wSpOLukQMDZR;Hurt;Arlo Parks;0,715;0,675;216095;0,38;0,000201;4;0,174;-8,622;0;0,0315;94,92;4;0,7;0
+No_Autorization;3sAy4CeesQ2DphWNtckNjW;The Good Life;Ben L'Oncle Soul;0,705;0,718;251532;0,583;0,0172;1;0,129;-8,176;1;0,175;95,009;4;0,371;0
+No_Autorization;0BhvzFxq3FHiMdGcLiTphr;Make It Better (feat. Smokey Robinson);Anderson .Paak;0,0112;0,676;219332;0,56;0,00403;4;0,137;-6,024;0;0,0643;178,555;4;0,551;0
+No_Autorization;6xaAoSvOozsjDHTMWhYtAx;Thank You Master (For My Soul);Sons Of The James;0,23;0,756;115954;0,489;0,0758;8;0,106;-9,136;0;0,268;95,372;4;0,752;0
+No_Autorization;1U0pbxsCfQdy7f4XQ1cdYB;The Ballad;YellowStraps;0,0164;0,649;274099;0,531;0,000701;9;0,095;-6,308;1;0,383;179,853;4;0,691;0
+No_Autorization;5zUd51f2ARySiVvA1J43B9;ALTITUDE;Tiana Major9;0,161;0,544;212039;0,583;4,62E-06;6;0,384;-7,656;1;0,136;99,932;4;0,678;0
+No_Autorization;4Za8yDzEhc8uZMBQRkiaGr;New Day (Otis Parham);Sean C. Johnson;0,681;0,583;195306;0,621;0;6;0,139;-8,01;1;0,0459;94,115;4;0,859;0
+No_Autorization;0uTdYqGBYFbtqVW5Bh5MH1;This Could Be (For The Travelling Soul);Theo Croker;0,317;0,69;286107;0,725;0,796;4;0,11;-7,057;0;0,0401;95,016;4;0,412;0
+No_Autorization;6k8Ma4BHrQhzF71ogxpKhI;Little Life;Ruben Hein;0,121;0,678;179119;0,394;0,000304;6;0,108;-11,548;1;0,0475;95,943;4;0,105;0
+No_Autorization;3W87VCtPfwh9Kr0SGRRKHG;In Your River;Snoh Aalegra;0,066;0,505;234033;0,543;0,00866;11;0,172;-8,13;1;0,0403;79,64;4;0,542;0
+No_Autorization;0UD3irWPjn3FrropsoPsW2;Ain't That Somethin';Fabrecollectiv.;0,2;0,772;225801;0,373;4,89E-06;8;0,149;-5,785;0;0,33;82,686;4;0,538;0
+No_Autorization;5qe9D2JqiNkhHksPhkVl0y;Built That Way;Emotional Oranges;0,263;0,705;199067;0,645;1,06E-05;1;0,0673;-7,242;0;0,082;92,01;4;0,715;0
+No_Autorization;1eRvvnfpeisIH2JY07equa;Upside;Judith Hill;0,211;0,838;170865;0,927;0,000783;0;0,356;-3,686;1;0,287;155,885;4;0,864;0
+No_Autorization;2oy3lFLrv7iO7XqhvEpBLB;Come on with the Good Thing;MF Robots;0,0883;0,785;319932;0,894;2,23E-05;7;0,0376;-5,982;0;0,0444;99,999;4;0,919;0
+No_Autorization;5MZQIjtghyFc4sMVUzD7MD;Kickback;Omar Apollo;0,491;0,912;171107;0,448;0,000292;9;0,0781;-5,501;1;0,0446;108,964;4;0,744;0
+No_Autorization;6L3Vs1lEEAPXRiIdJiGHIc;Voodoo;Shay Lia;0,341;0,714;196950;0,585;8,12E-06;6;0,133;-6,916;0;0,0891;105,024;4;0,317;0
+No_Autorization;4nSO7iKiwPj4wJjylLCu0s;Say Something;Jordan Rakei;0,341;0,712;160966;0,685;0,000739;10;0,212;-8,225;0;0,124;91,04;4;0,836;0
+No_Autorization;72pAdCNhYcGaKndmsJBbyz;Silence is Golden;Lettuce;0,0111;0,741;343841;0,652;0,947;9;0,0671;-8,279;0;0,0431;97,023;4;0,758;0
+No_Autorization;079mLSjKkiSnpcSueMrNtQ;With You;Terrace Martin;0,246;0,452;248635;0,384;0,000349;8;0,0684;-8,571;0;0,262;182,486;4;0,392;0
+No_Autorization;113bLFbp3F9MVN0w2KJ1ma;How Long Do I Have to Wait for You?;Sharon Jones & The Dap-Kings;0,469;0,674;243760;0,909;0,0131;10;0,105;-3,369;0;0,0464;103,942;4;0,969;0
+No_Autorization;1l1oUS33fGuK1YKThB1bWD;Toxic Love Affair;Kraak & Smaak;0,101;0,788;273960;0,562;0,00843;9;0,13;-9,378;0;0,0402;105,012;4;0,562;0
+No_Autorization;445dqIqkN3pgi73mldzj4K;Soul Food;Viceroy;0,129;0,845;173854;0,662;8,57E-06;9;0,0923;-9,391;0;0,0527;114,985;4;0,682;0
+No_Autorization;0rEVw979CI6wMZb3snSE7K;All That I Can Say;Gretchen Parlato;0,0993;0,693;197033;0,262;0,732;8;0,11;-18,079;0;0,0524;97,324;4;0,144;0
+No_Autorization;1ITkbRFUUIg09wWxUGWxZ1;Breeze;Freddie Joachim;0,0137;0,825;156787;0,472;0,834;1;0,0992;-7,146;1;0,069;92,013;4;0,831;0
+No_Autorization;40TMWT4FHQKrbb6NgfWAJ5;Pineapple;Blue Lab Beats;0,392;0,849;196587;0,529;0,191;7;0,105;-10,038;1;0,141;99,983;4;0,538;0
+No_Autorization;03oKPuz3ykdddqan4z743d;I Can't Live Without You;Tony Momrelle;0,0798;0,654;302704;0,568;0;2;0,126;-8,148;1;0,136;98,029;4;0,518;0
+No_Autorization;4vt4JoGfQ1QaDeHXKxTpUI;Do You Really;Oscar Jerome;0,296;0,652;210000;0,909;0,00205;10;0,269;-5,506;0;0,179;173,824;4;0,868;0
+No_Autorization;3dXoXjTSjbcR1IVYUdo9YI;He's Been Gone;Amber Navran;0,593;0,429;168263;0,479;0,00121;9;0,116;-7,691;1;0,328;170,262;4;0,31;0
+No_Autorization;5KxO8FockGFq9A9qJqGboV;Tell Me Something;Tanika Charles;0,0833;0,809;184907;0,491;0,000692;0;0,101;-5,623;1;0,0378;84,988;4;0,632;0
+No_Autorization;5L3rFG7ttfr4OK87dbUfle;Bad Feeling;Joy Crookes;0,117;0,795;206613;0,651;0,00129;4;0,384;-5,727;0;0,0746;98,001;4;0,864;0
+No_Autorization;3GdWGAtxFU9184mRdqfB0T;Big Bad Mood (feat. Miraa May);Jordan Stephens;0,00205;0,83;229091;0,727;0,000588;5;0,235;-8,098;0;0,0615;120,976;4;0,543;0
+No_Autorization;0CQOH425xHeKBTNz3kC5vD;Get Down (feat. Kasien);p-rallel;0,398;0,744;234955;0,677;0,123;7;0,116;-7,909;0;0,0324;115,986;4;0,551;0
+No_Autorization;5QoWB3fZCKdwWkKFagoFI4;Passion Controller;Khazali;0,0191;0,697;172220;0,739;0,0256;1;0,214;-8,356;1;0,128;112,058;4;0,289;0
+No_Autorization;2DLxohwNmcbWktWGVG0dN7;Believe (feat. Fredwave & Jeshi);p-rallel;0,028;0,736;208439;0,612;0,119;1;0,138;-9,645;1;0,104;124,011;4;0,038;0
+No_Autorization;7aBh7zmJbRT6YcdYsYU9kn;Sun Moon;Cabu;0,237;0,636;154500;0,827;0,000114;1;0,324;-9,321;1;0,226;113,714;4;0,652;0
+No_Autorization;1TzakCl94k0i561dxoNZWs;You (1000 Beasts Remix);1000 Beasts;0,681;0,52;223300;0,368;0,0181;6;0,2;-9,943;0;0,0275;85,996;4;0,148;0
+No_Autorization;0dPM5QtTPLYLOPo8Zp9aNa;Bad Seeds;Ted Jasper;0,488;0,664;180682;0,329;0,0267;7;0,085;-13,572;1;0,052;100,013;4;0,209;0
+No_Autorization;4PDYYvVrcHWDvesiKo74Lh;Shadows;Bonobo;0,0913;0,658;285093;0,576;0,393;10;0,107;-10,976;0;0,036;114,029;4;0,593;0
+No_Autorization;3YJJSXwimdwUQCwp6VJ1wG;Boy Blue;Buddy Love;0,363;0,716;246760;0,613;0,914;11;0,067;-10,948;1;0,0661;109,93;4;0,389;0
+No_Autorization;5Vd46pXPA18ky9n1t4OOiP;code red;Ragz Originale;0,272;0,655;155904;0,527;1,52E-05;10;0,0916;-7,592;0;0,051;82,037;4;0,723;0
+No_Autorization;0XW3UfxGKohQPt7FxaCuHU;Nobody Scared;Porij;0,625;0,793;219083;0,49;0,768;11;0,105;-11,191;0;0,0382;115,956;4;0,439;0
+No_Autorization;1E9oCoLMhffbcovDHF9bH5;I See You Sometimes;Vegyn;0,213;0,568;185787;0,654;0,076;7;0,119;-7,604;1;0,161;104,894;4;0,559;0
+No_Autorization;5hMI7HEe42DlvgIgKB22RJ;Watch Your Step (Harvey Sutherland Remix);Disclosure;0,244;0,832;230933;0,598;0,00186;4;0,0926;-5,466;0;0,0796;123,019;4;0,771;0
+No_Autorization;26lc7CmsO3vT5ZHxjdmBDd;Beato Classico;J Lloyd;0,0746;0,744;208960;0,695;0,757;2;0,0823;-6,807;0;0,0636;104,01;4;0,524;0
+No_Autorization;6NV1oF6zZ5VoVpICTsOLYD;Femme Fatale;Lemongrass;0,272;0,656;273469;0,643;0,981;10;0,373;-9,506;0;0,0317;130,04;4;0,556;0
+No_Autorization;72A0X1rotHBFozCFP5zjr0;Love Galaxy - Edit;Paul Epworth;0,0104;0,606;205517;0,68;0,000274;2;0,589;-7,099;0;0,146;87,014;4;0,295;0
+No_Autorization;204FgGC3890KCzUvtG33qV;The Ocean;Anchorsong;0,0255;0,891;242657;0,479;0,447;0;0,0901;-12,6;1;0,166;119,957;4;0,615;0
+No_Autorization;0HWtI9cjfnVzU0q3hHc0ph;Be Patient;Loverground;0,224;0,688;216794;0,462;0,217;0;0,0987;-13,723;1;0,032;114,036;4;0,35;0
+No_Autorization;6wbDXy6VCM9D0G8cLvhKUd;Cute;glue70;0,826;0,806;183925;0,479;0,108;7;0,0897;-11,324;0;0,0891;107,022;4;0,52;0
+No_Autorization;4I58pzQEyFpHLXyDGekkCc;Function;Tentendo;0,0382;0,905;197639;0,715;0,00623;3;0,14;-7,141;0;0,202;128,03;4;0,245;0
+No_Autorization;41BPaKM3OVc8gs3VXbAAu6;Moving;Dan Kye;0,262;0,899;315608;0,763;0,627;2;0,0869;-11,548;1;0,0601;122,005;4;0,905;0
+No_Autorization;3t9UffGSsulotQbSLrQTWY;Heart-Shaped Box;Amber Mark;0,581;0,458;169627;0,515;0;3;0,141;-7,845;0;0,181;80,683;4;0,219;0
+No_Autorization;6UYbt0ZVXP5pnrhzk8z2d8;fuego (feat. Tyler, The Creator);Channel Tres;0,0162;0,745;248765;0,504;0,00122;3;0,432;-10,405;0;0,307;114,901;4;0,434;0
+No_Autorization;4jbzmPDdZMp4JFcif3OPnH;Can You Feel It;Tom Misch;0,583;0,629;189684;0,581;0,761;7;0,259;-8,17;1;0,119;140,836;4;0,648;0
+No_Autorization;1mdJafthfNamlzyZayaOVM;Breathe In;Nightmares On Wax;0,0442;0,481;237973;0,727;0,0282;8;0,289;-8,848;1;0,0479;77,028;4;0,546;0
+No_Autorization;69aJGjfpWk9mrw6amJM6jC;Resonate;Tomos;0,241;0,799;272573;0,794;0,865;0;0,108;-8,844;1;0,0337;131,996;5;0,401;0
+No_Autorization;4LBrt8RUMpGhPXkLqvsh4U;Eye Mo K;Andrew Ashong;0,428;0,518;342591;0,546;0,265;4;0,129;-10,089;0;0,0859;117,986;4;0,592;0
+No_Autorization;3SUG6RZt3dSRM9jqJe460Z;safe;cktrl;0,139;0,43;208781;0,564;9,72E-06;4;0,204;-9,75;0;0,468;108,577;5;0,466;0
+No_Autorization;2KirxdpyaTzzgVEcnq1u1i;FTLOG;Jasper Tygner;0,679;0,818;247870;0,566;0,898;8;0,0802;-12,017;1;0,0866;125,993;4;0,187;0
+No_Autorization;02oUEbDQXcVITlLQKMPN1F;Ghostin';Wesley Joseph;0,346;0,856;197675;0,518;0,452;0;0,221;-10,217;1;0,192;117,018;4;0,161;0
+No_Autorization;71nnIbgnEsxPXyubrlNf6Z;All Made Up;Squidgenini;0,347;0,62;250519;0,58;0,000181;9;0,077;-8,969;1;0,337;119,896;4;0,255;0
+No_Autorization;1AUYOL4vebY2yB5aVYzHZH;Joyfulness - Radio Edit;Hector Plimmer;0,096;0,669;164875;0,657;0,00763;0;0,132;-9,595;0;0,0395;165,993;4;0,552;0
+No_Autorization;2mvaJ3YIHFuynpi6tlhBfb;Dust Rises;Gabriel Gifford;0,325;0,732;235720;0,342;0,00446;7;0,123;-14,28;1;0,0563;119,906;4;0,0624;0
+No_Autorization;0NytPw07A35rMOHJsBsYSa;Like I Loved You;Caribou;0,391;0,725;245960;0,688;0,65;1;0,114;-9,45;1;0,0572;100,006;4;0,638;0
+No_Autorization;1d3bEVe13VwmXu1l7ALKJa;Let Go;Girls of the Internet;0,0502;0,679;248135;0,393;0,78;4;0,112;-12,179;1;0,0404;103,022;4;0,193;0
+No_Autorization;5FAfSZWgGvX8feO5M0mBUe;Suffer and Swim;Sampology;0,104;0,783;208518;0,709;0,00679;9;0,346;-12,747;0;0,0609;123,979;4;0,902;0
+No_Autorization;3G1YAm52YxIp0jlxalE0hK;soulboy - IZCO Remix;p-rallel;0,0335;0,603;229320;0,687;0,0101;6;0,147;-4,08;0;0,0437;154,981;4;0,565;0
+No_Autorization;1F4u9meLzVwyHtoSWmjJJQ;Like a Butterfly;Baltra;0,613;0,74;199627;0,492;0,751;5;0,0714;-9,461;0;0,0311;93,014;4;0,558;0
+No_Autorization;0i7jazn1Rtp51KPM4iSs6z;Nightrider;Tom Misch;0,0774;0,729;300991;0,571;0,213;11;0,0994;-9,188;0;0,0869;81,486;4;0,582;0
+No_Autorization;4hNgMLdda6VpNHUKdgmRMU;Morning Matters;Yazmin Lacey;0,519;0,452;246800;0,556;0,0421;5;0,298;-9,094;0;0,145;82,01;4;0,473;0
+No_Autorization;79g4Bb5vUU63OfjXG2j9Af;Better Than Before;Gabriel Gifford;0,0864;0,672;231352;0,512;6,97E-05;7;0,229;-9,282;1;0,0765;100,003;4;0,637;0
+No_Autorization;3KKOxkUPWhKQssiMCSJxqO;Nah It Ain't The Same;Greentea Peng;0,408;0,599;251831;0,738;0,272;11;0,0816;-8,673;0;0,203;84,83;4;0,59;0
+No_Autorization;1qooiZqttVLM5Z2dHLofHM;Super Good Times;Suray Sertin;0,318;0,837;221217;0,518;0,082;6;0,101;-8,914;1;0,333;115,06;4;0,247;0
+No_Autorization;2pIZ6QqkFK6Ayg8pZGjomA;FYO;MICHELLE;0,279;0,869;164964;0,552;0,00445;5;0,105;-8,586;1;0,0367;106,999;4;0,617;0
+No_Autorization;7ErWxcxjkfmRXiL0CD08FN;I Don't Wanna Lose You - Edit;Girls of the Internet;0,12;0,77;194103;0,53;0,623;1;0,0847;-9,146;1;0,0363;125,992;4;0,649;0
+No_Autorization;13iySKnW33nZuTffrdNKkG;Roll The Dice;Oriyin;0,0212;0,576;209000;0,854;0,000132;6;0,213;-5,102;0;0,0527;114,794;4;0,679;0
+No_Autorization;66y1fdK0PkqdhD8yOleDBD;Apocalypse;J Lloyd;0,91;0,817;61280;0,514;0,0255;8;0,108;-9,318;1;0,109;94,052;4;0,682;0
+No_Autorization;58quqftrvxubZ9ZSxpW3eH;Red;Noya Rao;0,404;0,56;217128;0,405;0,251;8;0,12;-10,587;0;0,0284;74,49;4;0,21;0
+No_Autorization;141xElf21pwBjWf9EXYmCu;Half Hour Verve;Harvey Causon;0,78;0,487;245124;0,324;0,0469;3;0,105;-9,455;0;0,0511;115,821;4;0,132;0
+No_Autorization;5DCoLPjn4bBNmf41iVG5Vh;1985;Juls;0,225;0,711;170501;0,619;0,00584;2;0,0996;-10,797;0;0,0564;107,033;4;0,548;0
+No_Autorization;4GZEdwnAiQ96UmhiPetw33;Alcoholics;49th & Main;0,0668;0,818;253457;0,531;0,000135;1;0,133;-10,736;1;0,424;107,047;4;0,52;0
+No_Autorization;4AMw3vWRQxJJSCv0WVvofD;Cig Angel;Galcher Lustwerk;0,083;0,86;170882;0,319;0,0605;1;0,104;-10,882;1;0,079;114,414;4;0,723;0
+No_Autorization;1bFgz7ALuVIYDx7cjX9mPH;Sirens feat. KALLITECHNIS;Gayance;0,0303;0,882;171417;0,67;0,451;11;0,0691;-7,156;1;0,136;125,991;4;0,808;0
+No_Autorization;68HmXDuMXYeyhEhJCrXOKe;Morley's Preference;FYI Chris;0,111;0,84;342427;0,574;0,235;1;0,122;-9,873;0;0,0716;106,996;4;0,391;0
+No_Autorization;4hixQjNyyJVjFg1GNBhr4Q;Slow It Down - WaTa Remix;Àbáse;0,00281;0,705;187651;0,659;0;10;0,0919;-10,364;0;0,267;109,969;4;0,716;0
+No_Autorization;78KA3kXEWMoSaDwzSwbXkb;Lovely Lonely;Chloe Bodur;0,586;0,715;291960;0,367;0,314;7;0,1;-10,484;0;0,043;79,018;4;0,0995;0
+No_Autorization;0kFdA2tQCzdJBiafiBM0lA;Above;Girls of the Internet;0,198;0,788;185168;0,557;0,684;10;0,102;-12,923;0;0,0423;122,022;4;0,508;0
+No_Autorization;6QvCnbVDTKqQyyJRsnLlIS;Give A Little - Blue Lab Beats Remix;Ego Ella May;0,0195;0,642;197872;0,58;7,28E-06;5;0,078;-7,015;0;0,0547;93,938;4;0,447;0
+No_Autorization;5qeIAwW9nhHzpiKkPHusPY;Talk;Noya Rao;0,389;0,515;299688;0,44;0,276;5;0,0784;-11,919;0;0,166;181,517;4;0,272;0
+No_Autorization;48ZxMdmUA9CK7i31wn7bbx;Aquaself;Nightmares On Wax;0,634;0,668;376982;0,272;0,917;1;0,125;-16,349;1;0,0474;90,707;4;0,337;0
+No_Autorization;5PN5duvmEAumV2nuTJ3TWj;Moonlit Duty;Pinty;0,315;0,65;153290;0,79;0,0413;4;0,687;-7,383;0;0,173;61,028;4;0,372;0
+No_Autorization;0s8pNfoWRBD2yVGW1A8U5A;Cabrio;Misc.Inc;0,434;0,678;139525;0,235;0,774;9;0,104;-14,731;0;0,152;98,969;4;0,189;0
+No_Autorization;0o0jBWUuvn9VjpHxLky8ai;Moves;Cody Currie;0,0575;0,753;223537;0,765;0,0659;11;0,0846;-9,046;0;0,0603;121,07;4;0,628;0
+No_Autorization;7FZhZpPpfw9j8IDuqxtF8s;argentin;blnkspc_;0,825;0,847;173000;0,345;0,799;10;0,121;-12,301;1;0,343;102,983;4;0,409;0
+No_Autorization;0jX4GHNCQr7Fq0GvXWuF3t;Come Back;ZULA;0,0196;0,634;186000;0,561;0,00304;7;0,0589;-12,135;1;0,406;119,977;4;0,856;0
+No_Autorization;7lPt8ISy7ax86QSfl4I3Z7;swag w/ kav;Joy Orbison;0,000481;0,802;244707;0,564;0,257;10;0,119;-12,018;1;0,0672;134,018;4;0,331;0
+No_Autorization;0ufCBxOl6vL8Yhcu2Jl2a4;It's Nice to Be Alive;Vegyn;0,804;0,648;205893;0,66;0,839;5;0,0881;-7,129;1;0,0379;126,033;4;0,513;0
+No_Autorization;3HAv2Dh1VLRUYwuTGGo8v4;Quiet Nights Without You - Elsa Hewitt Remix;Gabriel Gifford;0,475;0,54;283000;0,545;0,412;5;0,114;-14,122;0;0,0372;117,287;3;0,438;0
+No_Autorization;1E5y9PZLIAngpD0L699Ul9;Cosmos (feat. Ty Dolla $ign);Paul Epworth;0,884;0,401;229542;0,487;0,596;0;0,556;-13,659;1;0,0413;109,978;3;0,227;0
+No_Autorization;6D6HuWcYLPzlseIYMMWFJj;Blessa (Instrumental);Toro y Moi;0,579;0,592;153002;0,426;0,893;3;0,148;-10,314;0;0,0357;100,033;4;0,277;0

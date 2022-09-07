@@ -1,0 +1,347 @@
+﻿USER_ID;TRACK_ID;NAME;ARTIST;Acousticness;Danceability;Duration_Ms;Energy;Instrumentalness;Key;Liveness;Loudness;Mode;Speechiness;Tempo;Time_Signature;Valence;Like
+No_Autorization;17i5jLpzndlQhbS4SrTd0B;Cello Suite No. 1 in G Major, BWV 1007: I. Prélude;Johann Sebastian Bach;0,89;0,275;152280;0,157;0,842;7;0,186;-18,752;1;0,0636;73,289;4;0,304;0
+No_Autorization;4SFBV7SRNG2e2kyL1F6kjU;The Well-Tempered Clavier: Book 1, BWV 846-869: I. Prelude in C Major, BWV 846;Johann Sebastian Bach;0,989;0,221;139307;0,126;0,897;0;0,102;-25,427;1;0,0447;133,63;4;0,216;0
+No_Autorization;3zLTPuucd3e6TxZnu2dlVS;Bagatelle No. 25 in A Minor, WoO 59 "Für Elise";Ludwig van Beethoven;0,987;0,289;212067;0,0306;0,911;9;0,102;-30,79;0;0,0446;125,61;3;0,118;0
+No_Autorization;7h6GoPvGHC9uzZJ8bNvfIq;Suite No. 3 in D, BWV 1068: 2. Air;Johann Sebastian Bach;0,918;0,0753;365147;0,07;0,947;2;0,146;-27,272;1;0,044;79,801;4;0,0625;0
+No_Autorization;5x3TUfYzgZIdt0Kaop64ss;Pachelbel: Canon & Gigue in D Major, T. 337: I. Canon;Johann Pachelbel;0,748;0,13;302093;0,158;0,924;2;0,1;-16,132;1;0,035;85,031;4;0,0998;0
+No_Autorization;1upQiytDIEZfl9ItruoXuC;Handel / Orch. Hale: Keyboard Suite No. 4 in D Minor, HWV 437: III. Sarabande;George Frideric Handel;0,927;0,0939;207267;0,0336;0,83;2;0,0954;-24,041;0;0,0606;67,359;3;0,0516;0
+No_Autorization;5fdp9rXfEixCGLM1Og4EN1;Gnossienne No. 1;Erik Satie;0,996;0,376;296480;0,00579;0,944;5;0,0882;-31,615;0;0,0576;71,827;4;0,0369;0
+No_Autorization;0jOnZhF75V68VsBObWx2XO;The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano);Camille Saint-Saëns;0,986;0,169;174267;0,0161;0,86;9;0,0805;-31,034;0;0,0442;128,143;3;0,0573;0
+No_Autorization;1cmigB9I6IRpFqjIbzvSQB;Suite bergamasque, L. 75: III. Clair de lune;Claude Debussy;0,993;0,335;294960;0,00501;0,919;1;0,0618;-33,366;1;0,0451;132,085;3;0,0383;0
+No_Autorization;6Uk28Hs2MulezLxMrd1rBD;Meditation: Méditation from Thaïs;Jules Massenet;0,873;0,205;337253;0,0686;0,402;4;0,0909;-23,415;0;0,0462;90,779;1;0,0359;0
+No_Autorization;0dzl6bBvsIAfHLlTbBObTW;An der schönen blauen Donau, Op.314;Johann Strauss II;0,975;0,233;707173;0,0252;0,604;2;0,143;-24,824;1;0,0346;94,736;4;0,0936;0
+No_Autorization;0pCHzhuRt6kOU3FUEG3HnC;Danse Macabre, Op. 40, R.171;Camille Saint-Saëns;0,898;0,371;442693;0,131;0,925;2;0,0847;-23,899;1;0,0413;105,328;4;0,0655;0
+No_Autorization;0cqcRqZgkNHanWQ8slYA0v;Mahler: Symphony No. 5 in C-Sharp Minor: IV. Adagietto. Sehr langsam;Gustav Mahler;0,896;0,0783;583293;0,0523;0,945;5;0,0806;-23,247;1;0,0471;82,015;4;0,0327;0
+No_Autorization;2kAgCRZPG3YQR2VMqRvLmb;The Lark Ascending;Ralph Vaughan Williams;0,902;0,0811;935360;0,0122;0,308;4;0,0648;-32,654;0;0,0511;74,554;4;0,0384;0
+No_Autorization;3QqPgzOcv9titKufFR0gsQ;Piano Concerto No.3 in C, Op.26: 1. Andante - Allegro;Sergei Prokofiev;0,948;0,353;564640;0,254;0,859;0;0,0843;-16,205;1;0,0349;133,808;4;0,0986;0
+No_Autorization;4rrrn8OLrttq7r9RgNXalU;Piano Concerto No. 2 in C Minor, Op. 18: 2. Adagio sostenuto;Sergei Rachmaninoff;0,983;0,194;644273;0,0545;0,945;4;0,0551;-24,877;1;0,0366;140,966;4;0,0385;0
+No_Autorization;0k6P9cdEA9K3k0ASde2Kof;Rodrigo: Concierto de Aranjuez: II. Adagio;Joaquín Rodrigo;0,93;0,253;640267;0,098;0,862;11;0,122;-19,878;0;0,0437;84,865;4;0,062;0
+No_Autorization;419qlOGNXoyICx4jO0hqaj;Rhapsody on a Theme of Paganini, Op. 43: Variation No. 18 Andante cantabile;Sergei Rachmaninoff;0,98;0,205;174653;0,0525;0,906;1;0,103;-23,841;1;0,0327;88,316;4;0,0511;0
+No_Autorization;3DNRdudZ2SstnDCVKFdXxG;Sonata No. 14 "Moonlight" in C-Sharp Minor", Op. 27 No. 2: I. Adagio sostenuto;Ludwig van Beethoven;0,995;0,184;315427;0,00527;0,887;1;0,173;-37,264;0;0,0432;170,612;3;0,151;0
+No_Autorization;04eShjKTWijeJJqGnhxpYK;Scheherazade: The Tale of the Kalendar Prince;Nikolai Rimsky-Korsakov;0,962;0,151;200360;0,0639;0,603;11;0,466;-24,404;0;0,0439;61,577;3;0,0797;0
+No_Autorization;5pjDwtMPly0cNMbuGXhUOI;Elgar: Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato;Edward Elgar;0,944;0,148;478573;0,0722;0,148;4;0,115;-25,217;0;0,0427;87,882;4;0,0467;0
+No_Autorization;0QTaXZRWdzfPdssiQThdCL;Piano Concerto in A Minor, Op. 16: I. Allegro molto moderato;Edvard Grieg;0,981;0,312;766213;0,0465;0,9;9;0,0872;-26,438;0;0,0378;130,303;3;0,0371;0
+No_Autorization;3GecLjGMqzjmgkvy2v41Wf;Ständchen in D Minor (After Schubert), S. 560;Franz Liszt;0,993;0,341;357747;0,0142;0,921;2;0,113;-28,293;1;0,0388;76,382;1;0,0384;0
+No_Autorization;2u9VGZmVz7Rm01SfDgzcfA;Liebestraum No. 3 in A-Flat Major, S. 541 / 3;Franz Liszt;0,987;0,279;293147;0,0292;0,902;8;0,104;-26,804;1;0,0406;136,732;3;0,0338;0
+No_Autorization;3af6PvJHP8XlFMWeuN7bF8;Andante festivo for Strings and Timpani, JS 34b;Jean Sibelius;0,484;0,113;337840;0,161;0,928;7;0,16;-20,046;1;0,0442;65,062;4;0,0365;0
+No_Autorization;0S0YKiEdR9cT9pYgEaTevF;O Magnum Mysterium: O magnum mysterium;Morten Lauridsen;0,991;0,0623;415800;0,0116;0,445;2;0,0816;-27,893;1;0,0567;65,057;3;0,0331;0
+No_Autorization;5xbuJuQsTVheVZvX2AJVIv;Spring 1;Max Richter;0,499;0,701;151507;0,341;0,903;1;0,359;-12,26;0;0,0418;105,513;3;0,163;0
+No_Autorization;7HSs4srn1qnZhh7WRWBVOk;Prokofiev: Romeo and Juliet, Op. 64, Act 1, Scene 2: Dance of the Knights;Sergei Prokofiev;0,927;0,21;341693;0,101;0,902;0;0,0776;-19,383;1;0,0403;86,314;4;0,153;0
+No_Autorization;2Z4aQJh0kesRMookvtfR4y;Piano Concerto in A Minor, Op.16: I. Allegro molto moderato;Edvard Grieg;0,975;0,303;820853;0,119;0,88;9;0,112;-18,055;0;0,0386;94,868;4;0,038;0
+No_Autorization;1CSaCKPIp2yCIDL3t7Fyau;Barber: Adagio for Strings, Op. 11;Samuel Barber;0,974;0,102;537427;0,0733;0,859;10;0,28;-24,133;0;0,0488;73,954;3;0,0308;0
+No_Autorization;2nVt0n0aSj3AwZjakMvDHX;Khachaturian: Spartacus (Highlights from the Ballet): Adagio of Spartacus and Phrygia;Aram Khachaturian;0,807;0,165;592040;0,106;0,782;8;0,105;-21,742;1;0,039;105,651;3;0,0336;0
+No_Autorization;4Dcm4KMuDz0l01weeSpD4J;Prince Igor (Knyaz Igor): Act II: Polovtsian Dances - Ulyetay na kril'yahk vyetra (Fly away on the wings of the wind) (version for chorus);Alexander Borodin;0,922;0,292;642573;0,246;0,525;2;0,107;-14,96;1;0,0385;109,766;4;0,0859;0
+No_Autorization;2fC30Rt5tFa6FA2jNb4fiz;Symphony No. 40 in G Minor, K. 550: I. Molto allegro;Wolfgang Amadeus Mozart;0,871;0,326;435160;0,33;0,749;7;0,128;-12,967;0;0,0406;118,668;4;0,293;0
+No_Autorization;4QfYHdV8hMoyS9qKUct98q;Elégie in C Minor, Op. 24 (Arr. Parkin);Gabriel Fauré;0,966;0,115;455467;0,0422;0,919;8;0,0896;-24,137;1;0,0404;87,855;3;0,037;0
+No_Autorization;3MRQn2RYo2VLYMoStnLRxu;Ravel: Pavane pour une infante défunte, M. 19;Maurice Ravel;0,994;0,491;346587;0,0176;0,927;4;0,0985;-26,911;0;0,0644;125,793;3;0,0901;0
+No_Autorization;0xX7kREWmOGBWzYNcpZwRN;Violin Sonata in A major, FWV 8: IV. Allegretto poco mosso;César Franck;0,958;0,25;364093;0,135;0,0349;9;0,0477;-18,615;1;0,0488;94,404;4;0,179;0
+No_Autorization;1Xy6MHSaX3IUGGqst6RzYM;Piano Concerto No. 1 in B-Flat Minor, Op. 23: I. Allegro non troppo e molto maestoso – Allegro con spirito;Pyotr Ilyich Tchaikovsky;0,976;0,212;1252322;0,119;0,907;1;0,087;-20,511;1;0,0366;84,346;3;0,0396;0
+No_Autorization;4wudbbceOZKjRlhTtbHvAs;Spiegel im Spiegel - Version for Violin and Piano;Arvo Pärt;0,899;0,176;636000;0,006;3,24E-05;5;0,105;-42,238;1;0,0384;71,477;3;0,0383;0
+No_Autorization;52GmHO5DikTIKc3yBmTTT1;Symphony No. 8 In B Minor, D.759 - "Unfinished": 1. Allegro moderato;Franz Schubert;0,901;0,1;906000;0,0354;0,865;11;0,125;-17,211;0;0,0387;73,968;4;0,0426;0
+No_Autorization;2OHnoGjn6X6kDwzO7Rw0Y9;The Sorcerer's Apprentice;Paul Dukas;0,797;0,351;577440;0,206;0,255;1;0,0738;-22,657;1;0,0597;130,415;4;0,0839;0
+No_Autorization;1Oo7XEqkrwifJn17aA0ocF;Sechs Klavierstücke, Op. 118: II. Intermezzo in A Major;Johannes Brahms;0,994;0,299;378733;0,00626;0,901;9;0,0823;-30,923;1;0,0478;69,043;4;0,0634;0
+No_Autorization;5Zf5prtvv7KRQ1J6kNn4C6;Serenade in B-Flat Major, K. 361 "Gran Partita": III. Adagio;Wolfgang Amadeus Mozart;0,991;0,191;330293;0,0363;0,924;3;0,141;-25,31;1;0,0409;69,754;4;0,0372;0
+No_Autorization;2MSgFefjK0T7Iwjvr3OKqV;Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth.;Frédéric Chopin;0,992;0,225;259493;0,0047;0,881;1;0,0722;-30,928;0;0,0509;163,665;4;0,186;0
+No_Autorization;4dGkPPLnIdVgogqpyaAjbc;Il barbiere di Siviglia: Overture (Sinfonia);Gioachino Rossini;0,906;0,322;425000;0,14;0,759;4;0,125;-20,747;1;0,0489;92,122;4;0,285;0
+No_Autorization;74WjYdm3Lvbwnds4thYPUU;Turandot / Act 3: "Nessun dorma!";Giacomo Puccini;0,963;0,212;177333;0,301;0,0033;2;0,13;-12,505;1;0,0384;84,025;4;0,0798;0
+No_Autorization;3VQ7hwiEfaHDl3AySgyaiR;Peer Gynt, Op. 23: Act II, 7, In the Hall of the Mountain King;Edvard Grieg;0,955;0,436;153267;0,151;0,793;11;0,11;-20,745;0;0,0603;103,777;4;0,359;0
+No_Autorization;6cC6h5E351deEGFd7Kh9uy;Paganini: 24 Caprices, Op. 1: No. 24 in A Minor;Niccolò Paganini;0,978;0,465;268853;0,128;0,271;9;0,0423;-17,628;0;0,0519;111,471;4;0,428;0
+No_Autorization;3NbAsIxDL0fVgNuCLD152P;Dolly, Op. 56: 1. Berceuse;Gabriel Fauré;0,995;0,37;176518;0,0076;0,91;4;0,0864;-33,663;1;0,0384;62,668;4;0,278;0
+No_Autorization;1ENZ1YHuOp5MMFJlWBQ6V7;Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav. Al tempo di Giga;Johann Sebastian Bach;0,994;0,31;140040;0,0555;0,906;7;0,121;-25,695;1;0,0395;70,515;4;0,566;0
+No_Autorization;2ceu417OdiSxzR3K7B1n2M;Symphonic Variations on an African Air, Op.63;Samuel Coleridge-Taylor;0,959;0,224;1215573;0,0291;0,845;7;0,106;-26,167;1;0,0455;121,131;4;0,0538;0
+No_Autorization;1MiWGSGDC5mGoP3MNclZ7s;The Rite of Spring: Part One: Adoration of the Earth: Introduction;Igor Stravinsky;0,947;0,101;208587;0,0241;0,847;11;0,0693;-30,172;0;0,0485;87,14;3;0,0329;0
+No_Autorization;43bSKCMWHIuBsUVmQcDX1J;Rêverie, L. 68: Rêverie;Claude Debussy;0,994;0,296;257000;0,00896;0,91;7;0,0815;-31,948;0;0,0394;69,44;3;0,0673;0
+No_Autorization;3Rw0Rg4LjlYnuxIyioW3vg;Violin Concerto No. 10 in G Major: Largo;Joseph Boulogne Chevalier de Saint-Georges;0,928;0,212;397640;0,0517;0,639;2;0,112;-24,467;1;0,0525;185,678;3;0,152;0
+No_Autorization;6VDHdry8ytOL2WWbePDxSD;Romance (Gadfly Op 97);Tasmin Little;0,969;0,116;195333;0,0694;0,644;0;0,109;-23,624;1;0,0497;169,789;4;0,0377;0
+No_Autorization;64ZxBE1ZgK4C0lGljXzDcG;The Four Seasons - Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": I. Allegro non molto;Antonio Vivaldi;0,81;0,48;204147;0,163;0,754;5;0,093;-19,117;0;0,0645;158,366;4;0,212;0
+No_Autorization;0w4LgJ5G1Xz5jLS3HX8oyq;Young Person's Guide To The Orchestra;Benjamin Britten;0,94;0,218;1050893;0,117;0,861;0;0,15;-18,585;1;0,0489;77,009;4;0,0599;0
+No_Autorization;0yzhOPf0iw2qWwcXRRta5L;Rhapsody In Blue;George Gershwin;0,976;0,309;890000;0,258;0,69;9;0,0924;-15,327;1;0,0459;74,568;4;0,115;0
+No_Autorization;6kg7bfwsTKzRqnBGGv4VqR;Piano Concerto in C-Sharp Minor, FP 146: I. Allegretto commodo - Live;Francis Poulenc;0,971;0,193;580253;0,0839;0,822;8;0,118;-22,849;1;0,0406;85,556;4;0,0569;0
+No_Autorization;0oIQl9tFpCiKBRavEIIGzo;Pelléas et Mélisande, Op. 80: 3. Sicilienne;Gabriel Fauré;0,938;0,164;233400;0,0194;0,859;3;0,0939;-34,126;1;0,0434;101,708;3;0,0581;0
+No_Autorization;7uf3aFC1msj0t5cYImgOWy;Serenade for Strings in C major, Op. 48: II. Walzer: Moderato, tempo di valse;Pyotr Ilyich Tchaikovsky;0,925;0,241;209373;0,122;0,66;7;0,126;-22,411;1;0,0497;66,325;4;0,187;0
+No_Autorization;6cUCckpdlqHJ5Ascf2uH2A;Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio;Ludwig van Beethoven;0,957;0,248;442000;0,298;0,9;0;0,0943;-15,661;0;0,0395;97,853;4;0,157;0
+No_Autorization;76wXMaJVSr0nSsKsSdwAiu;Piano Concerto No. 5 in E-Flat Major, Op. 73 "Emperor": II. Adagio un poco mosso - Live at Konzerthaus Berlin / 2018;Ludwig van Beethoven;0,978;0,166;473787;0,0363;0,922;11;0,0882;-26,822;1;0,0381;84,467;4;0,039;0
+No_Autorization;5DFUsGW4Cmltv8Spd0u1aV;On the Nature of Daylight;Max Richter;0,145;0,0891;371747;0,341;0,836;10;0,111;-12,681;0;0,046;85,231;3;0,0334;0
+No_Autorization;58Q96yWnuBqlKEGd2vGyAg;St. Matthew Passion, BWV 244 / Part Two: "Erbarme dich";Johann Sebastian Bach;0,935;0,24;423107;0,0648;0,0272;4;0,258;-25,208;0;0,0426;95,286;3;0,0771;0
+No_Autorization;5d6FOGCa0EDqCJSpccEh8s;Hungarian Dance No.5 in G Minor, WoO 1, No.5;Johannes Brahms;0,901;0,359;152160;0,046;0,118;6;0,277;-18,725;0;0,0407;127,653;4;0,263;0
+No_Autorization;4GnVpbnWjHFrpXjAcPHvqM;Ave Maria, D. 839;Franz Schubert;0,994;0,12;256573;0,138;0,686;10;0,11;-15,538;1;0,048;67,894;4;0,043;0
+No_Autorization;7dchPojQcmY6eMBFJAo64i;Cello Concerto No.1, Op.107: 1. Allegretto;Dmitri Shostakovich;0,963;0,463;359667;0,162;0,825;7;0,0943;-24,484;0;0,045;125,514;4;0,374;0
+No_Autorization;1aTpzY2ggWHhPi8p2f56u1;Goldberg Variations, BWV 988: Aria da capo - 1981 Version;Johann Sebastian Bach;0,995;0,436;224133;0,00518;0,932;7;0,0788;-36,593;1;0,067;135,286;5;0,275;0
+No_Autorization;0neipEnwEzyd66aUqUsg5P;Cello Concerto In B Minor, Op. 104, B. 191: I. Allegro;Antonín Dvořák;0,963;0,231;942000;0,133;0,659;2;0,135;-20,274;1;0,0437;122,239;4;0,0564;0
+No_Autorization;0mcgXc8P5GyGtP9aY7zir6;Piazzolla: Libertango;Alison Balsom;0,927;0,367;273562;0,316;0,779;9;0,113;-14,49;0;0,0429;149,089;4;0,242;0
+No_Autorization;5Wj90oTRAxvTUivep2HlUu;Symphony No. 3 in C Minor: II. Andante ma non troppo;Florence Beatrice Price;0,977;0,096;572520;0,0325;0,852;8;0,0738;-24,978;1;0,0416;87,85;4;0,035;0
+No_Autorization;1dFVnX4mJTnWubAPE8S3OR;Mephisto Waltz No. 1, S. 514;Franz Liszt;0,981;0,356;662600;0,152;0,903;4;0,0807;-20,155;1;0,0406;132,413;4;0,04;0
+No_Autorization;3jLcwFns5S9OYQojN8XAkJ;Symphony No. 9 in E Minor, Op. 95 "From the New World": II. Largo - Live;Antonín Dvořák;0,89;0,154;775307;0,00261;0,763;1;0,125;-36,267;1;0,0419;83,549;4;0,0366;0
+No_Autorization;5bVlEvO3SadcOyh6rnWW4P;Merry Christmas Mr. Lawrence (Arr. Metcalfe);Ryuichi Sakamoto;0,984;0,339;277148;0,0588;0,862;10;0,12;-17,647;0;0,0373;105,916;4;0,198;0
+No_Autorization;4fDodwdZ1LBDL2I2WCnUMY;Flight of the Bumblebee;Nikolai Rimsky-Korsakov;0,977;0,458;84267;0,11;0,903;9;0,359;-22,234;0;0,0309;83,43;4;0,481;0
+No_Autorization;7xGcLLeK1de0I71lH28DeM;Symphony No. 5 in E-Flat Major, Op. 82: 3. Allegro molto;Jean Sibelius;0,891;0,144;482000;0,0868;0,904;8;0,177;-23,338;1;0,0387;94,463;3;0,0737;0
+No_Autorization;72jIJDADnBLJKXV2yxv5N0;String Sextet in D Minor, Op. 70, "Souvenir de Florence": I. Allegro con spirito;Pyotr Ilyich Tchaikovsky;0,894;0,352;626240;0,235;0,675;2;0,396;-16,235;1;0,0398;109,16;1;0,329;0
+No_Autorization;5i7bLnNE0R3m1MNUY7UsqT;Sonata for 2 pianos in D, K.448: 1. Allegro con spirito;Wolfgang Amadeus Mozart;0,991;0,377;500500;0,173;0,909;9;0,103;-21,377;1;0,0329;132,187;4;0,558;0
+No_Autorization;246ntJR3A2s7B5E40FTCLf;Hummel: Trumpet Concerto In E Flat - Iii Rondo;Johann Nepomuk Hummel;0,98;0,496;224640;0,249;0,934;3;0,12;-18,131;1;0,0411;144,239;4;0,719;0
+No_Autorization;5U7T2widXE5MqoQ6dmi3O9;Widmung, Op. 25 No. 1;Robert Schumann;0,992;0,357;239333;0,0464;0,859;8;0,109;-20,868;1;0,0434;69,859;3;0,0417;0
+No_Autorization;3sAYxq1986j3ydqLv6jwUJ;Serenade for Strings in E Major, Op. 22, B. 52: II. Tempo di valse;Antonín Dvořák;0,755;0;432533;0,0842;0,889;9;0,262;-19,397;1;0;0;0;0;0
+No_Autorization;2dEbRirkEtImY7HdYxrgRS;Delius: 2 Pieces for Small Orchestra: No. 1, On Hearing the First Cuckoo in Spring;Frederick Delius;0,851;0,0716;349760;0,0408;0,901;7;0,0844;-28,284;1;0,0399;77,047;4;0,0377;0
+No_Autorization;408VC5UfnAh3Uhl0RQpbkA;Symphony No. 6 in F Major, Op. 68 "Pastoral": I. Awakening of Cheerful Feelings Upon Arrival in the Country: Allegro ma non troppo;Ludwig van Beethoven;0,932;0,302;716933;0,0355;0,304;0;0,043;-24,074;1;0,0363;115,104;4;0,186;0
+No_Autorization;2TB6PQkgnw9rrFRK4VOOrC;Nocturne No.2 in E flat major, Op.9 No.2;Frédéric Chopin;0,985;0,411;248933;0,0487;0,918;10;0,0944;-25,68;1;0,0383;128,859;1;0,101;0
+No_Autorization;2mPd1593fOWtbSGqA0VVcS;Violin Concerto In E Minor, Op.64, MWV O14: 1. Allegro molto appassionato;Felix Mendelssohn;0,917;0,278;730667;0,151;0,122;4;0,273;-19,607;0;0,042;99,212;4;0,167;0
+No_Autorization;63cA2QfqtWZa0GGPZnYc0K;Clarinet Concerto in A Major, K. 622: 2. Adagio;Wolfgang Amadeus Mozart;0,98;0,0999;532040;0,0241;0,766;2;0,0623;-25,651;1;0,0432;89,001;3;0,0396;0
+No_Autorization;5CfxpBCYwfB17MMgARumHl;Respighi: Pini di Roma, P. 141: III. I pini del Gianicolo;Ottorino Respighi;0,901;0,0754;462162;0,0102;0,106;4;0,0817;-35,69;1;0,0464;81,324;4;0,0331;0
+No_Autorization;5eQKtxGSPvl9NEPXAuzzTJ;The Nutcracker, Op. 71, TH.14 / Act 2: No. 12b Coffee (Arabian Dance);Pyotr Ilyich Tchaikovsky;0,941;0,156;191160;0,00709;0,799;7;0,0986;-34,153;0;0,0382;97,925;3;0,041;0
+No_Autorization;3uLsZpdHrJsR9AjrrxMI66;Violin Concerto No.1 in G minor, Op.26: 1. Vorspiel (Allegro moderato);Max Bruch;0,864;0,169;473893;0,0974;0,632;3;0,087;-21,414;1;0,042;170,379;5;0,0524;0
+No_Autorization;6GDuB7BvASYD9JePYvOEX1;Orfeo Ed Euridice: Dance Of The Blessed Spirits (Act 2);Christoph Willibald Gluck;0,972;0,203;410160;0,0641;0,94;5;0,101;-27,51;1;0,0529;73,105;3;0,0978;0
+No_Autorization;4O2N861eOnF9q8EtpH8IJu;Comptine d'un autre été, l'après-midi;Yann Tiersen;0,991;0,484;140733;0,192;0,908;2;0,106;-15,378;1;0,0465;100,084;4;0,0559;0
+No_Autorization;6vS8JCT9WqTFeAuu8smjRF;Appalachian Spring: VII. Doppio movimento;Aaron Copland;0,978;0,186;183267;0,124;0,865;1;0,111;-15,271;1;0,0434;77,903;4;0,248;0
+No_Autorization;6zcP5A5Xv6bvCUpwXrswKa;Nascence;Austin Wintory;0,936;0,203;106960;0,112;0,935;11;0,126;-18,029;0;0,0418;72,483;4;0,0374;0
+No_Autorization;4EcOBeGY1r0j26Z8FJ1nVZ;Speaking Unto Nations (Beethoven Symphony no 7 - II );Ludwig van Beethoven;0,513;0,093;302987;0,0249;0,805;4;0,0831;-20,74;0;0,0463;79,369;3;0,0365;0
+No_Autorization;7vJhOBgOkXyEJvw1vsU6HB;Symphony No. 3 in F Major, Op. 90: I. Allegro con brio - Un poco sostenuto - Tempo I;Johannes Brahms;0,976;0,156;703720;0,0978;0,893;5;0,0854;-16,326;1;0,0371;179,447;3;0,0638;0
+No_Autorization;3pzBD8BVdrv7VJ7glRYshl;Carmen, Act I: No.5 Habanera : L'amour est un oiseau rebelle (Carmen/Cigarières/Jeunes gens/Dragons);Georges Bizet;0,978;0,364;275467;0,0592;0;2;0,0823;-21,757;1;0,057;123,789;4;0,185;0
+No_Autorization;1M2RkUUJ9wXRsW3jN1MCHS;4 Impromptus, Op.90, D.899: No.4 in A Flat Major: Allegretto;Franz Schubert;0,987;0,343;497773;0,0209;0,922;8;0,126;-27,015;1;0,0398;125,242;3;0,0393;0
+No_Autorization;6mhQ7eOHaV0ur2ooKTavW1;Tchaikovsky: 1812 Overture in E-Flat Major, Op. 49;Pyotr Ilyich Tchaikovsky;0,886;0,173;905667;0,182;0,894;3;0,224;-18,848;1;0,0437;70,831;4;0,0781;0
+No_Autorization;46tPGzCXCI2oKsemztDA9u;Parce Mihi Domine;Jan Garbarek;0,995;0,193;402493;0,0656;0,829;10;0,119;-19,239;1;0,0471;128,975;3;0,0359;0
+No_Autorization;5Pl2CXDkaP6WEnJ0bpKGOm;Organ Sonata No. 4, BWV 528: II. Andante [Adagio] (Transcr. by August Stradal);Johann Sebastian Bach;0,992;0,384;326520;0,0414;0,897;11;0,0684;-23,019;0;0,0378;71,224;4;0,0618;0
+No_Autorization;3Ii2KG3YLrC0KNbuJKAFj2;The Godfather: V. Love Theme;Nino Rota;0,96;0,099;170400;0,0567;0,81;1;0,104;-20,712;1;0,0398;82,744;4;0,0456;0
+No_Autorization;3Hcn3NlLeDU4uQf0qJaaMt;The Hebrides, Op. 26 (Fingal's Cave);Felix Mendelssohn;0,841;0,219;616187;0,154;0,855;11;0,164;-18,17;0;0,0389;123,625;4;0,108;0
+No_Autorization;0XSRBlP49MgzBCYtGK2NYE;Symphony No. 3 in C Minor, Op. 78 "Organ Symphony": 2b. Maestoso - Più allegro - Molto allegro;Camille Saint-Saëns;0,871;0,223;469053;0,227;0,891;0;0,063;-17,695;1;0,0343;103,618;4;0,127;0
+No_Autorization;6HknRM996YMa7VSBFYlnPJ;Sibelius: Finlandia, Op. 26;Jean Sibelius;0,903;0,177;485667;0,127;0,901;8;0,114;-19,167;1;0,0394;149,698;4;0,0612;0
+No_Autorization;7FTzC8srNaQ0fTNOCyPeib;Cavatina (The Dear Hunter);Lars Hannibal;0,99;0,366;204007;0,0433;0,903;4;0,085;-30,56;1;0,0416;88,452;4;0,356;0
+No_Autorization;3gEyQ5y2NvIaqfTG4VU98n;Rhapsodie Orientale, Op. 29: 1. Andante;Alexander Glazunov;0,978;0,0989;272440;0,0176;0,651;1;0,0763;-30,951;1;0,042;89,327;3;0,0351;0
+No_Autorization;6oaSX9Q0uZi8x6DttspP5D;St. Paul's Suite, Op. 29 No. 2, H 118: 3. Intermezzo: Andante con moto;Gustav Holst;0,66;0,251;250253;0,0657;0,845;4;0,114;-20,757;0;0,0449;133,095;3;0,15;0
+No_Autorization;0qFZYO72iBOhW7X6KbL44Q;Carmina Burana: I. O Fortuna;Carl Orff;0,931;0,339;167640;0,0937;0,293;2;0,252;-20,267;1;0,0394;123,048;3;0,458;0
+No_Autorization;123zFAGx0F5ScgrLrCWGDX;Variations on a Rococo Theme, Op. 33 for cello and orchestra: Var. VI: Andante;Pyotr Ilyich Tchaikovsky;0,965;0,204;156573;0,0305;0,268;2;0,111;-31,159;1;0,0462;114,214;5;0,0394;0
+No_Autorization;18ZnvEB9bxLnvSogWRek79;Jazz Suite No.2: 4. Waltz I;Dmitri Shostakovich;0,931;0,23;204373;0,2;0,934;10;0,0855;-18,457;1;0,0404;103,923;4;0,185;0
+No_Autorization;7bvuOKIFqMyRSkLozmaoRg;Adagio For Strings And Organ In G Minor;Remo Giazotto;0,559;0,0781;708933;0,0462;0,863;0;0,188;-23,246;0;0,0365;81,291;4;0,0343;0
+No_Autorization;29ym283kpgDLDvpHkBFmFN;Serse, HWV 40: Ombra mai fù;George Frideric Handel;0,558;0,132;176547;0,195;0,406;5;0,108;-16,485;1;0,0451;163,425;4;0,0492;0
+No_Autorization;3U34uG4BRoMb0lrlrOhtxC;Trois chansons, M.69: 2. Trois beaux oiseaux du Paradis;Maurice Ravel;0,971;0,201;201000;0,0113;0,000853;8;0,0678;-37,468;1;0,0447;128,673;1;0,0387;0
+No_Autorization;7x5ULIYm82gnWvhYCXfzyj;Trumpet Concerto in D Major, TWV 51:D7: I. Adagio;Georg Philipp Telemann;0,953;0,176;119627;0,132;0,586;1;0,0886;-16,932;1;0,0408;74,287;4;0,0835;0
+No_Autorization;0URENFI2Nk9oVMdhz4SQKM;Nimrod (Lux Aeterna);Edward Elgar;0,993;0,0987;232667;0,0949;0,353;1;0,0847;-21,002;1;0,0441;174,606;4;0,0363;0
+No_Autorization;1bTXAKwE2Hztv13xTAhMQB;Solomon HWV 67 / Act 3: The Arrival Of The Queen Of Sheba;George Frideric Handel;0,878;0,625;191493;0,351;0,938;10;0,0569;-15,884;1;0,0423;116,961;4;0,794;0
+No_Autorization;1opln0FV3xQdUJxt9bWhgB;Symphony No. 25 in G minor, K.183: 1. Allegro con brio;Wolfgang Amadeus Mozart;0,989;0,441;461000;0,176;0,888;7;0,108;-15,719;0;0,0376;79,599;4;0,325;0
+No_Autorization;2z7iDr3N4NbW4VmwpQWbTS;Nonet in E-Flat Major, Op. 38: III. Scherzo. Vivace;Louise Farrenc;0,976;0,39;307893;0,0462;0,624;0;0,0893;-24,885;1;0,0429;79,268;4;0,305;0
+No_Autorization;2Cc5z5swQrDqZiyCkZ0TnF;String Quartet: I. Modere;Germaine Tailleferre;0,959;0,262;147040;0,107;0,463;4;0,195;-17,973;1;0,0448;76,65;4;0,136;0
+No_Autorization;1SHixA41Vy0TTlJJSX9Gbo;Symphonie fantastique, Op. 14: Symphonie fantastique, Op. 14: IV. Marche au supplice;Hector Berlioz;0,95;0,356;431787;0,207;0,914;10;0,0802;-17,76;1;0,0388;146,755;4;0,328;0
+No_Autorization;5bi8ryL6gy6a1BRXOf43y9;Etude No. 2;Philip Glass;0,992;0,235;295560;0,166;0,87;5;0,101;-19,632;1;0,0347;101,182;4;0,0356;0
+No_Autorization;4TYZpMB5tGOdlMmnS2pB2m;Symphony No. 104 in D Major, Hob.I:104 "London": 4. Finale (Spiritoso) - Live from City Recital Hall, Sydney, 2018;Franz Joseph Haydn;0,848;0,461;381467;0,175;0,762;2;0,0985;-17,217;1;0,037;73,559;4;0,358;0
+No_Autorization;0nrCOJpS3gpwLvoANVZEeJ;Prelude & Fughetta in G Major, BWV 902: I. Prelude;Johann Sebastian Bach;0,992;0,38;206427;0,254;0,926;2;0,117;-24,967;1;0,0365;101,1;4;0,805;0
+No_Autorization;5a0nC0tGDJBpGMZu3PeekY;3 Pieces for cello and piano: No. 1. Modere;Nadia Boulanger;0,988;0,164;157067;0,0185;0,888;3;0,0801;-30,778;0;0,0412;86,65;4;0,078;0
+No_Autorization;50VVlZROGaROAwNqAMxA6B;Kinderszenen, Op. 15: No. 7 in F Major, Träumerei;Robert Schumann;0,995;0,453;186200;0,00715;0,931;5;0,0647;-33,859;1;0,0709;135,407;3;0,257;0
+No_Autorization;36ArELybUeOgq9TCjrMsIb;Symphony No. 4 in E-Flat Major, WAB 104, "Romantic": I. Bewegt, nicht zu schnell - Live;Anton Bruckner;0,948;0,0704;1150160;0,0657;0,874;8;0,108;-19,466;1;0,0387;61,017;4;0,0361;0
+No_Autorization;2x6mect1PKsrxXmsg2O23B;Lohengrin: Prelude;Richard Wagner;0,928;0,0667;596000;0,047;0,9;9;0,0652;-25,426;1;0,0425;75,446;4;0,0281;0
+No_Autorization;1EGFCxKCQ3isMnlPzEW8G1;Nocturne No.1 in B flat minor, Op.9 No.1;Frédéric Chopin;0,982;0,354;334053;0,0179;0,906;1;0,0831;-24,846;1;0,0385;61,202;4;0,0381;0
+No_Autorization;7kTVe6XhIveidvkt8nb7jK;3 Gymnopédies: No.1 Lent et douloureux;Erik Satie;0,996;0,59;219760;0,00399;0,946;7;0,0683;-36,497;1;0,242;74,381;3;0,182;0
+No_Autorization;3nxaPqAOxUxkLhIhbvmv4t;Violin Concerto BWV 1042 in E Major: Violin Concerto BWV 1042 in E Major: I. Allegro;Johann Sebastian Bach;0,829;0,441;453507;0,319;0;3;0,0765;-13,99;1;0,0392;99,419;4;0,671;0
+No_Autorization;07xafomqQcYmFJbr4jpfHa;Holberg Suite, Op. 40: 1. Präludium (Allegro vivace);Edvard Grieg;0,91;0,237;179893;0,0606;0,939;7;0,131;-22,569;1;0,0374;136,284;4;0,256;0
+No_Autorization;0Gh45IbIKOG9IucFfrZqLT;Cello Concerto No. 1 in C Major, Hob.VIIb:1: III. Allegro molto;Franz Joseph Haydn;0,984;0,375;424307;0,121;0,871;0;0,0984;-23,44;1;0,0406;147,398;4;0,453;0
+No_Autorization;1oMtwEc8xjDTNarCsMlI8B;Prélude à l'après-midi d'un faune, L.86;Claude Debussy;0,964;0,102;644333;0,0259;0,864;8;0,0972;-30,196;0;0,0444;90,128;4;0,0319;0
+No_Autorization;06am46cX3Z6YlSsg0TyVHA;Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 2, March;Pyotr Ilyich Tchaikovsky;0,977;0,444;145613;0,116;0,868;4;0,0862;-23,172;0;0,041;150,319;4;0,512;0
+No_Autorization;1t4F79zRBJTwZAzmbO1LI0;Scottish Fantasy for Violin and Orchestra, Op. 46: I. Introduction: Grave, Adagio cantabile;Max Bruch;0,877;0,106;530280;0,227;0,738;3;0,112;-15,286;1;0,0462;59,94;4;0,0391;0
+No_Autorization;67TCAXIe154ZGDNaWceqxC;String Quartet No. 62 in C Major, Op. 76, No. 3, Hob.III:77, "Emperor": II. Poco adagio, cantabile;Franz Joseph Haydn;0,984;0,159;462627;0,0401;0,76;7;0,156;-27,516;1;0,0446;106,239;4;0,106;0
+No_Autorization;4ZP3UMVksKg07IeeAjHkEy;Concerto For 2 Mandolins, Strings And Continuo In G, RV 532: 3. Allegro;Antonio Vivaldi;0,764;0,548;230507;0,208;0,22;1;0,0929;-21,278;1;0,0421;144,352;3;0,79;0
+No_Autorization;7wvy3ROg2vEJyWgjDvMD8m;The Lamb;John Tavener;0,924;0,0874;236827;0,0474;0,768;4;0,149;-23,13;0;0,0532;72,393;3;0,0331;0
+No_Autorization;1Q9JMojxHHF6JbEJAKJLgj;Les Baricades Mistérieuses (6e ordre);François Couperin;0,99;0,191;100347;0,0946;0,933;10;0,101;-25,59;1;0,0365;110,502;4;0,348;0
+No_Autorization;30CNRidKfNGwImhmvHpUS0;Rigoletto / Act 3: "La donna è mobile";Giuseppe Verdi;0,961;0,36;143573;0,196;6,05E-06;6;0,0911;-13,706;1;0,037;118,233;5;0,401;0
+No_Autorization;1CDEWKmyRTPWWa7uIKVSU4;Vaughan Williams: Job, a Masque for Dancing, Scene 9: Epilogue;Ralph Vaughan Williams;0,866;0,129;208067;0,00212;0,662;7;0,082;-43,738;0;0,0417;99,253;3;0,039;0
+No_Autorization;0mTUTkFQ2MxmUHFL8EdfeR;The Firebird (L'oiseau De Feu) - Suite (1919): Finale;Igor Stravinsky;0,73;0,123;192453;0,225;0,509;4;0,0658;-16,798;1;0,0351;78,132;3;0,055;0
+No_Autorization;0iEIVX3DPGPX3ESUEXNsQv;Kol Nidrei - Adagio For Cello, Opus 47;Max Bruch;0,979;0,11;649200;0,128;0,871;2;0,368;-21,281;1;0,0458;81,059;3;0,0398;0
+No_Autorization;5UUNrbwbYIkNshq22NNKrX;String Quartet No. 1 'Kreutzer Sonata': String Quartet No. 1 'Kreutzer Sonata': I. Adagio. Con moto;Leoš Janáček;0,931;0,194;266733;0,101;0,714;11;0,221;-21,772;1;0,048;91,74;3;0,074;0
+No_Autorization;4VVEfBXep7FdOt524jkfLF;Young Birches, Op. 128, No. 2;Amy Beach;0,978;0,24;159320;0,0834;0,944;6;0,0804;-29,545;0;0,0499;169,621;4;0,188;0
+No_Autorization;7hOLwSaTSkrqxSMzj4bXI1;Violin Concerto in D Major, Op. 35, TH. 59: III. Finale: Allegro assai vivace;Erich Wolfgang Korngold;0,938;0,405;424653;0,318;0,723;9;0,284;-17,14;1;0,0565;151,434;4;0,342;0
+No_Autorization;1uARLLfeQPlBf1jSN4P0yK;Tahiti Trot, Op. 16 (orchestral transcription of Youmans' Tea for Two): Taiti Trot (Tahiti Trot), Op. 16 (arr. of V. Youmans - Tea for Two);Dmitri Shostakovich;0,95;0,291;249640;0,0981;0,865;8;0,275;-23,156;1;0,0398;138,168;4;0,194;0
+No_Autorization;53ann6bENp7BF8uklrzQAp;The Promise;Michael Nyman;0,937;0,0992;256493;0,226;0,903;9;0,183;-14,84;0;0,0339;79,518;4;0,0605;0
+No_Autorization;5LqyJJiZ3X74giX7n0QxjF;Epilogue;Ólafur Arnalds;0,983;0,172;246258;0,0881;0,911;8;0,0849;-15,183;1;0,0381;76,17;4;0,0845;0
+No_Autorization;4xqay5NL9jPHSCP2mo3U67;Le Jardin de Monsieur Monet;Stephan Moccio;0,992;0,357;313973;0,0431;0,948;2;0,13;-25,461;1;0,0334;131,976;4;0,0698;0
+No_Autorization;3xjaaBf7ef5TWermNspKOM;Bylur;Eydís Evensen;0,94;0,184;251173;0,207;0,931;2;0,0772;-17,119;1;0,033;79,979;3;0,089;0
+No_Autorization;08ciGXj3HGPuY6jACqds83;Future Love - Reimagined by Pêtr Aleksänder instrumental;Ride;0,0133;0,2;183187;0,293;0,498;10;0,254;-18,822;1;0,0364;149,445;4;0,0417;0
+No_Autorization;4xVyVtz7RnAlmlbBh2lJO2;Berceuse;Felix Rösch;0,99;0,222;127147;0,0285;0,867;0;0,163;-28,619;0;0,0352;79,693;1;0,152;0
+No_Autorization;4YBjc5fCZrFzpYYfzKI2Vv;Black Dog;Autonomy;0,952;0,406;127995;0,255;0,852;4;0,11;-13,243;1;0,0331;77,739;4;0,0808;0
+No_Autorization;4rCH64jtPj5dp8jSXAVYWg;Itasca;Elskavon;0,979;0,603;166880;0,139;0,949;7;0,185;-17,859;1;0,0433;133,037;4;0,267;0
+No_Autorization;5IiLoZK1u0cRrPWIRnydXG;Sinfonia (After Bach, BWV 248);Joep Beving;0,991;0,485;280500;0,0293;0,902;4;0,0964;-30,251;0;0,031;80,014;3;0,0423;0
+No_Autorization;3NJy8hN4OXIMyqbskBsL8v;Respite;Ólafur Arnalds;0,994;0,4;163861;0,0333;0,881;8;0,0947;-28,054;1;0,0389;131,254;4;0,239;0
+No_Autorization;57YoIlL4U1khGfYI5JEBEk;Wandering II;Eydís Evensen;0,865;0,0951;159747;0,155;0,776;7;0,0922;-20,447;0;0,0342;163,072;3;0,138;0
+No_Autorization;2YAjAXgl0GVtuZ6uDH6aWl;Triptych 1 for Piano;Pêtr Aleksänder;0,986;0,287;159000;0,161;0,911;5;0,118;-24,411;1;0,037;132,745;4;0,39;0
+No_Autorization;0XJq2OGUGCNXq3FfAFL4dw;Chasing the Present;Snorri Hallgrímsson;0,983;0,178;182837;0,063;0,954;5;0,0845;-27,571;0;0,0347;207,811;4;0,0396;0
+No_Autorization;4MJ8OAVknShOQ4gvNOfiLk;Arrival;Jeremiah Fraites;0,977;0,467;273707;0,117;0,886;11;0,0947;-24,746;0;0,0345;126,188;4;0,199;0
+No_Autorization;2DmIDwMhMA3V0KipI78nM1;No Step on Wing;Nils Frahm;0,931;0,181;286986;0,161;0,947;11;0,134;-27,538;1;0,0348;93,444;4;0,24;0
+No_Autorization;4YKGgZIimpmpWNKcfsaKEq;Klass;Tom Ashbrook;0,95;0,286;392792;0,193;0,951;6;0,139;-19,867;1;0,0383;172,841;4;0,0882;0
+No_Autorization;4jgazYikKO5Xhctuhc0snS;Deux Pensées;Darker In Vine;0,99;0,137;169366;0,0704;0,98;10;0,0998;-22,206;1;0,0429;90,407;4;0,0379;0
+No_Autorization;4GseyfbqLyCeaUeXOmsCY2;Respite;Goldmund;0,933;0,106;181107;0,116;0,931;0;0,0994;-14,665;1;0,035;58,5;4;0,0621;0
+No_Autorization;5nW41zamR8GqKYUxvxo12d;TREE;Ólafur Arnalds;0,985;0,304;278400;0,0903;0,891;2;0,0622;-17,408;0;0,0326;180,293;3;0,165;0
+No_Autorization;01hFM9dS9M6lN4rUvo4A2u;The Dive;Peter Gregson;0,956;0,152;225475;0,0542;0,844;2;0,104;-23,323;0;0,0378;90,94;4;0,153;0
+No_Autorization;3Jff69kvbsXnRwHnJTOL2A;Stars Light Up The Water;Comet Blue;0,989;0,266;136625;0,0363;0,915;8;0,0957;-25,939;1;0,0348;171,154;4;0,265;0
+No_Autorization;5OySktqTcVI9raXKmrdGNr;Éclosion;Tony Anderson;0,965;0,514;295200;0,174;0,964;9;0,0998;-28,958;0;0,0544;150,056;4;0,513;0
+No_Autorization;0jWFW9fhF9YoEEUVBfUSXC;At Dawn;Henning Schmiedt;0,959;0,209;152127;0,0446;0,863;10;0,102;-27,802;1;0,029;96,922;4;0,0783;0
+No_Autorization;3KcxIhIMJD7jrsrpczNbfU;Solitude I;Tom Ashbrook;0,979;0,178;229878;0,0418;0,89;1;0,109;-28,243;1;0,0441;178,259;3;0,075;0
+No_Autorization;6Rkp6fEsvOTR7YxsW5uNyR;My Friend the Forest;Nils Frahm;0,994;0,396;368669;0,0012;0,944;3;0,112;-38,004;0;0,0671;79,932;1;0,296;0
+No_Autorization;10BepUUYRLzp0QV2NoEDAB;Tramlines;Neil Cowley;0,985;0,234;226669;0,0129;0,925;2;0,105;-29,399;0;0,029;68,011;4;0,152;0
+No_Autorization;3KewUrX9nBSs6KMtFvw6wq;Longhope - Edit;Erland Cooper;0,863;0,275;211000;0,418;0,951;6;0,132;-12,939;1;0,0514;136,518;4;0,102;0
+No_Autorization;05J7mr2kIdHciLOO5ISSia;Current;Phoria;0,964;0,254;350974;0,117;0,875;8;0,111;-21,35;0;0,0376;78,533;4;0,0447;0
+No_Autorization;7djcz9efRuDz8jklVJn4DC;Partisans;Ólafur Arnalds;0,981;0,062;236395;0,0249;0,827;0;0,236;-20,035;0;0,0465;67,952;3;0,0306;0
+No_Autorization;3Q1jt1WHNwsszyEAJmyaRL;Somnia;Peter Gregson;0,574;0,0761;198324;0,136;0,68;7;0,109;-23,502;1;0,0444;81,738;4;0,0381;0
+No_Autorization;0lAdbtwKnf92FXD5p5N03h;Forest Path;Damjan Krajacic;0,992;0,321;414255;0,0891;0,93;9;0,0922;-19,412;1;0,0331;188,077;3;0,27;0
+No_Autorization;1QwnjxsFzruTTCbuuKQdnH;The Garden;Doug Kaufman;0,917;0,214;176062;0,243;0,912;6;0,0657;-17,301;1;0,0319;80,187;4;0,0381;0
+No_Autorization;71rfSw8kdWU28fZV3oBNFN;Like Glass;VOISART;0,96;0,201;150793;0,0729;0,829;7;0,362;-23,906;1;0,0343;71,807;5;0,0746;0
+No_Autorization;171fKTIvL8wDal3N6Uv0Bk;A Collective Destiny;Luke Howard;0,958;0,233;262000;0,00786;0,905;7;0,106;-31,624;1;0,0528;132,011;3;0,0686;0
+No_Autorization;3xNGLXWGtyFsDREQJqhV8s;Leicester;Lambert;0,994;0,473;275666;0,108;0,932;5;0,118;-24,519;0;0,0421;137,057;4;0,749;0
+No_Autorization;6qrRrLT4NGgnhjF0Ur4JnD;Still Blue;Olivia Belli;0,924;0,175;374662;0,185;0,958;5;0,0994;-19,733;1;0,0382;145,038;5;0,0545;0
+No_Autorization;1n8VEQ0V6kUIhuMwg6R0eQ;Spiral - Sunrise Session;Ólafur Arnalds;0,982;0,206;250160;0,0999;0,868;8;0,106;-17,834;1;0,039;74,726;4;0,0576;0
+No_Autorization;1sk2K7lpkZgAbTRjF07HhK;Nouveau-Né (Re-Imagined);Phoria;0,989;0,415;200863;0,0711;0,871;11;0,0856;-27,629;1;0,0355;79,004;4;0,11;0
+No_Autorization;53sR7EKIy3Yc2a3xPXMz9h;The Turning Year;Roger Eno;0,972;0,414;160089;0,1;0,902;5;0,109;-18,42;1;0,031;95,075;4;0,106;0
+No_Autorization;7z8IVlpwHziC0bFq4gZMxT;What Gently Flutters;Dustin O'Halloran;0,972;0,302;128049;0,096;0,903;2;0,098;-28,927;0;0,0309;94,275;4;0,382;0
+No_Autorization;4YqW8DorMNHqsEus1Vgtju;Rjóður;Snorri Hallgrímsson;0,963;0,198;245493;0,00247;0,765;1;0,108;-34,879;0;0,0383;98,134;4;0,0824;0
+No_Autorization;0Fs13LJdctI630wOhPcIO8;Woven Song;Ólafur Arnalds;0,992;0,297;190284;0,126;0,81;1;0,134;-23,791;0;0,0408;153,564;1;0,17;0
+No_Autorization;140jZx69WlaEovptyTYevr;In Cold Light;Vanbur;0,88;0,18;232040;0,244;0,918;6;0,0978;-17,797;0;0,0371;73,16;5;0,0586;0
+No_Autorization;5IKBHH07ER6qB5uWPTXpUv;Heart Failure;Eik Octobre;0,969;0,121;289829;0,0385;0,915;0;0,122;-27,901;1;0,0363;188,094;3;0,0706;0
+No_Autorization;5Gn7OpMOkQX7S53uujJUMJ;Soul I (Avow);Sebastian Plano;0,819;0,351;191222;0,129;0,904;8;0,115;-18,496;0;0,0318;107,649;4;0,0379;0
+No_Autorization;6hkOAdgduiWe3jCV3PjPKJ;Fljótavík;Georg Holm;0,948;0,141;248693;0,137;0,562;8;0,0612;-15,424;1;0,0431;85,479;4;0,0353;0
+No_Autorization;7nbupE7oWrRG33GgnIbF7C;Late;Nils Frahm;0,986;0,348;198585;0,00533;0,898;6;0,108;-37,7;0;0,0415;103,431;4;0,216;0
+No_Autorization;41VwA66JSS45VlgYtXLfEH;Aurora;Jacob Pavek;0,93;0,121;265873;0,147;0,939;0;0,158;-16,843;0;0,0384;74,451;5;0,0366;0
+No_Autorization;2MIeZVtIRmzqfx4XI4pDvE;Spiral (When We Are Born);Ólafur Arnalds;0,989;0,171;263500;0,0512;0,905;8;0,0615;-20,034;1;0,0375;76,35;4;0,0719;0
+No_Autorization;7upguSfQ3tXlymVbMb6784;How to Fall in Love in a Pandemic (Music for a Short Film);Daithí;0,917;0,22;207000;0,291;0,966;11;0,419;-17,403;0;0,0469;79,305;4;0,128;0
+No_Autorization;36nGeAgQbzIgtvhTbOAA0S;Upstream Dream;Slow Meadow;0,777;0,101;256006;0,212;0,9;0;0,109;-18,805;1;0,0409;82,93;1;0,0336;0
+No_Autorization;05gpQCSjj80MvJtRbAz8Th;Fairytail;Phoria;0,911;0,159;170860;0,147;0,962;5;0,238;-18,866;1;0,0448;132,877;3;0,0309;0
+No_Autorization;3sUtDNoHKdFV4WXShozY22;Akal Ki;Aukai;0,239;0,652;244000;0,515;0,751;11;0,0991;-12,034;0;0,0324;134,969;1;0,203;0
+No_Autorization;7l79uIzvPbeD7tagjdCwAE;Håll Mig - Reimagined by Tim Linghaus;Vargkvint;0,86;0,27;177000;0,0853;0,799;5;0,132;-20,796;0;0,0321;127,648;4;0,105;0
+No_Autorization;0jvRgeODIdcvsr1X9AeKSD;Earnest Leslye;Peter Broderick;0,975;0,266;229000;0,0667;0,918;2;0,0996;-20,758;1;0,0399;126,037;4;0,0391;0
+No_Autorization;4DDtvtAqHwTchhBthZIPcO;Dear, Utopia - Jameson Nathan Jones Rework;Illuminine;0,986;0,503;221960;0,0769;0,971;1;0,0814;-26,947;1;0,0415;123,929;4;0,133;0
+No_Autorization;4ovtBDG1jiIXe033VVhNgq;#20 (Lichen);Richard D. James;0,954;0,162;237832;0,112;0,915;0;0,116;-17,167;1;0,0379;70,04;3;0,0504;0
+No_Autorization;7iyHlkSodnReI1yq3U858h;A Tiny Ripple That Becomes A Giant Wave;Slow Meadow;0,989;0,296;210441;0,021;0,896;7;0,105;-28,605;1;0,0415;61,574;4;0,105;0
+No_Autorization;5QIm5UVUJhPrpXwfFXAgKI;Nos;Balmorhea;0,984;0,477;81641;0,0612;0,871;10;0,107;-25,266;0;0,0346;112,879;4;0,183;0
+No_Autorization;19vWDttuR4ZVBzUfQFsfPS;Pastoral;Christian Löffler;0,937;0,163;220630;0,191;0,959;10;0,0961;-20,924;1;0,0365;105,104;3;0,0335;0
+No_Autorization;2gAIy3MuCMOZUejECGPBUa;Over The Pines;Ben Sollee;0,883;0,278;191387;0,212;0,797;2;0,115;-16,375;1;0,0473;118,36;5;0,0998;0
+No_Autorization;4fuukOE5mmxGBvnxm2kJQj;Bird's Tail - Slow Meadow Rework;Message To Bears;0,783;0,139;343893;0,208;0,898;5;0,0997;-17,57;1;0,0394;148,759;3;0,0366;0
+No_Autorization;05MRIEoiBKTtnTT70KkDdX;Refrost;Elskavon;0,794;0,405;228904;0,281;0,912;9;0,474;-17,281;1;0,0366;120,04;4;0,0399;0
+No_Autorization;74xCaDznBiIIktSPbFd31H;Blurred - Sven Helbig Rework;Kiasmos;0,946;0,0855;284619;0,122;0,945;2;0,134;-18,526;1;0,0436;85,44;4;0,0372;0
+No_Autorization;0qdMoqCqqmKo1V3NAuoWRM;Campfire;Henrik Lindstrand;0,985;0,332;175179;0,142;0,915;3;0,0956;-26,384;1;0,0417;71,766;4;0,237;0
+No_Autorization;0ZYyAD3ZFssmqUrfBhjQst;New World;Vitamin String Quartet;0,792;0,15;225400;0,211;0,174;9;0,169;-12,814;0;0,0369;82,68;4;0,141;0
+No_Autorization;1ugTSkllKG0YdiPaOEPa0z;Balcony Hotel - From 'Miss';Lambert;0,974;0,503;168398;0,209;0,913;8;0,102;-22,495;0;0,0288;132,361;3;0,325;0
+No_Autorization;68Cz5sfSKx1ugwoxJzLIHh;All the Way Round - Edit;Kelpe;0,911;0,252;270025;0,147;0,949;2;0,103;-19,74;0;0,0365;108,025;4;0,0317;0
+No_Autorization;3PFlF0czIchods0CEDOAr5;The Myth;Balmorhea;0,895;0,528;221797;0,163;0,929;7;0,105;-19,696;0;0,0295;98,417;4;0,141;0
+No_Autorization;5hJrBqOLUnMXNjDlAX67aP;Flow State Vestida 4;Danny Mulhern;0,926;0,366;229000;0,145;0,483;6;0,331;-24,892;0;0,0378;94,159;5;0,0749;0
+No_Autorization;2XgqIg1xo9bvzyK0DEnqxN;Modern Driveway;Jon Hopkins;0,859;0,123;247120;0,0372;0,88;10;0,106;-28,639;0;0,0392;82,023;4;0,0466;0
+No_Autorization;6v4WvtbAbm88SeS4etJMTH;Beginnings;James Heather;0,977;0,363;238018;0,0612;0,885;9;0,11;-22,761;0;0,0443;118,495;4;0,0393;0
+No_Autorization;4eaBCGk2bT1spf1CruumMy;Flight from the City - Víkingur Ólafsson Rework;Jóhann Jóhannsson;0,873;0,297;386719;0,203;0,939;7;0,132;-26,635;0;0,0542;111,683;4;0,0672;0
+No_Autorization;6Rk40KBJsfnmmQbg3R35VY;Circle 23 - Slow Meadow Rework;Robot Koch;0,663;0,155;323855;0,367;0,89;8;0,0973;-15,319;0;0,0362;82,034;4;0,0635;0
+No_Autorization;3j7siGdElMQwOX1VPCWoW7;For You;Matteo de Grandis;0,96;0,571;201182;0,159;0,931;11;0,104;-23,467;1;0,0291;110,023;1;0,276;0
+No_Autorization;2GMSzm2ZRK4aZSVEhd1LM2;Søndermarken - Video Edit;Henrik Lindstrand;0,982;0,484;250263;0,212;0,934;9;0,13;-20,878;1;0,0319;152;4;0,416;0
+No_Autorization;21Xawha6x2vBekNwyCzMZw;Evening Star (Alexandra Hamilton-Ayres Rework);Frances Shelley;0,982;0,517;254118;0,112;0,901;2;0,0869;-28,721;0;0,029;170,006;4;0,369;0
+No_Autorization;3Pb1B51RXr8DnmGpR14GXl;Rückenfigur;Dardust;0,522;0,627;278008;0,468;0,927;7;0,326;-10,916;0;0,0291;95,002;4;0,13;0
+No_Autorization;7urVuBvdhiOpWGiWX81iXe;Fight to Make It Up;Takénobu;0,923;0,701;342401;0,323;0,471;5;0,0927;-10,418;1;0,0326;124,022;3;0,403;0
+No_Autorization;7hcHSv7pAIW6T9qOIaPMDW;The Young Weaver;Matteo Myderwyk;0,97;0,504;195020;0,0412;0,905;3;0,108;-23,126;0;0,0324;99,991;4;0,117;0
+No_Autorization;7jH6HaPyBRL2SH1AvzVe6h;Corn;Nils Frahm;0,952;0,154;244919;0,0824;0,918;10;0,317;-27,375;0;0,0408;89,407;4;0,29;0
+No_Autorization;2MSgFefjK0T7Iwjvr3OKqV;Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth.;Frédéric Chopin;0,992;0,225;259493;0,0047;0,881;1;0,0722;-30,928;0;0,0509;163,665;4;0,186;0
+No_Autorization;5fdp9rXfEixCGLM1Og4EN1;Gnossienne No. 1;Erik Satie;0,996;0,376;296480;0,00579;0,944;5;0,0882;-31,615;0;0,0576;71,827;4;0,0369;0
+No_Autorization;3DNRdudZ2SstnDCVKFdXxG;Sonata No. 14 "Moonlight" in C-Sharp Minor", Op. 27 No. 2: I. Adagio sostenuto;Ludwig van Beethoven;0,995;0,184;315427;0,00527;0,887;1;0,173;-37,264;0;0,0432;170,612;3;0,151;0
+No_Autorization;123zFAGx0F5ScgrLrCWGDX;Variations on a Rococo Theme, Op. 33 for cello and orchestra: Var. VI: Andante;Pyotr Ilyich Tchaikovsky;0,965;0,204;156573;0,0305;0,268;2;0,111;-31,159;1;0,0462;114,214;5;0,0394;0
+No_Autorization;2u9VGZmVz7Rm01SfDgzcfA;Liebestraum No. 3 in A-Flat Major, S. 541 / 3;Franz Liszt;0,987;0,279;293147;0,0292;0,902;8;0,104;-26,804;1;0,0406;136,732;3;0,0338;0
+No_Autorization;4b59u2E74KcDuyHCRBkf5v;Ständchen, S. 560 (Trans. from Schwanengesang No. 4, D. 957);Franz Schubert;0,992;0,209;442172;0,00299;0,955;2;0,104;-33,974;1;0,0491;66,685;3;0,039;0
+No_Autorization;1ThKqYwGxzcxIrYsjfVr85;Sonata No. 42 in D Minor (Arr. Ólafsson);Domenico Cimarosa;0,992;0,33;143532;0,00274;0,908;2;0,0668;-37,342;0;0,0617;61,088;4;0,188;0
+No_Autorization;1upQiytDIEZfl9ItruoXuC;Handel / Orch. Hale: Keyboard Suite No. 4 in D Minor, HWV 437: III. Sarabande;George Frideric Handel;0,927;0,0939;207267;0,0336;0,83;2;0,0954;-24,041;0;0,0606;67,359;3;0,0516;0
+No_Autorization;6VLzm03YUeXVl3GdGyib6J;3 Romances, Op. 11: 1. Andante;Clara Schumann;0,992;0,313;182720;0,0324;0,919;3;0,1;-29,155;0;0,0451;127,356;5;0,0522;0
+No_Autorization;4VVEfBXep7FdOt524jkfLF;Young Birches, Op. 128, No. 2;Amy Beach;0,978;0,24;159320;0,0834;0,944;6;0,0804;-29,545;0;0,0499;169,621;4;0,188;0
+No_Autorization;1v3gGmcneK1QzYyBFiBXG0;Montero: Adagio (After Bach's Violin Concerto No. 2, BWV 1042);Johann Sebastian Bach;0,994;0,36;301400;0,00301;0,897;6;0,0557;-35,441;0;0,0444;72,892;4;0,18;0
+No_Autorization;1BbQIyPnuhVIlJEqPcY3Ug;Six Pieces, Op. 51, TH 143: VI. Valse sentimentale. Tempo di Valse;Pyotr Ilyich Tchaikovsky;0,953;0,252;141707;0,0578;0,0163;1;0,0721;-26,184;1;0,0518;108,013;4;0,0391;0
+No_Autorization;7bAN5DH2H17rt4x3dTid0R;7 Peces de joventut (Youthful Pieces): Record;Manuel Blancafort;0,995;0,458;146880;0,00493;0,965;11;0,0674;-32,958;1;0,0498;136,549;1;0,0717;0
+No_Autorization;5a0nC0tGDJBpGMZu3PeekY;3 Pieces for cello and piano: No. 1. Modere;Nadia Boulanger;0,988;0,164;157067;0,0185;0,888;3;0,0801;-30,778;0;0,0412;86,65;4;0,078;0
+No_Autorization;3hCPh4oVVjaM8tv9sFH8cx;Suite bergamasque, L. 75: III. Clair de lune;Claude Debussy;0,993;0,32;294960;0,00501;0,919;1;0,0618;-33,366;1;0,0455;68,947;5;0,0383;0
+No_Autorization;3I26MLXZxlXnRnta6CKC9A;Einaudi: Una mattina;Ludovico Einaudi;0,988;0,0975;190813;0,0077;0,83;9;0,0603;-34,135;0;0,0471;87,152;4;0,0989;0
+No_Autorization;5bu9A6uphPWg39RC3ZKeku;Goldberg Variations, BWV 988: Aria;Johann Sebastian Bach;0,995;0,454;184853;0,0139;0,943;4;0,0736;-29,966;0;0,0514;130,253;4;0,244;0
+No_Autorization;29S6PLRccSCyKozzwIik0J;Truman Sleeps - From “The Truman Show” / Short Version;Philip Glass;0,995;0,266;160453;0,00361;0,925;8;0,0723;-29,735;1;0,052;94,861;4;0,0631;0
+No_Autorization;7oGaoWA4jzX48NmXZ4tWOd;Nisi Dominus, RV 608: 4. Cum dederit dilectis suis (Arr. Cello);Antonio Vivaldi;0,927;0,158;314387;0,0122;0,829;7;0,0874;-27,822;0;0,0458;106,244;3;0,0394;0
+No_Autorization;2wRDxGoCJWiWVNgjC8eHwJ;Mahler / Transcr. Tharaud: Symphony No. 5 in C-Sharp Minor, Pt. 3: IV. Adagietto;Gustav Mahler;0,99;0,342;636747;0,0423;0,889;5;0,139;-19,428;1;0,0403;71,33;4;0,0391;0
+No_Autorization;56oReVXIfUO9xkX7pHmEU0;On the Nature of Daylight;Max Richter;0,154;0,065;371747;0,341;0,854;10;0,109;-12,743;0;0,0482;65,38;4;0,0334;0
+No_Autorization;7BpDcPsVqfMgHdVglLK3Kt;Nocturnal;Joep Beving;0,994;0,219;312757;0,0153;0,923;9;0,0934;-33,563;0;0,0346;57,439;4;0,1;0
+No_Autorization;39uLYYZytVUwcjgeYLI409;Merry-Go-Round(人生のメリーゴーランド);Joe Hisaishi;0,876;0,239;311107;0,287;0,644;7;0,122;-12,565;0;0,0388;71,608;3;0,185;0
+No_Autorization;47xdo9qYjAbOIVVBAqom1b;Adagio in G Minor (Arr. for Harp and Orchestra);Tomaso Albinoni;0,453;0,139;300213;0,11;0,902;0;0,107;-16,155;0;0,0362;174,865;3;0,0377;0
+No_Autorization;7vIJwiFD2FKiulXzCDMvc4;Nocturne No.1 in B flat minor, Op.9 No.1;Frédéric Chopin;0,982;0,342;334053;0,0179;0,906;1;0,0831;-24,846;1;0,0387;61,757;4;0,0382;0
+No_Autorization;7tJi6GDPUK9PgIA44dLWtn;Reminiscence;Ólafur Arnalds;0,785;0,183;268147;0,131;0,899;1;0,121;-17,785;0;0,0401;111,851;4;0,0543;0
+No_Autorization;2JRehMMtFkGj0Agux7LNWs;Piano Concerto No. 2 in F Major, Op. 102: II. Andante;Dmitri Shostakovich;0,97;0,146;413480;0,00849;0,932;0;0,101;-36,382;0;0,0384;77,324;4;0,0389;0
+No_Autorization;6FeLwmGzZvjZFtlN90r9CB;On an overgrown path, Book I: No. 7, Good Night!;Leoš Janáček;0,995;0,251;199097;0,00553;0,837;7;0,0648;-31,798;1;0,057;63,607;4;0,0648;0
+No_Autorization;0hZBK2IS2uKdWVwEWXX1vB;Gymnopédie No. 3;Erik Satie;0,991;0,508;175427;0,00766;0,873;9;0,0732;-37,783;0;0,0975;130,918;4;0,588;0
+No_Autorization;5ay0cvjtVAbMLOe8gTadFh;A Model of the Universe;Jóhann Jóhannsson;0,982;0,336;172444;0,044;0,96;7;0,221;-29,255;0;0,0456;90,243;4;0,0666;0
+No_Autorization;1BncfTJAWxrsxyT9culBrj;Experience;Ludovico Einaudi;0,934;0,447;315427;0,449;0,961;2;0,0697;-10,634;1;0,0376;92,468;4;0,036;0
+No_Autorization;6Sd8oJpKHsq7nndrC2L56n;Auf dem Wasser zu singen, D.774 - Transcription: Franz Liszt, Searle 558 No.2;Franz Schubert;0,985;0,214;233653;0,165;0,928;8;0,12;-20,702;0;0,0352;101,073;3;0,2;0
+No_Autorization;3o9br9LskOEbwc5irxfHqR;Serenade for Strings in E Major, Op. 22, B. 52: IV. Larghetto;Antonín Dvořák;0,645;0,0877;295219;0,0763;0,897;9;0,353;-23,986;1;0,0429;78,535;4;0,0509;0
+No_Autorization;2wlUU8uTvjeCetz0EyeF5M;Today and it’s gone (Munich Session);Carlos Cipa;0,975;0,3;258000;0,0296;0,913;4;0,0786;-25,094;0;0,0355;68,118;4;0,0798;0
+No_Autorization;7IHEJdJhju1F2rhIiwgawx;Fantasia in D Minor, K. 397;Wolfgang Amadeus Mozart;0,994;0,382;316653;0,0499;0,906;2;0,109;-25,262;1;0,0548;125,903;4;0,0779;0
+No_Autorization;4TdplSGjf7izKmKe81pt6b;24 Préludes, Op. 28: No. 4 in E Minor;Frédéric Chopin;0,995;0,448;111307;0,00397;0,912;9;0,0612;-27,003;0;0,0788;51,112;4;0,0377;0
+No_Autorization;5ebC5YZw56vrVIkIbkbNvP;Peer Gynt-Suite Nr. 1, Op. 46: III. Anitra's Dance;Edvard Grieg;0,945;0,198;202240;0,0246;0,275;4;0,122;-32,071;0;0,0436;168,273;3;0,125;0
+No_Autorization;6wzHTBM9UtXdZOBp82flGU;Some Sand;ibi;0,99;0,293;422243;0,00361;0,905;3;0,109;-32,849;1;0,0471;69,086;4;0,039;0
+No_Autorization;1CSaCKPIp2yCIDL3t7Fyau;Barber: Adagio for Strings, Op. 11;Samuel Barber;0,974;0,102;537427;0,0733;0,859;10;0,28;-24,133;0;0,0488;73,954;3;0,0308;0
+No_Autorization;0cKlu1GLSgOSdJBu6yMMX4;Schumann: Widmung, Op. 25 No. 1 (Arr. Liszt, S. 566a);Robert Schumann;0,992;0,243;237960;0,0325;0,879;8;0,108;-23,379;1;0,0454;74,26;3;0,0404;0
+No_Autorization;7lO0GHKtEZKLZ0l32upmll;Die Rose, Romanze aus der Oper Zemir und Azor, S571/R259 (Spohr);Franz Liszt;0,993;0,329;287960;0,0171;0,92;4;0,0904;-30,374;1;0,0393;65,054;3;0,127;0
+No_Autorization;3iGGRjfZXYoYqYxNEYYbBX;Deux Arabesques, L66: No. 1: Andantino con moto;Claude Debussy;0,99;0,281;272133;0,0131;0,921;9;0,0875;-28,85;1;0,0361;72,744;4;0,0741;0
+No_Autorization;1NYElq76ajtGZWEOubEK8b;Orphée Suite - 6. Orphee's Return;Philip Glass;0,99;0,395;471840;0,0997;0,892;5;0,0877;-23,579;1;0,0433;127,275;4;0,0312;0
+No_Autorization;5GeLatpepLly0qTAqP5VHm;Rondeau: Paula;Jean Rondeau;0,994;0,286;161560;0,0374;0,927;6;0,0913;-23,007;1;0,0392;120,107;3;0,0375;0
+No_Autorization;5rpw2ag9jizRl9VdaLNT61;Spiriteaux;Tony Anderson;0,946;0,233;234000;0,0358;0,878;0;0,108;-28,579;0;0,0373;117,497;3;0,0396;0
+No_Autorization;0mphqBldbD5cTcWfnODhmI;Schubert: Cello Sonata in A Minor, D. 821, "Arpeggione": II. Adagio;Franz Schubert;0,993;0,0944;220813;0,00194;0,454;11;0,112;-33,822;1;0,0494;78,551;4;0,065;0
+No_Autorization;2Cc5z5swQrDqZiyCkZ0TnF;String Quartet: I. Modere;Germaine Tailleferre;0,959;0,262;147040;0,107;0,463;4;0,195;-17,973;1;0,0448;76,65;4;0,136;0
+No_Autorization;05iURKvut2OWEzPHQUhDT5;Concerto in D Minor, Op.7, No.4: I. Adagio;George Frideric Handel;0,942;0,0685;285840;0,0173;0,66;1;0,1;-26,846;0;0,0408;74,996;1;0,073;0
+No_Autorization;1Y3NJjnXXaXmrfSLeDMaU7;Berceuse;Germaine Tailleferre;0,965;0,216;148688;0,0441;0,0178;9;0,0784;-26,135;1;0,0578;101,467;4;0,0938;0
+No_Autorization;1VsxTA8He1KckavTf8fNlh;Mercure, Scene 1: La nuit;Erik Satie;0,932;0,143;73827;0,00194;0,0318;0;0,0694;-35,355;1;0,045;139,295;3;0,0495;0
+No_Autorization;6SctHYL0HaQ5hFpUxXULYa;September Song;Agnes Obel;0,934;0,23;202594;0,0969;0,76;0;0,106;-27,045;1;0,0415;134,774;1;0,129;0
+No_Autorization;7HSs4srn1qnZhh7WRWBVOk;Prokofiev: Romeo and Juliet, Op. 64, Act 1, Scene 2: Dance of the Knights;Sergei Prokofiev;0,927;0,21;341693;0,101;0,902;0;0,0776;-19,383;1;0,0403;86,314;4;0,153;0
+No_Autorization;2nnXe7n3Vivs7OfQKRsfWD;Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": III. Presto;Antonio Vivaldi;0,876;0,362;173427;0,569;0,91;7;0,327;-15,394;0;0,0345;148,692;3;0,746;0
+No_Autorization;3QaPlDueCFnbJdPCeK0RbM;Guillaume Tell: Guillaume Tell: Overture;Gioachino Rossini;0,896;0,278;695107;0,136;0,671;4;0,209;-18,548;1;0,0446;103,339;4;0,093;0
+No_Autorization;3By9jCy6b4dv5XnlhvIWwx;Dies Irae;Giuseppe Verdi;0,926;0,272;134747;0,346;0,931;0;0,0772;-14,01;0;0,0317;79,773;4;0,24;0
+No_Autorization;307XDlQfKttacMlImCMrOu;The Planets, Op. 32: I. Mars, the Bringer of War;Gustav Holst;0,939;0,288;479000;0,395;0,879;7;0,157;-14;1;0,0416;132,912;5;0,0573;0
+No_Autorization;5JNibaUr2SQtRrynGm8CZm;Piano Concerto No. 1 in B-Flat Minor, Op. 23, TH. 55: 1. Allegro non troppo e molto maestoso - Allegro con spirito - Live at Philharmonie, Berlin;Pyotr Ilyich Tchaikovsky;0,981;0,228;1421467;0,0775;0,91;10;0,166;-20,358;0;0,0379;75,796;4;0,0393;0
+No_Autorization;2DcUJP3QX9Pb47TkW32aea;The Flight of the Bumble Bee;Ida Cernecka;0,972;0,296;89907;0,221;0,965;9;0,283;-19,135;0;0,0509;161,628;4;0,401;0
+No_Autorization;2Z4aQJh0kesRMookvtfR4y;Piano Concerto in A Minor, Op.16: I. Allegro molto moderato;Edvard Grieg;0,975;0,303;820853;0,119;0,88;9;0,112;-18,055;0;0,0386;94,868;4;0,038;0
+No_Autorization;61WPkxq6gvXSfJLTyzm62L;Symphony No. 9 in E Minor, Op. 95, B. 178 "From the New World": 4. Allegro con fuoco;Antonín Dvořák;0,897;0,238;685000;0,159;0,855;4;0,0904;-15,509;0;0,0342;140,619;4;0,124;0
+No_Autorization;67F2FBLJL9Wn09qvPe6XVa;Night on Bare Mountain;Modest Mussorgsky;0,863;0,245;770520;0,247;0,698;2;0,366;-19,534;0;0,0498;73,114;4;0,107;0
+No_Autorization;7oGaoWA4jzX48NmXZ4tWOd;Nisi Dominus, RV 608: 4. Cum dederit dilectis suis (Arr. Cello);Antonio Vivaldi;0,927;0,158;314387;0,0122;0,829;7;0,0874;-27,822;0;0,0458;106,244;3;0,0394;0
+No_Autorization;6xez71zpAqQ6N5i8E1jHlD;Carmina Burana: O Fortuna;Carl Orff;0,525;0,287;144360;0,158;0,344;10;0,232;-19,478;1;0,0325;148,645;3;0,363;0
+No_Autorization;2VdAdaYeFhWVVPobqYYZat;Six Pieces, Op. 51, TH 143: VI. Valse sentimentale. Tempo di Valse;Pyotr Ilyich Tchaikovsky;0,953;0,252;141707;0,0578;0,0163;1;0,0721;-26,184;1;0,0518;108,013;4;0,0391;0
+No_Autorization;16Gm2JOvdnR76jFpjatMhk;Concerto grosso, Op. 3 (revised), No. 6 in E Minor: IV. Allegro;Francesco Geminiani;0,885;0,38;149151;0,104;0,135;3;0,105;-20,155;0;0,0458;128,904;4;0,366;0
+No_Autorization;6DbYlWb6hAB4lOnOMWoR8F;Elgar: Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato;Edward Elgar;0,952;0,124;481867;0,0978;0,218;4;0,112;-22,849;0;0,0432;96,309;4;0,0433;0
+No_Autorization;5xjh7foPsLNJClLE6c8B98;Symphonic Variations on an African Air, Op.63;Samuel Coleridge-Taylor;0,959;0,224;1215573;0,0291;0,845;7;0,11;-26,167;1;0,0455;120,946;4;0,0538;0
+No_Autorization;4CRYAPb5vbeP91rAD6ppRM;Double Bass Concerto "Farewell to St. Petersburg";Gavin Bryars;0,951;0,0892;1697267;0,0459;0,873;9;0,116;-26,109;0;0,0418;86,375;1;0,0365;0
+No_Autorization;6oDbGGZ5xMOALh95PfY0tf;Scythian Suite, Op. 20 - "Ala and Lolly": II. The Enemy God and the Dance of the Spirits of Darkness;Sergei Prokofiev;0,841;0,542;191000;0,344;0,727;0;0,585;-18,604;1;0,0365;117,513;4;0,314;0
+No_Autorization;4I024wasuUj1tEm6t7Uz5x;Symphony No. 3 in A Minor, Op. 56, MWV N 18 "Scottish": 4. Allegro vivacissimo - Allegro maestoso assai;Felix Mendelssohn;0,902;0,326;576653;0,284;0,922;9;0,126;-13,131;0;0,0383;120,732;4;0,213;0
+No_Autorization;2oLjhx7w8Hyd3gry9cCXr7;Hungarian Dance No. 5 in G Minor (Orch. by Schmeling);Johannes Brahms;0,899;0,358;138707;0,167;0,96;7;0,103;-16;0;0,0354;144,561;4;0,601;0
+No_Autorization;39FIII6YTroEGA2G3xJPzI;Equus;Eric Whitacre;0,912;0,358;542293;0,331;0,797;5;0,0678;-14,005;0;0,0437;109,123;4;0,121;0
+No_Autorization;6cU21D2uYvocPJRwZDodI9;Piano Quintet in E Flat Major, Op.44: Piano Quintet in E Flat Major, Op.44: IV. Finale. Allegro, ma non troppo;Robert Schumann;0,986;0,408;408573;0,197;0,807;3;0,141;-18,376;1;0,0377;132,562;4;0,377;0
+No_Autorization;5XpAlFFuuBh6lIuVZ2Vhn0;Toccata and Fugue in D Minor, BWV 565;Johann Sebastian Bach;0,423;0,128;482067;0,157;0,865;2;0,374;-19,772;0;0,0335;96,935;4;0,125;0
+No_Autorization;3hHWhvw2hjwfngWcFjIzqr;Finlandia, Op. 26;Jean Sibelius;0,933;0,181;507973;0,188;0,887;8;0,0989;-19,208;1;0,0392;74,637;4;0,041;0
+No_Autorization;5lXVUcoaKzOMzmNo11jcSe;El sombrero de tres picos, Pt. 1: III. Danza de la molinera;Manuel de Falla;0,932;0,297;214625;0,0966;0,882;2;0,165;-21,905;1;0,0411;121,633;3;0,223;0
+No_Autorization;7dSZFzpjRkIs0VSgOAexfJ;Gayane: Sabre Dance - Redbook Stereo;Aram Khachaturian;0,648;0,424;148293;0,607;0,807;0;0,117;-14,345;1;0,068;90,099;4;0,494;0
+No_Autorization;4bjAQljq5vfoB8YUTUC05l;Tintagel;Arnold Bax;0,862;0,0688;880227;0,12;0,889;4;0,0957;-19,178;1;0,0381;74,043;3;0,0361;0
+No_Autorization;7125Z776uNesKF0pNYU3lU;Symphony No. 1 in D major, Wq. 183/1: Symphony No. 1 in D major, Wq. 183/1: I. Allegro di molto;Carl Philipp Emanuel Bach;0,912;0,292;377200;0,164;0,0296;1;0,177;-17,792;1;0,0342;149,46;4;0,284;0
+No_Autorization;4cYek7RefNboB5U7OtfE2W;3 Grandes etudes, Op. 76: III. Mains reunis;Charles-Valentin Alkan;0,979;0,218;308067;0,139;0,908;0;0,0963;-24,738;1;0,0335;83,066;4;0,373;0
+No_Autorization;6pG5ExZiqflW7jFrd8KAtb;Symphony No. 8 in C Minor, WAB 108 (ed. R. Haas from 1887 and 1890 versions): IV. Finale. Feierlich, nicht schnell;Anton Bruckner;0,964;0,108;1430840;0,0959;0,863;10;0,0664;-18,057;0;0,0407;80,398;4;0,0357;0
+No_Autorization;671oStFWLVPQkxi4qD5epG;Symphony No. 9 in D Minor, WAB 109 (original 1894 version, ed. L. Nowak): II. Scherzo: Bewegt, lebhaft - Trio: Schnell - Scherzo (da capo);Anton Bruckner;0,956;0,31;657000;0,0771;0,739;6;0,0883;-19,711;0;0,0358;178,864;4;0,0566;0
+No_Autorization;3SsepQPdBbByeC2pG4Lguu;One Symphony;Swedish House Mafia;0,683;0,145;263343;0,236;0,942;2;0,113;-14,546;0;0,0309;98,012;4;0,0608;0
+No_Autorization;1zOqrZCX1qyzyIlhMXALH2;Jonchaies;Iannis Xenakis;0,626;0,273;958533;0,702;0,884;11;0,18;-12,429;0;0,281;118,712;4;0,0375;0
+No_Autorization;5WUD6s1M0deBvjLVbRTeAO;Symphony No. 5 in D Minor, Op. 47: IV. Allegro non troppo;Dmitri Shostakovich;0,927;0,21;767160;0,144;0,613;10;0,0748;-16,184;1;0,0364;89,071;4;0,039;0
+No_Autorization;3jvd0hoT8EiFnd02tKnhIm;Symphony No. 2, "Legendaire'" (The Legendary): I. Legendaire;Eduard Tubin;0,747;0,188;605573;0,237;0,942;11;0,37;-16,359;1;0,0439;115,031;4;0,0366;0
+No_Autorization;1DELYxpEkekVchWsazmwU2;Mahler: Symphony No. 1 in D Major: IV. Stürmisch bewegt;Gustav Mahler;0,816;0,209;1255933;0,0775;0,54;1;0,321;-21,011;1;0,0384;105,807;4;0,042;0
+No_Autorization;3oYwpPMHASKBUe7DDa7cVF;Les Preludes;Franz Liszt;0,958;0,199;1011200;0,0579;0,842;9;0,424;-21,315;1;0,0409;136,972;3;0,0384;0
+No_Autorization;3T9HSgS5jBFdXIBPav51gj;Fanfare for the Common Man;Aaron Copland;0,986;0,228;196467;0,179;0,954;10;0,0575;-15,727;1;0,0382;104,304;4;0,0378;0
+No_Autorization;1fKW0XG6OoUbGNKRYFNqKJ;Piano Sonata No. 1: I. MM 48;Carl Vine;0,98;0,331;509200;0,143;0,914;5;0,301;-20,799;0;0,0362;98,234;4;0,0754;0
+No_Autorization;4Qt8ZMOkXzQ5dvvVrd3si5;Die Walkure, Act III: Ride of the Valkyries;Richard Wagner;0,963;0,201;329000;0,198;0,933;7;0,0783;-16,966;1;0,0325;91,042;3;0,0482;0
+No_Autorization;6FPxdOh0pOLjxdrqUL5RAJ;Ligeti: Piano Etudes [Book Two]: XIII. L'escalier du diable;György Ligeti;0,963;0,435;310320;0,475;0,889;11;0,0761;-13,228;1;0,0582;103,751;4;0,067;0
+No_Autorization;04Z8OH1BVCtTZ9vk06SCtz;Grandes études de Paganini, S.141: No. 3 in G-Sharp Minor "La campanella";Franz Liszt;0,972;0,296;282000;0,232;0,785;8;0,0982;-20,553;0;0,0349;96,227;4;0,393;0
+No_Autorization;6cUCckpdlqHJ5Ascf2uH2A;Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio;Ludwig van Beethoven;0,957;0,248;442000;0,298;0,9;0;0,0943;-15,661;0;0,0395;97,853;4;0,157;0
+No_Autorization;0cXaJZiBZH8gHJrBScshbv;Music in Similar Motion;Philip Glass;0,971;0,448;682467;0,626;0,846;7;0,0911;-11,192;0;0,0636;167,323;4;0,832;0
+No_Autorization;6AjlUIz1nCvKbp8qZ2JlEP;Violin Concerto;Joan Tower;0,937;0,202;1282693;0,0944;0,296;7;0,228;-23,008;1;0,0471;68,124;3;0,0359;0
+No_Autorization;6s3XfwMlv42GMO89weH4ae;Danzas fantasticas, Op. 22: Orgia;Joaquín Turina;0,845;0,297;289067;0,201;0,798;2;0,137;-14,759;1;0,0404;136,477;4;0,235;0
+No_Autorization;2TQdH3wUzuX5vOg8JdmQKi;Symphony No. 2 in C Minor, "Resurrection": I. Allegro maestoso;Gustav Mahler;0,817;0,119;1271947;0,0125;0,534;0;0,0871;-28,089;1;0,0371;79,742;4;0,0738;0
+No_Autorization;13fyHbHy6lWdndi4vyjaJF;Rhapsody in B Minor, Op. 79, No. 1;Johannes Brahms;0,991;0,255;515000;0,108;0,902;6;0,122;-19,628;1;0,0437;86,25;4;0,0773;0
+No_Autorization;4iUQ9SxroN3CtLIzwdf8HB;Danse macabre, Op. 40 (arr. F. Liszt, V. Horowitz and Y. Sudbin for piano);Vladimir Horowitz;0,975;0,356;524360;0,17;0,898;3;0,0843;-21,987;1;0,0379;109,658;4;0,0456;0
+No_Autorization;41l4dwKu61s7lCECTrl3Kt;Cello Concerto in B Minor, Op. 104, B. 191: Cello Concerto in B Minor, Op. 104, B. 191: III. Allegro moderato;Antonín Dvořák;0,96;0,147;761693;0,0776;0,777;11;0,0884;-22,375;1;0,0434;80,212;3;0,0699;0
+No_Autorization;0NFO85vWTMQK6gE9aH3s8C;Symphony No. 6 in D Major, Op. 60, B. 112: Symphony No. 6 in D Major, Op. 60, B. 112: III. Scherzo (Furiant). Presto;Antonín Dvořák;0,934;0,339;461080;0,0751;0,827;2;0,0999;-17,971;1;0,0395;138,194;4;0,158;0
+No_Autorization;7dmFJ4l96vnOtbbxuHXHOP;Fantasie in C, Op. 17: I. Durchaus fantastisch und leidenschaftlich vorzutragen - Im Legendenton - Erstes Tempo;Robert Schumann;0,992;0,317;727973;0,0729;0,896;0;0,0761;-20,219;0;0,0418;71,283;4;0,0506;0
+No_Autorization;5jyiJYYGcIaRYeuHJ6yENM;Symphony No. 4 in E Minor, Op. 98: I. Allegro non troppo;Johannes Brahms;0,951;0,262;673040;0,144;0,879;4;0,376;-16,347;0;0,0378;85,533;4;0,0867;0
+No_Autorization;6snP2R2ysQXCZu22QFuTCu;The Firebird, Tableau I: Infernal Dance of Kastchei and His Subjects Under the Firebird's Magic Spell;Igor Stravinsky;0,929;0,255;278160;0,367;0,922;6;0,147;-17,042;1;0,0482;155,564;4;0,111;0
+No_Autorization;3SBvLJ5TcCxBqGNk27X2bh;10 Preludes, Op.23: No.5 Alla marcia In G Minor;Sergei Rachmaninoff;0,984;0,341;225000;0,33;0,908;7;0,106;-12,718;0;0,0394;120,338;4;0,14;0
+No_Autorization;6kQsS6IALerD0Wa8PJloPf;1812 Festival Overture, Op. 49: 1812 Overture, Op. 49: Finale;Pyotr Ilyich Tchaikovsky;0,482;0,233;229000;0,537;0,773;3;0,0789;-13,141;1;0,0616;85,021;4;0,0857;0
+No_Autorization;26tANqldIcKzynlqb4HLyd;Symphony No. 9 In C Major, D. 944 - "The Great": IV. Allegro vivace;Franz Schubert;0,927;0,273;965120;0,169;0,768;0;0,107;-18,181;1;0,0337;96,624;4;0,13;0
+No_Autorization;4DcQ5gvYq9zhmHduXXg3Ey;Symphony No. 5 in B-Flat Major: I. Adagio - Allegro;Anton Bruckner;0,959;0,122;1221000;0,0457;0,574;1;0,0854;-18,855;1;0,038;70,294;4;0,0485;0
+No_Autorization;5kMynFPblo5lJuO48j9OvO;Alexander Nevsky, Op. 78: V. The Battle On Ice;Sergei Prokofiev;0,569;0,224;724000;0,265;0,683;1;0,119;-20,218;1;0,0582;116,096;4;0,0688;0
+No_Autorization;636vk4x62hzOZ667m9qBmY;Piano Concerto No. 3 in D Minor, Op. 30: I. Allegro ma non tanto - Live;Sergei Rachmaninoff;0,985;0,17;950280;0,054;0,919;10;0,0946;-26,959;1;0,0401;73,884;4;0,0508;0
+No_Autorization;3HglqdUmZR3bWR9bRMqg9g;Tchaikovsky: Symphony No. 4 in F Minor, Op. 36: IV. Finale (Allegro con fuoco);Pyotr Ilyich Tchaikovsky;0,818;0,23;575173;0,408;0,807;5;0,712;-15,442;0;0,0817;74,236;4;0,0848;0
+No_Autorization;5k6y0uRLlG5uhyOmHvdIEB;Adagio for Strings, Op. 11;Samuel Barber;0,874;0,0676;466973;0,00697;0,812;10;0,0651;-33,118;0;0,0559;76,94;3;0,0317;0
+No_Autorization;3bj6TOhNXfh7MDqQXRvgWS;Symphony No. 5 in C-Sharp Minor: I. Trauermarsch. In gemessenem Schritt. Streng. Wie ein Kondukt;Gustav Mahler;0,909;0,114;790893;0,0597;0,875;1;0,0996;-22,971;0;0,0457;84,142;3;0,0493;0
+No_Autorization;5hH34Ibdr8cKBs8SFPZimx;Symphonic Dances, Op. 45: III. Lento assai - Allegro vivace - Lento assai - Come prima - Allegro vivace;Sergei Rachmaninoff;0,946;0,229;792880;0,101;0,836;4;0,0707;-21,625;0;0,0432;149,894;5;0,0622;0
+No_Autorization;4gximAueAXQ8d7v3MLFhYn;Symphony No. 3 in D Minor, WAB 103 (original 1873 version, ed. L. Nowak): II. Adagio: Feierlich;Anton Bruckner;0,944;0,0647;1160000;0,0744;0,772;3;0,126;-18,855;1;0,0418;67,678;3;0,0326;0
+No_Autorization;3tOcM1YYn3vd8VgBMKTaMk;Symphony No. 2 "Symphony of Chorales": I. Toccata: Allegro;Lukas Foss;0,953;0,258;665200;0,142;0,823;9;0,0996;-21,99;0;0,0398;100,902;3;0,0677;0
+No_Autorization;2iFiEltvfs8Fp4y6Cevbi9;Aida / Act 2: Marcia;Giuseppe Verdi;0,921;0,315;363227;0,326;0,906;5;0,592;-15,975;0;0,0467;147,88;4;0,271;0

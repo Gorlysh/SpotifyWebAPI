@@ -1,0 +1,291 @@
+﻿USER_ID;TRACK_ID;NAME;ARTIST;Acousticness;Danceability;Duration_Ms;Energy;Instrumentalness;Key;Liveness;Loudness;Mode;Speechiness;Tempo;Time_Signature;Valence;Like
+No_Autorization;3YBZIN3rekqsKxbJc9FZko;Paradise City;Guns N' Roses;0,0169;0,273;405640;0,952;0,0111;11;0,142;-8,762;1;0,0843;100,271;4;0,472;0
+No_Autorization;57JVGBtBLCfHw2muk5416J;Another One Bites The Dust - Remastered 2011;Queen;0,112;0,933;214653;0,528;0,329;5;0,163;-6,472;0;0,162;109,975;4;0,756;0
+No_Autorization;2zYzyRzz6pRmhPzyfMEC8s;Highway to Hell;AC/DC;0,061;0,574;208400;0,913;0,00158;6;0,156;-4,793;0;0,133;115,728;4;0,423;0
+No_Autorization;39shmbIHICJ2Wxnk1fPSdz;Should I Stay or Should I Go - Remastered;The Clash;0,0804;0,743;188987;0,836;0;2;0,384;-6,465;1;0,116;113,375;4;0,82;0
+No_Autorization;2Cdvbe2G4hZsnhNMKyGrie;I Love Rock 'N Roll;Joan Jett & The Blackhearts;0,326;0,535;175173;0,716;0;4;0,659;-5,025;1;0,0431;94,379;4;0,901;0
+No_Autorization;0hCB0YR03f6AmQaHbwWDe8;Whole Lotta Love - 1990 Remaster;Led Zeppelin;0,0484;0,412;333893;0,902;0,131;9;0,405;-11,6;1;0,405;89,74;4;0,422;0
+No_Autorization;0ofHAoxe9vBkTCp2UQIavz;Dreams - 2018 Remaster;Fleetwood Mac;0,0644;0,828;257800;0,492;0,00428;0;0,128;-9,744;1;0,0276;120,151;4;0,789;0
+No_Autorization;70LcF31zb1H0PyJoS1Sx1r;Creep;Radiohead;0,0097;0,515;238640;0,43;0,000133;7;0,129;-9,935;1;0,0372;91,844;4;0,104;0
+No_Autorization;5MxNLUsfh7uzROypsoO5qe;Dream On;Aerosmith;0,388;0,307;266960;0,433;9,08E-05;1;0,332;-10,057;1;0,029;160,9;4;0,224;0
+No_Autorization;2g7gviEeJr6pyxO7G35EWQ;Paradise By the Dashboard Light;Meat Loaf;0,214;0,326;508333;0,872;0;2;0,461;-7,602;1;0,122;173,381;4;0,492;0
+No_Autorization;0J6mQxEZnlRt9ymzFntA6z;Livin' On A Prayer;Bon Jovi;0,0768;0,534;249293;0,887;9,93E-05;0;0,325;-3,777;1;0,0345;122,494;4;0,72;0
+No_Autorization;4bHsxqR3GMrXTxEPLuK5ue;Don't Stop Believin';Journey;0,127;0,5;250987;0,748;0;4;0,447;-9,072;1;0,0363;118,852;4;0,514;0
+No_Autorization;3dPQuX8Gs42Y7b454ybpMR;Seven Nation Army;The White Stripes;0,0039;0,743;232107;0,446;0,118;4;0,337;-7,807;0;0,0683;123,596;4;0,278;0
+No_Autorization;40riOy7x9W7GXjyGp4pjAv;Hotel California - 2013 Remaster;Eagles;0,00574;0,579;391376;0,508;0,000494;2;0,0575;-9,484;1;0,027;147,125;4;0,609;0
+No_Autorization;70YvYr2hGlS01bKRIho1HM;La Grange - 2005 Remaster;ZZ Top;0,00249;0,545;230480;0,64;0,0304;4;0,196;-9,937;0;0,224;80,544;4;0,606;0
+No_Autorization;7Jh1bpe76CNTCgdgAdBw4Z;Heroes - 2017 Remaster;David Bowie;0,000671;0,49;371413;0,758;0,484;7;0,092;-6,491;1;0,0297;112,114;4;0,435;0
+No_Autorization;4P5KoWXOxwuobLmHXLMobV;Come As You Are;Nirvana;0,00016;0,5;218920;0,824;0,00161;4;0,0916;-5,846;0;0,0388;120,125;4;0,539;0
+No_Autorization;4aVuWgvD0X63hcOCnZtNFA;Hold the Line;TOTO;0,00783;0,473;235547;0,898;0,0618;6;0,173;-4,797;0;0,0561;96,556;4;0,808;0
+No_Autorization;1Ly0ssAgeM7YqdHptao8Oe;Paranoid;Black Sabbath;8,44E-05;0,426;168440;0,619;0,00239;4;0,17;-11,501;0;0,0722;162,721;4;0,382;0
+No_Autorization;3d9DChrdc6BOeFsbrZ3Is0;Under The Bridge;Red Hot Chili Peppers;0,0576;0,559;264307;0,345;0,000105;4;0,141;-13,496;1;0,0459;84,581;4;0,458;0
+No_Autorization;08mG3Y1vljYA6bvDt4Wqkj;Back In Black;AC/DC;0,011;0,31;255493;0,7;0,00965;9;0,0828;-5,678;1;0,047;188,386;4;0,763;0
+No_Autorization;2PzU4IB8Dr6mxV3lHuaG34;(I Can't Get No) Satisfaction - Mono Version;The Rolling Stones;0,0383;0,723;222813;0,863;0,0317;2;0,128;-7,89;1;0,0338;136,302;4;0,931;0
+No_Autorization;54flyrjcdnQdco7300avMJ;We Will Rock You - Remastered 2011;Queen;0,679;0,693;122067;0,497;0;2;0,258;-7,316;1;0,119;81,308;4;0,473;0
+No_Autorization;5BIMPccDwShpXq784RJlJp;Enter Sandman;Metallica;0,00206;0,579;331573;0,824;0,00903;6;0,059;-8,71;0;0,03;123,331;4;0,635;0
+No_Autorization;4CJVkjo5WpmUAKp3R44LNb;Sweet Home Alabama;Lynyrd Skynyrd;0,181;0,597;281147;0,605;0,000331;7;0,118;-12,013;1;0,0255;97,782;4;0,886;0
+No_Autorization;2LawezPeJhN4AWuSB0GtAU;Have You Ever Seen The Rain;Creedence Clearwater Revival;0,0664;0,741;160133;0,697;2,28E-05;0;0,133;-7,028;1;0,0277;116,109;4;0,774;0
+No_Autorization;63OFKbMaZSDZ4wtesuuq6f;Born To Be Wild;Steppenwolf;0,262;0,438;210373;0,71;0,537;2;0,221;-12,412;1;0,0919;145,928;4;0,53;0
+No_Autorization;2sXp9Qmvc7mRaDBjBgcGGi;Every Breath You Take;The Police;0,56;0,813;253887;0,46;0,0105;1;0,0724;-9,78;1;0,0346;117,387;4;0,729;0
+No_Autorization;1oG2vWELiGjIqxwqGcyqwF;You Really Got Me - Mono Mix;The Kinks;0,0995;0,567;133933;0,959;6,07E-05;8;0,1;-3,822;1;0,102;137,377;4;0,961;0
+No_Autorization;3qT4bUD1MaWpGrTwcvguhb;Black Dog - Remaster;Led Zeppelin;0,396;0,437;295387;0,864;0,0314;4;0,242;-7,842;0;0,0904;81,394;4;0,749;0
+No_Autorization;2EqlS6tkEnglzr7tkKAAYD;Come Together - Remastered 2009;The Beatles;0,0302;0,533;259947;0,376;0,248;9;0,0926;-11,913;0;0,0393;165,007;4;0,187;0
+No_Autorization;61Q9oJNd9hJQFhSDh6Qlap;House of the Rising Sun;The Animals;0,000825;0,315;269720;0,534;0,108;9;0,101;-7,552;0;0,031;116,891;3;0,283;0
+No_Autorization;6cr6UDpkjEaMQ80OjWqEBQ;Sultans Of Swing;Dire Straits;0,0632;0,73;350400;0,868;0,0661;5;0,318;-7,325;1;0,0288;148,217;4;0,923;0
+No_Autorization;5wj4E6IsrVtn8IBJQOd0Cl;Wonderwall - Remastered;Oasis;0,000453;0,372;258733;0,865;0;2;0,234;-4,918;1;0,0381;174,53;4;0,478;0
+No_Autorization;5Th6EdNVhxp0TPX41ZLZk6;One Way Or Another - Remastered;Blondie;0,0118;0,45;212707;0,877;4,95E-05;9;0,0699;-6,403;1;0,0532;162,477;4;0,896;0
+No_Autorization;1FTSo4v6BOZH9QxKc3MbVM;Song 2 - 2012 Remaster;Blur;0,00178;0,674;121160;0,789;0,0071;8;0,0754;-6,903;1;0,0676;129,804;4;0,918;0
+No_Autorization;11LmqTE2naFULdEP94AUBa;Heart-Shaped Box;Nirvana;0,199;0,256;281160;0,641;0,0329;1;0,0853;-10,283;1;0,0552;203,006;4;0,382;0
+No_Autorization;7MRyJPksH3G2cXHN8UKYzP;American Girl;Tom Petty and the Heartbreakers;0,448;0,55;214733;0,824;0,000127;2;0,366;-5,988;1;0,0334;114,512;4;0,777;0
+No_Autorization;5LNiqEqpDc8TuqPy79kDBu;Edge of Seventeen - 2016 Remaster;Stevie Nicks;0,327;0,591;329413;0,804;5,98E-06;0;0,0818;-7,299;1;0,0454;111,457;4;0,658;0
+No_Autorization;6L89mwZXSOwYl76YXfX13s;Basket Case;Green Day;0,00293;0,442;181533;0,943;8,71E-06;3;0,091;-3,205;1;0,0602;85,064;4;0,781;0
+No_Autorization;0RO9W1xJoUEpq5MEelddFb;Stairway to Heaven - Remaster;Led Zeppelin;0,58;0,338;482830;0,34;0,0032;9;0,116;-12,049;0;0,0339;82,433;4;0,197;0
+No_Autorization;1AhDOtG9vPSOmsWgNW0BEY;Bohemian Rhapsody - Remastered 2011;Queen;0,271;0,414;354320;0,404;0;0;0,3;-9,928;0;0,0499;71,105;4;0,224;0
+No_Autorization;6ADSaE87h8Y3lccZlBJdXH;With Or Without You - Remastered;U2;0,000202;0,54;295516;0,429;0,355;2;0,141;-11,822;1;0,0285;110,171;4;0,113;0
+No_Autorization;7GonnnalI2s19OCQO1J7Tf;Kickstart My Heart;Mötley Crüe;0,00125;0,359;282653;0,981;0,00236;7;0,284;-3,622;0;0,303;178,98;4;0,271;0
+No_Autorization;2IZZqH4K02UIYg5EohpNHF;Zombie;The Cranberries;0,0154;0,307;306427;0,635;0,00483;7;0,366;-8,957;1;0,0339;166,973;4;0,304;0
+No_Autorization;32kgOw8wejH7zUhtXCM8DH;More Than a Feeling;Boston;0,000894;0,377;285133;0,682;0,00217;7;0,0504;-8,039;1;0,0299;108,736;4;0,288;0
+No_Autorization;2aoo2jlRnM3A0NyLQqMN2f;All Along the Watchtower;Jimi Hendrix;0,00255;0,438;240800;0,805;5,69E-05;8;0,0842;-6,237;1;0,0624;113,253;4;0,564;0
+No_Autorization;57bgtoPSgt236HzfBOd8kj;Thunderstruck;AC/DC;0,000147;0,502;292880;0,89;0,0117;4;0,217;-5,175;1;0,0364;133,52;4;0,259;0
+No_Autorization;66lOpKgTyFjOrac4S1s94g;Rebel Rebel - 2016 Remaster;David Bowie;0,00101;0,676;269360;0,92;8,65E-06;9;0,248;-7,96;1;0,0435;126,341;4;0,624;0
+No_Autorization;6ToM0uwxtPKo9CMpbPGYvM;Break on Through (To the Other Side);The Doors;0,2;0,421;145867;0,751;0;9;0,17;-9,584;1;0,0472;89,839;4;0,789;0
+No_Autorization;0dOg1ySSI7NkpAe89Zo0b9;Born in the U.S.A.;Bruce Springsteen;0,000373;0,398;278680;0,952;7,75E-05;4;0,1;-6,042;1;0,061;122,093;4;0,584;0
+No_Autorization;57iDDD9N9tTWe75x6qhStw;Bitter Sweet Symphony;The Verve;0,0335;0,356;357267;0,917;0;9;0,406;-6,006;1;0,0479;171,176;4;0,518;0
+No_Autorization;1gzIbdFnGJ226LTl0Cn2SX;White Wedding - Pt. 1 / Remastered 2002;Billy Idol;0,0133;0,673;252200;0,814;0,00293;9;0,343;-5,411;1;0,0367;147,193;4;0,728;0
+No_Autorization;3fH4KjXFYMmljxrcGrbPj9;Don't You (Forget About Me) - 12" Version;Simple Minds;0,168;0,66;263040;0,816;0,0181;2;0,0608;-6,61;1;0,0299;111,346;4;0,678;0
+No_Autorization;7oK9VyNzrYvRFo7nQEYkWN;Mr. Brightside;The Killers;0,00101;0,356;222587;0,924;0;1;0,0953;-3,74;1;0,0808;148,017;4;0,232;0
+No_Autorization;7o2CTH4ctstm8TNelqjb51;Sweet Child O' Mine;Guns N' Roses;0,0866;0,454;354520;0,91;0,0996;6;0,116;-7,766;1;0,0448;125,116;4;0,629;0
+No_Autorization;3SUusuA9jH1v6PVwtYMbdv;Last Nite;The Strokes;0,0221;0,624;193373;0,899;0,000137;0;0,0975;-5,709;1;0,0296;104,061;4;0,79;0
+No_Autorization;5ghIJDpPoe3CfHMGu71E6T;Smells Like Teen Spirit;Nirvana;2,55E-05;0,502;301920;0,912;0,000173;1;0,106;-4,556;1;0,0564;116,761;4;0,72;0
+No_Autorization;1YwNlWLf8auhazSQUDQLFU;Enjoy the Silence;Depeche Mode;0,155;0,641;257333;0,812;4,43E-05;0;0,078;-7,945;0;0,0293;112,777;4;0,822;0
+No_Autorization;2aSFLiDPreOVP6KHiWk4lF;Under Pressure - Remastered 2011;Queen;0,524;0,663;236520;0,712;0;2;0,0804;-7,268;1;0,0479;113,439;4;0,527;0
+No_Autorization;1L94M3KIu7QluZe63g64rv;Alive;Pearl Jam;0,00752;0,284;340907;0,875;0,000461;11;0,402;-6,069;0;0,0422;75,009;4;0,595;0
+No_Autorization;2fICdpdRotwfmGYzvs8Ngf;Rock You Like a Hurricane - 2015 - Remaster;Scorpions;0,00484;0,402;253667;0,873;7,3E-05;4;0,157;-3,209;0;0,0586;125,443;4;0,684;0
+No_Autorization;1RJeiAIwR9pZBgJA8ndZLL;Paint It, Black - Mono;The Rolling Stones;0,0103;0,505;204480;0,836;0,0771;5;0,295;-7,384;0;0,101;159,669;4;0,764;0
+No_Autorization;2X6gdRlGOQgfaXU9ALUQFQ;The Chain - 2004 Remaster;Fleetwood Mac;0,0629;0,546;271000;0,529;0,000567;9;0,0383;-13,6;1;0,0436;151,727;4;0,574;0
+No_Autorization;3Vby4nGmtbDo7HDJamOWkT;Stuck In The Middle With You;Stealers Wheel;0,0936;0,82;208947;0,575;0,000135;7;0,109;-9,144;1;0,0408;123,765;4;0,964;0
+No_Autorization;3mcG2NI5G5vhrQtRda1YnA;The Middle;Jimmy Eat World;0,0424;0,629;168253;0,897;0;2;0,263;-3,401;1;0,0483;161,944;4;0,93;0
+No_Autorization;5e6x5YRnMJIKvYpZxLqdpH;Fortunate Son;Creedence Clearwater Revival;0,0648;0,636;138053;0,746;0,29;0;0,173;-3,785;1;0,0393;132,31;4;0,432;0
+No_Autorization;54eZmuggBFJbV7k248bTTt;A Horse with No Name;America;0,686;0,654;252240;0,506;0,0155;11;0,155;-17,18;0;0,0535;123,179;4;0,831;0
+No_Autorization;3k9i7UzeSUYWIfUZFeFDUd;Layla;Derek & The Dominos;0,577;0,404;423840;0,903;0,297;1;0,287;-3,88;1;0,0668;115,672;4;0,498;0
+No_Autorization;5UWwZ5lm5PKu6eKsHAGxOk;Everlong;Foo Fighters;5,99E-05;0,413;250547;0,881;0,000308;11;0,0805;-5,541;0;0,0367;158,066;4;0,364;0
+No_Autorization;0iA3xXSkSCiJywKyo1UKjQ;Louie, Louie;The Kingsmen;0,102;0,623;165381;0,709;0;1;0,0967;-9,818;0;0,0636;122,394;4;0,948;0
+No_Autorization;3PGAgwFWnFCisvjb3rLyuh;Piece of My Heart;Big Brother & The Holding Company;0,0891;0,482;253805;0,883;0,00422;4;0,266;-3,348;1;0,0754;80,687;4;0,594;0
+No_Autorization;05NYcsjJwOYq4jIiKPVj9p;Hard To Handle;The Black Crowes;0,00257;0,599;188067;0,79;0,00181;4;0,312;-3,58;1;0,043;103,783;4;0,961;0
+No_Autorization;4gMgiXfqyzZLMhsksGmbQV;Another Brick In The Wall, Pt. 2 - 2011 Remastered Version;Pink Floyd;0,0782;0,693;238747;0,394;0,000694;0;0,247;-15,882;1;0,0428;104,114;4;0,721;0
+No_Autorization;1IqFh00G2kvvMm8pRMpehA;Me and Bobby McGee;Janis Joplin;0,303;0,43;271333;0,463;5,84E-05;2;0,152;-10,96;1;0,0442;93,405;4;0,66;0
+No_Autorization;7N3PAbqfTjSEU1edb2tY8j;Jump;Van Halen;0,171;0,572;241600;0,835;0,000377;0;0,0702;-6,219;1;0,0317;129,981;4;0,795;0
+No_Autorization;3YRCqOhFifThpSRFJ1VWFM;November Rain;Guns N' Roses;0,0163;0,294;536067;0,641;0,22;11;0,112;-9,316;1;0,0291;79,759;4;0,226;0
+No_Autorization;07q0QVgO56EorrSGHC48y3;I Was Made For Lovin' You;KISS;0,214;0,768;271240;0,852;7,36E-05;4;0,0723;-6,215;1;0,038;128,373;4;0,867;0
+No_Autorization;2d4e45fmUnguxh6yqC7gNT;Dirty Deeds Done Dirt Cheap;AC/DC;0,214;0,668;231933;0,906;0,00245;11;0,135;-4,881;0;0,17;135,653;4;0,507;0
+No_Autorization;78lgmZwycJ3nzsdgmPPGNx;Immigrant Song - Remaster;Led Zeppelin;0,013;0,564;146250;0,932;0,169;11;0,349;-10,068;1;0,0554;112,937;4;0,619;0
+No_Autorization;5EcvzboYmDIfXo9gPplsSB;Brown Sugar - 2009 Remaster;The Rolling Stones;0,228;0,638;228667;0,931;0,000295;0;0,0524;-3,605;1;0,0363;128,662;4;0,965;0
+No_Autorization;5tVA6TkbaAH9QMITTQRrNv;Free Fallin';Tom Petty;0,212;0,623;256000;0,449;0;5;0,0613;-13,333;1;0,0253;84,383;4;0,572;0
+No_Autorization;5PntSbMHC1ud6Vvl8x56qd;Loser;Beck;0,0337;0,654;235000;0,611;0,000178;2;0,405;-10,45;1;0,119;85,387;4;0,786;0
+No_Autorization;5UwbnHhjnbinJH8TefuQfN;Long Cool Woman (In a Black Dress) - 1999 Remaster;The Hollies;0,411;0,757;199200;0,868;0,00221;9;0,355;-9,326;1;0,062;138,923;4;0,815;0
+No_Autorization;2HXixVqzzm9rEUIMAWzshl;I Hate Myself for Loving You;Joan Jett & The Blackhearts;0,0846;0,611;246800;0,883;1,2E-06;9;0,192;-11,225;1;0,0539;117,928;4;0,604;0
+No_Autorization;1xShPgQbOUa98avWJQFDBY;Personal Jesus - Single Version;Depeche Mode;0,0112;0,637;224907;0,682;0,0234;11;0,0473;-11,625;1;0,0366;129,983;4;0,714;0
+No_Autorization;4DMKwE2E2iYDKY01C335Uw;Carry on Wayward Son;Kansas;0,00321;0,482;323000;0,786;8,88E-05;7;0,446;-5,735;1;0,032;126,755;4;0,793;0
+No_Autorization;3ovjw5HZZv43SxTwApooCM;Wind Of Change;Scorpions;0,315;0,452;312360;0,524;0;0;0,103;-10,108;1;0,0351;151,505;4;0,246;0
+No_Autorization;6NxsCnLeLd8Ai1TrgGxzIx;Bad Moon Rising;Creedence Clearwater Revival;0,0599;0,647;141600;0,762;3,35E-06;2;0,0705;-5,856;1;0,0287;89,837;4;0,93;0
+No_Autorization;6qUEOWqOzu1rLPUPQ1ECpx;Walk This Way (feat. Aerosmith);Run–D.M.C.;0,0174;0,761;310387;0,711;0,000101;9;0,0652;-7,989;1;0,0604;105,448;4;0,947;0
+No_Autorization;5SAUIWdZ04OxYfJFDchC7S;Smoke On The Water - Remastered 2012;Deep Purple;0,0983;0,632;342173;0,586;0,581;0;0,0535;-11,333;1;0,0284;114,243;4;0,89;0
+No_Autorization;59WN2psjkt1tyaxjspN8fp;Killing In the Name;Rage Against The Machine;0,0266;0,466;313573;0,833;0;7;0,0327;-4,215;1;0,304;88,785;4;0,661;0
+No_Autorization;6zeE5tKyr8Nu882DQhhSQI;Dust in the Wind;Kansas;0,367;0,475;206267;0,322;0,00056;7;0,11;-10,687;1;0,0283;93,503;4;0,387;0
+No_Autorization;0PdM2a6oIjqepoEfcJo0RO;Pour Some Sugar On Me - Remastered 2017;Def Leppard;0,00211;0,267;267307;0,953;0;1;0,283;-4,899;0;0,096;84,989;4;0,568;0
+No_Autorization;1Dr1fXbc2IxaK1Mu8P8Khz;When I Come Around;Green Day;0,0175;0,531;178000;0,909;0;11;0,231;-4,236;1;0,034;97,546;4;0,814;0
+No_Autorization;4uGIJG1jYFonGc4LGp5uQL;Somebody to Love;Jefferson Airplane;0,408;0,504;174840;0,578;0;4;0,321;-9,302;1;0,031;132,411;4;0,654;0
+No_Autorization;4d9RTWdrFLVAGhdzvqxkwn;Losing My Religion;R.E.M.;0,0943;0,7;268933;0,686;1,93E-06;9;0,0847;-10,338;0;0,0279;125,412;4;0,815;0
+No_Autorization;5XcZRgJv3zMhTqCyESjQrF;Poison;Alice Cooper;0,0327;0,28;270080;0,908;8,85E-06;2;0,18;-5,509;0;0,109;118,698;4;0,26;0
+No_Autorization;4alHo6RGd0D3OUbTPExTHN;Just What I Needed;The Cars;0,0152;0,619;225627;0,579;6,4E-05;4;0,0858;-9,307;1;0,0473;127,224;4;0,69;0
+No_Autorization;51H2y6YrNNXcy3dfc3qSbA;When Doves Cry - 2015 Paisley Park Remaster;Prince;0,0102;0,729;352906;0,989;4,45E-05;9;0,443;-4,613;0;0,049;126,47;4;0,84;0
+No_Autorization;5QTxFnGygVM4jFQiBovmRo;(Don't Fear) The Reaper;Blue Öyster Cult;0,0029;0,333;308120;0,927;0,000208;9;0,297;-8,55;0;0,0733;141,466;4;0,385;0
+No_Autorization;5QLHGv0DfpeXLNFo7SFEy1;1979;The Smashing Pumpkins;0,0163;0,767;266200;0,787;0,583;3;0,0513;-9,897;1;0,0331;126,879;4;0,964;0
+No_Autorization;6gXrEUzibufX9xYPk3HD5p;Life in the Fast Lane - 2013 Remaster;Eagles;0,0966;0,667;286220;0,755;6,94E-05;9;0,0523;-7,246;1;0,069;109,535;4;0,883;0
+No_Autorization;1dv3ePjze9tPq2pk8eWJdR;Gimme Shelter;The Rolling Stones;0,463;0,63;270773;0,616;0,0408;1;0,173;-8,128;0;0,0309;118,65;4;0,509;0
+No_Autorization;4VqPOruhp5EdPBeR92t6lQ;Uprising;Muse;0,000202;0,602;304840;0,905;0,064;2;0,117;-4,046;1;0,0775;128,019;4;0,411;0
+No_Autorization;4YPhn26bIFm2KUkL1VLzQG;Say It Ain't So;Weezer;0,00328;0,635;256880;0,435;6,78E-06;3;0,071;-7,521;1;0,031;76,098;4;0,459;0
+No_Autorization;7IhkWF9zpiYKlU7CxHxYT9;All Right Now;Free;0,25;0,766;332907;0,446;0,000704;2;0,318;-13,079;1;0,0867;119,774;4;0,743;0
+No_Autorization;0eFvoRSTTaR2q8bSWVjwfp;Welcome To The Jungle;Guns N' Roses;0,0301;0,456;271867;0,978;0,499;10;0,313;-4,869;0;0,112;123,411;4;0,327;0
+No_Autorization;4JNi40t7xR5bO3PWxRkiPN;Free Bird;Lynyrd Skynyrd;0,0119;0,279;558933;0,852;0,076;7;0,0624;-7,838;1;0,0511;117,418;4;0,438;0
+No_Autorization;3AhXZa8sUQht0UEdBJgpGc;Like a Rolling Stone;Bob Dylan;0,731;0,482;369600;0,721;0;0;0,189;-6,839;1;0,0321;95,263;4;0,557;0
+No_Autorization;3gdewACMIVMEWVbyb8O9sY;Rocket Man (I Think It's Going To Be A Long, Long Time);Elton John;0,432;0,601;281613;0,532;6,25E-06;10;0,0925;-9,119;1;0,0286;136,571;4;0,341;0
+No_Autorization;2SiXAy7TuUkycRVbbWDEpo;You Shook Me All Night Long;AC/DC;0,00287;0,532;210173;0,767;0,000513;7;0,39;-5,509;1;0,0574;127,361;4;0,755;0
+No_Autorization;3aoDEt6zSuYQ47gzarlaVo;Money - 2011 Remastered Version;Pink Floyd;0,0241;0,469;382834;0,537;0,00201;9;0,269;-10,421;1;0,152;124,193;1;0,783;0
+No_Autorization;2b9lp5A6CqSzwOrBfAFhof;Crazy Train;Ozzy Osbourne;0,36;0,453;296200;0,905;0,000569;9;0,26;-4,001;1;0,115;137,571;4;0,474;0
+No_Autorization;2EoOZnxNgtmZaD8uUmz2nD;Black Hole Sun;Soundgarden;0,000217;0,35;318587;0,828;0,000161;6;0,0774;-5,373;1;0,041;105,435;4;0,147;0
+No_Autorization;1UBQ5GK8JaQjm5VbkBZY66;Sharp Dressed Man - 2008 Remaster;ZZ Top;0,000359;0,601;258027;0,859;0,00124;5;0,0871;-5,263;1;0,0276;125,145;4;0,446;0
+No_Autorization;1qOU8KzFifXE9YrgjVwYvc;Here I Go Again - 2018 Remaster;Whitesnake;0,0117;0,292;275395;0,823;7,79E-05;7;0,155;-6,763;1;0,0407;89,939;4;0,244;0
+No_Autorization;0F0MA0ns8oXwGw66B2BSXm;Let's Dance - 2018 Remaster;David Bowie;0,00388;0,619;457133;0,703;0,205;10;0,163;-9,414;0;0,0525;115,043;4;0,709;0
+No_Autorization;1qRA5BS78u3gME0loMl9AA;For What It's Worth;Buffalo Springfield;0,406;0,653;153693;0,519;0,0209;2;0,101;-10,164;1;0,0497;98,883;4;0,822;0
+No_Autorization;4vpeKl0vMGdAXpZiQB2Dtd;White Rabbit;Jefferson Airplane;0,486;0,551;150640;0,293;0,000273;2;0,0864;-12,503;1;0,0272;106,798;4;0,322;0
+No_Autorization;38Ngied9rBORlAbLYNCl4k;Once in a Lifetime;Talking Heads;0,181;0,644;259907;0,919;0,134;2;0,622;-6,289;1;0,0561;117,459;4;0,871;0
+No_Autorization;5eYwDBLucWfWI5KsV7oYX2;Mary Jane's Last Dance;Tom Petty and the Heartbreakers;0,0383;0,402;272267;0,814;1,19E-06;10;0,266;-4,954;1;0,14;170,02;4;0,516;0
+No_Autorization;2KmEgiY8fQs0G6WNxtzQKr;Baba O'Riley;The Who;0,313;0,489;300400;0,724;0,185;5;0,287;-8,367;1;0,0352;117,292;4;0,15;0
+No_Autorization;5y4761pjcksXs1hNsCmc4n;Sunshine Of Your Love;Cream;0,389;0,691;250400;0,592;3,29E-05;2;0,124;-8,089;1;0,0366;115,152;4;0,736;0
+No_Autorization;7lksFyVBmmkYBTVQcxnvC3;What I Got;Sublime;0,0149;0,79;171080;0,687;0,000319;7;0,323;-7,571;1;0,101;95,578;4;0,628;0
+No_Autorization;5OQsiBsky2k2kDKy2bX2eT;Learn to Fly;Foo Fighters;1,83E-05;0,465;235293;0,919;2,07E-05;4;0,262;-4,025;1;0,0408;135,997;4;0,537;0
+No_Autorization;5Ly2g3fnof2iFE8zsQZJX2;Back In The U.S.S.R. - Remastered 2009;The Beatles;0,00102;0,51;163467;0,893;5,85E-05;9;0,201;-9,267;1;0,0342;142,657;4;0,934;0
+No_Autorization;4nuUssdgKFy2QyYHHNkZQW;Sunday Bloody Sunday - Remastered 2008;U2;0,402;0,543;279440;0,944;0,000564;6;0,0373;-7,495;1;0,0543;101,174;4;0,735;0
+No_Autorization;0832Tptls5YicHPGgw7ssP;Beast Of Burden - Remastered 1994;The Rolling Stones;0,413;0,786;265173;0,87;0,000494;1;0,0389;-3,875;0;0,0316;100,66;4;0,864;0
+No_Autorization;5eU8qMd0TpaLqTGDZJaLDs;Need You Tonight;INXS;0,0713;0,801;180518;0,723;0,154;10;0,0675;-4,985;0;0,0689;109,03;4;0,883;0
+No_Autorization;2f0P7iELCvAlV8j6Z3rGDE;Stranglehold;Ted Nugent;0,0183;0,484;503067;0,711;0,173;2;0,0941;-7,784;1;0,0331;148,189;4;0,49;0
+No_Autorization;3sY6z4pGcxpMwx3W026WtU;Peace of Mind;Boston;0,000989;0,421;303587;0,677;9,65E-05;4;0,211;-6,183;1;0,0343;127,67;4;0,683;0
+No_Autorization;6KTv0Z8BmVqM7DPxbGzpVC;Rock And Roll All Nite;KISS;0,0468;0,654;168840;0,929;0;1;0,0539;-5,906;1;0,0998;144,774;4;0,902;0
+No_Autorization;7b4yGtR0rujvLi5EBfKKJ2;Take Me Home Tonight;Eddie Money;0,101;0,608;211160;0,768;1,41E-06;1;0,0942;-9,911;1;0,0364;132,699;4;0,748;0
+No_Autorization;3IOQZRcEkplCXg6LofKqE9;Iron Man;Black Sabbath;0,00351;0,336;355304;0,792;0,00175;9;0,0437;-10,875;1;0,084;155,587;4;0,427;0
+No_Autorization;1lhpxZT57yw5toGJtt8fGE;Old Time Rock & Roll;Bob Seger;0,219;0,713;194147;0,931;0;6;0,0694;-2,965;1;0,0394;124,127;4;0,963;0
+No_Autorization;0Puj4YlTm6xNzDDADXHMI9;Sabotage;Beastie Boys;0,032;0,324;178440;0,938;0,0321;6;0,0961;-7,332;0;0,102;168,131;4;0,543;0
+No_Autorization;14XWXWv5FoCbFzLksawpEe;Riders on the Storm;The Doors;0,25;0,55;434720;0,722;0,0129;11;0,11;-11,729;0;0,0283;103,886;4;0,716;0
+No_Autorization;6Vjk8MNXpQpi0F4BefdTyq;Kashmir - Remaster;Led Zeppelin;0,452;0,483;517125;0,615;0,000414;2;0,0512;-8,538;1;0,0497;80,576;3;0,594;0
+No_Autorization;24NwBd5vZ2CK8VOQVnqdxr;Sweet Emotion;Aerosmith;0,00298;0,38;274133;0,76;0,0294;9;0,104;-10,961;1;0,0378;99,437;4;0,491;0
+No_Autorization;6gZVQvQZOFpzIy3HblJ20F;Man in the Box;Alice In Chains;0,00045;0,355;285200;0,791;0;8;0,0969;-7,565;1;0,0453;106,392;4;0,758;0
+No_Autorization;5p3JunprHCxClJjOmcLV8G;Walk On the Wild Side;Lou Reed;0,683;0,575;254173;0,318;0,000202;0;0,0934;-16,729;1;0,109;104,522;4;0,385;0
+No_Autorization;0NWPxcsf5vdjdiFUI8NgkP;Hey Joe;Jimi Hendrix;0,00603;0,346;210160;0,768;0,38;9;0,0244;-5,695;1;0,0377;169,492;4;0,532;0
+No_Autorization;371VkfwKiXJxgH5ZPoQNHD;The Joker;Steve Miller Band;0,365;0,596;264504;0,448;5,3E-06;5;0,206;-9,616;1;0,0396;83,293;4;0,796;0
+No_Autorization;0FeCO85RKW8fDRytwXof2x;Go Your Own Way - 2004 Remaster;Fleetwood Mac;0,0219;0,597;218400;0,812;0,00106;5;0,102;-12,062;1;0,0315;135,68;4;0,823;0
+No_Autorization;7iLGljK0LNpGamQQEOuCRC;Won't Get Fooled Again - Original Album Version;The Who;0,301;0,686;511400;0,92;0,27;2;0,0807;-6,231;1;0,0566;135,027;4;0,225;0
+No_Autorization;3G69vJMWsX6ZohTykad2AU;One;U2;0,245;0,392;276187;0,534;0,00104;0;0,155;-8,793;1;0,0369;181,305;4;0,325;0
+No_Autorization;1JkZg3eMQTmTn93E8Yd3UL;I Want You to Want Me;Cheap Trick;0,78;0,806;191227;0,462;0,0134;2;0,15;-12,778;1;0,0298;92,726;4;0,736;0
+No_Autorization;4ItljeeAXtHsnsnnQojaO2;D'yer Mak'er - Remaster;Led Zeppelin;0,262;0,525;262748;0,929;2,9E-05;9;0,0754;-8,56;0;0,0784;163,503;4;0,556;0
+No_Autorization;3QZ7uX97s82HFYSmQUAN1D;Tom Sawyer;Rush;0,00145;0,536;276880;0,901;0,0186;9;0,06;-7,211;1;0,0374;87,559;4;0,666;0
+No_Autorization;6FsQrRpBLgsrFeAeiQqytm;Get It On;T. Rex;0,157;0,729;267000;0,818;0,284;2;0,195;-9,992;1;0,0732;125,814;4;0,906;0
+No_Autorization;3gLlcZQMvpwgtV9THHXrGp;Runnin' with the Devil - 2015 Remaster;Van Halen;0,0206;0,432;216733;0,88;0,000191;1;0,185;-5,769;0;0,0656;95,59;4;0,527;0
+No_Autorization;4KfSdst7rW39C0sfhArdrz;Barracuda;Heart;0,015;0,548;261933;0,691;0,106;4;0,144;-13,553;0;0,0369;137,145;4;0,667;0
+No_Autorization;4pbG9SUmWIvsROVLF0zF9s;I Want To Hold Your Hand - Remastered 2015;The Beatles;0,386;0,49;145747;0,715;0;7;0,311;-5,549;1;0,0476;130,726;4;0,866;0
+No_Autorization;5X76oXHcR5uCXali0gOyX5;White Room;Cream;0,178;0,55;303200;0,576;0,00935;0;0,0555;-13,475;1;0,0306;109,837;4;0,486;0
+No_Autorization;4nXkbcTj3nyww1cHkw5RAP;Long Train Runnin';The Doobie Brothers;0,0916;0,575;207267;0,912;0,00211;7;0,0562;-7,275;0;0,0393;117,399;4;0,843;0
+No_Autorization;3RZMzCvYsmJ0u2ioKTOsmJ;Honky Tonk Women - Mono Version;The Rolling Stones;0,363;0,562;179387;0,779;0,0292;7;0,066;-6,705;1;0,0592;119,602;4;0,967;0
+No_Autorization;6gQUbFwwdYXlKdmqRoWKJe;Dude (Looks Like A Lady);Aerosmith;0,435;0,54;265773;0,982;3,37E-05;4;0,0457;-2,962;0;0,0458;126,294;4;0,91;0
+No_Autorization;0wJoRiX5K5BxlqZTolB2LD;Purple Haze;Jimi Hendrix;0,00876;0,533;170813;0,905;0,578;2;0,0698;-5,27;1;0,0754;108,9;4;0,486;0
+No_Autorization;4vO9dmzNRqDhFY3jD1a3P7;Mississippi Queen;Mountain;0,0987;0,581;151293;0,624;0;9;0,0411;-8,346;1;0,0777;139,714;4;0,637;0
+No_Autorization;6Qg7cgN1oZ5mG5nZe9UG0X;Behind Blue Eyes;The Who;0,229;0,399;223333;0,518;0,00122;7;0,262;-10,637;1;0,0318;127,084;4;0,285;0
+No_Autorization;1fDsrQ23eTAVFElUMaf38X;American Pie;Don McLean;0,699;0,531;516893;0,481;0;4;0,0842;-11,709;0;0,06;138,45;4;0,491;0
+No_Autorization;6qLEOZvf5gI7kWE63JE7p3;Interstate Love Song - 2019 Remaster;Stone Temple Pilots;0,000273;0,215;194853;0,927;0,00661;9;0,126;-7,327;1;0,0452;170,814;4;0,49;0
+No_Autorization;6qnhXRedMi71TBYRc9jm4o;Magic Carpet Ride;Steppenwolf;0,0215;0,616;260240;0,777;0,075;4;0,0512;-12,179;0;0,0549;111,732;4;0,786;0
+No_Autorization;7J4WbEdRTZGJDsSr5AACCw;Midnight Rider;Allman Brothers Band;0,515;0,392;179933;0,334;0,0946;7;0,0892;-18,294;1;0,0319;189,394;4;0,621;0
+No_Autorization;6XUHsYE38CEbYunT983O9G;Give A Little Bit;Supertramp;0,0694;0,531;248173;0,818;0,0096;2;0,263;-5,358;1;0,0452;90,767;4;0,471;0
+No_Autorization;4gvea7UlDkAvsJBPZAd4oB;The Boys Of Summer;Don Henley;0,501;0,516;288733;0,549;0,00572;6;0,184;-13,741;1;0,0373;176,941;4;0,907;0
+No_Autorization;3vCHmbyOgc6pgwLUWfU4pF;Somebody To Love - Remastered 2011;Queen;0,169;0,461;296480;0,69;1,01E-06;8;0,113;-6,958;1;0,0611;110,915;3;0,353;0
+No_Autorization;3okPiJwW5nCLpug12sCL4p;All Day and All of the Night;The Kinks;0,247;0,563;142227;0,915;8,46E-05;7;0,0613;-5,062;1;0,08;136,345;4;0,71;0
+No_Autorization;1HOMkjp0nHMaTnfAkslCQj;My Sharona;The Knack;0,0589;0,586;295400;0,7;0,00125;0;0,0318;-9,558;1;0,0363;147,245;4;0,897;0
+No_Autorization;5jzma6gCzYtKB1DbEwFZKH;London Calling - Remastered;The Clash;0,123;0,651;200480;0,801;0;0;0,0825;-7,34;1;0,0514;133,769;4;0,776;0
+No_Autorization;3KPwt1LBpt1jVSHz8GXERo;Feel like Makin' Love - 2015 Remaster;Bad Company;0,326;0,543;313840;0,529;0,00269;7;0,709;-9,717;1;0,0301;85,126;4;0,746;0
+No_Autorization;3MODES4TNtygekLl146Dxd;Ramble On - 1990 Remaster;Led Zeppelin;0,072;0,468;263333;0,607;0,000852;9;0,225;-11,367;1;0,0336;98,429;4;0,886;0
+No_Autorization;45s88Xopo6KvHc0PQ05aGg;My Generation - Mono Version;The Who;0,14;0,299;198867;0,787;0;0;0,292;-7,93;0;0,069;94,798;4;0,716;0
+No_Autorization;5uvosCdMlFdTXhoazkTI5R;Light My Fire;The Doors;0,369;0,413;429760;0,725;2,16E-05;3;0,0905;-5,787;0;0,0324;124,618;4;0,44;0
+No_Autorization;0kO3njY9N1Rxgv27Ha1lLh;Numb;Linkin Park;0,0046;0,496;185587;0,863;0;9;0,639;-4,153;1;0,0381;110,018;4;0,243;0
+No_Autorization;5eek2X5459T1HoYJk2CKXv;Last Resort;Papa Roach;0,000504;0,581;199893;0,887;0,00111;4;0,268;-3,659;0;0,0624;90,578;4;0,724;0
+No_Autorization;3Xfg7AegXaDLoD5GOUMf2e;My Demons;STARSET;0,00768;0,274;288036;0,652;6,42E-05;5;0,108;-6,196;0;0,0625;173,008;4;0,1;0
+No_Autorization;7rGN3oqzCpG2mLcwoPwDQm;Letting You Go;Bullet For My Valentine;0,00877;0,459;223655;0,903;0;5;0,168;-4,649;0;0,0673;76,185;4;0,364;0
+No_Autorization;0M955bMOoilikPXwKLYpoi;I Hate Everything About You;Three Days Grace;0,00461;0,498;231480;0,83;0;6;0,139;-5,157;0;0,0421;89,342;4;0,453;0
+No_Autorization;5m9uiFH9sK5wxRZdfN62n9;The Diary of Jane - Single Version;Breaking Benjamin;5,67E-05;0,39;200213;0,958;0,0437;10;0,121;-4,455;0;0,0622;167,045;4;0,348;0
+No_Autorization;3WnrxWNTHDGyCVCwfMJPtR;Wake Up;Black Veil Brides;0,00456;0,555;162093;0,942;1,79E-05;0;0,414;-3,606;0;0,118;126,928;4;0,614;0
+No_Autorization;4P9wWw9e55Xdo14dJezwNH;10 Seconds from Panic;Cult To Follow;0,00453;0,518;190875;0,974;0,000382;1;0,366;-5,262;1;0,151;155,033;4;0,525;0
+No_Autorization;1AEYT6VxrxXPMoQUxsY0E4;Headstrong;Trapt;0,000172;0,492;285570;0,896;2,78E-06;4;0,189;-5,819;0;0,117;184,981;4;0,534;0
+No_Autorization;5GorCbAP4aL0EJ16frG2hd;Boulevard of Broken Dreams;Green Day;0,00552;0,496;262333;0,682;2,94E-05;8;0,0589;-4,095;1;0,0294;167,06;4;0,474;0
+No_Autorization;2qJkesdHu9sMMVFgkRkqhQ;Angel;Theory of a Deadman;0,00251;0,443;202213;0,844;0;11;0,085;-5,414;0;0,0425;76,001;4;0,452;0
+No_Autorization;4JIYKZzKnlPhL28h0uixzZ;Don't You Dare Forget the Sun;Get Scared;0,000681;0,276;193584;0,814;0;9;0,107;-5,048;0;0,0998;144,793;4;0,472;0
+No_Autorization;6FhB5ZyT4JsIJ0ozDlXCIp;Save Yourself;My Darkest Days;0,00093;0,503;221160;0,921;2,75E-06;8;0,26;-5,907;0;0,106;121,983;4;0,359;0
+No_Autorization;60a0Rd6pjrkxjPbaKzXjfq;In the End;Linkin Park;0,00958;0,556;216880;0,864;0;3;0,209;-5,87;0;0,0584;105,143;4;0,4;0
+No_Autorization;4iWYPj04kHXcZK0st5yzZf;Courtesy Call;Thousand Foot Krutch;0,00378;0,532;236907;0,633;0;11;0,0804;-5,106;0;0,0682;164,13;4;0,448;0
+No_Autorization;473xAny4InLJTlWnUNEwZq;Impossible;Manafest;0,00877;0,453;238387;0,898;0;1;0,136;-3,132;1;0,108;160,096;4;0,525;0
+No_Autorization;1bKRtH1leT7y003VikaXUc;Anthem Of The Lonely;Nine Lashes;0,000364;0,348;241720;0,972;0;10;0,119;-3,144;0;0,0951;196,213;4;0,652;0
+No_Autorization;2iptAVf9jZerlywLwiGhak;Fallen Angel;Three Days Grace;0,00554;0,453;186147;0,911;0;2;0,0627;-3,775;0;0,0382;137,011;4;0,218;0
+No_Autorization;5FQXMRDSTkn9fowDJ3kZo8;You're Going Down;Sick Puppies;0,0116;0,49;187347;0,833;0,000504;6;0,15;-5,899;1;0,0487;89,981;4;0,39;0
+No_Autorization;1Xk2J1uGRgfe6o5oqNmzJf;Perfect;Cult To Follow;0,00288;0,583;213466;0,942;0,00182;6;0,0605;-4,036;1;0,123;109,951;4;0,395;0
+No_Autorization;4j41Du0uMXJrfEY7Xe9CDO;Carnivore;STARSET;0,002;0,328;262689;0,635;1,84E-05;4;0,108;-6,772;1;0,0786;74,965;4;0,0484;0
+No_Autorization;2L6fYOGi2YAwTI0pmGorc7;Get Me Out;No Resolve;7,52E-05;0,314;223923;0,877;0;3;0,0898;-3,207;0;0,0582;177,6;4;0,516;0
+No_Autorization;1Fu9o08qEKVEwzU8siVcig;Situations;Escape the Fate;0,0261;0,503;187880;0,881;0;0;0,482;-4,502;0;0,0827;101,038;4;0,597;0
+No_Autorization;79CATxWpb9uezVeOIazKgs;Lion;Hollywood Undead;0,00193;0,478;234933;0,898;0;6;0,0703;-5,603;1;0,106;168,953;4;0,536;0
+No_Autorization;2yXyz4NLTZx9CLdXfLTp5E;I Will Not Bow;Breaking Benjamin;0,000165;0,533;216733;0,955;1,36E-05;8;0,38;-3,708;1;0,0653;107,984;4;0,55;0
+No_Autorization;4STlXjW6sovdM4RyL9l5pP;Warrior Inside;Leader;0,000832;0,214;203296;0,867;0,00019;5;0,119;-5,997;1;0,0934;90,073;4;0,257;0
+No_Autorization;3nB5TJEl7taRMwlaoHiOry;Through It All;Spoken;0,000189;0,511;216600;0,884;0;6;0,0899;-5,212;0;0,0412;106,059;4;0,495;0
+No_Autorization;6jg3Om6ZBMKlylforWGPEC;War of Change;Thousand Foot Krutch;0,00229;0,532;231667;0,878;0,000282;5;0,0771;-4,431;0;0,0326;104,026;4;0,579;0
+No_Autorization;3Wn52FjoUJClQOXwKePPp3;It's Over When It's Over;Falling In Reverse;0,0536;0,561;233967;0,984;0;2;0,176;-2,626;0;0,0636;146,036;4;0,584;0
+No_Autorization;6OMO6WdRhSfjMPAiPT94wH;Painkiller;Three Days Grace;0,00021;0,376;179160;0,95;0;9;0,0377;-4,067;1;0,0641;178,018;4;0,438;0
+No_Autorization;40rvBMQizxkIqnjPdEWY1v;Down with the Sickness;Disturbed;0,000996;0,695;279213;0,876;6,89E-06;3;0,106;-4,262;0;0,0553;89,954;4;0,941;0
+No_Autorization;6M9vEm3Cy3PHr3QkXRX6x3;Unbreakable;Fireflight;0,00341;0,458;201160;0,849;1,2E-06;3;0,161;-4,244;0;0,0404;89,916;4;0,389;0
+No_Autorization;2d6m2F4I7wCuAKtSsdhh83;Famous Last Words;My Chemical Romance;0,000321;0,467;299227;0,883;0,000152;2;0,125;-3,679;0;0,106;122,252;4;0,309;0
+No_Autorization;2GTBnTnkvaNhVg7ADGnVzN;Prayer Of The Refugee;Rise Against;0,00131;0,198;199387;0,977;4,62E-05;3;0,23;-3,499;0;0,173;195,795;4;0,351;0
+No_Autorization;0D1ExGkm9m5QXklubnFZXp;Hated You From Hello;Downplay;0,000222;0,352;169787;0,906;0;8;0,181;-4,493;1;0,0779;192,118;4;0,78;0
+No_Autorization;0YwqJeTUyviMJw70jRt9ET;A Little Faster;There For Tomorrow;0,00085;0,404;184547;0,946;0;5;0,359;-3,318;0;0,174;169,086;4;0,784;0
+No_Autorization;1aGZAitGPKHH2omwTZJRRT;Stay This Way;From Ashes to New;0,00387;0,446;234839;0,985;0;2;0,126;-3,884;0;0,414;155,051;4;0,131;0
+No_Autorization;2OsB5mygafbQxTwznXC0eP;The Bird and the Worm;The Used;0,0742;0,299;225040;0,933;1,21E-05;6;0,0723;-6,874;0;0,17;180,092;3;0,205;0
+No_Autorization;2J6qr3pC10jeEg7dSN9YHG;Lose My Life;Papercut Massacre;0,00216;0,518;215093;0,951;0;7;0,222;-6,206;1;0,0957;115,004;4;0,339;0
+No_Autorization;781bCQjAUwwvfqlLV1ktnH;Breaking Through;The Wreckage;3,27E-05;0,259;178548;0,923;0;10;0,248;-2,684;0;0,0708;90,644;4;0,64;0
+No_Autorization;30W3Rwuyo0XuIZmCrIXcMP;Killing Our Memories;Fable;4,62E-05;0,432;169906;0,898;7,97E-05;6;0,0501;-4,856;0;0,0584;161,98;4;0,568;0
+No_Autorization;52ngXhcqJzGyKVDup7HzGr;Bitter End;The Veer Union;0,00803;0,441;220627;0,97;2,13E-06;0;0,332;-2,99;0;0,0919;164,071;4;0,538;0
+No_Autorization;1tbjeelOKIjolYNUNnPMAD;Same Old War;Our Last Night;0,00151;0,426;244900;0,952;2,76E-05;5;0,104;-2,649;1;0,0719;147,111;4;0,28;0
+No_Autorization;4ofZe3eFWlNKC0FYEFOSvG;Lets Get This Started Again;Live My Last;0,0049;0,537;198365;0,898;0;7;0,15;-1,819;1;0,134;102,513;4;0,575;0
+No_Autorization;4wZWidf9fT5LVy8Asa5iQJ;From the Inside;Outrun the Fall;0,036;0,342;178373;0,928;0;4;0,177;-3,569;1;0,0724;185,104;4;0,283;0
+No_Autorization;0VafPclbphrwh36WraHWws;Bat Out of Hell;Meat Loaf;0,281;0,204;590000;0,837;0,00405;5;0,291;-7,618;1;0,0676;171,514;4;0,392;0
+No_Autorization;4moXVLw4YS7tVNmjs8v60A;Dancing In the Dark;Bruce Springsteen;0,0549;0,525;239733;0,842;0;11;0,275;-12,12;1;0,0353;148,803;4;0,594;0
+No_Autorization;66lOpKgTyFjOrac4S1s94g;Rebel Rebel - 2016 Remaster;David Bowie;0,00101;0,676;269360;0,92;8,65E-06;9;0,248;-7,96;1;0,0435;126,341;4;0,624;0
+No_Autorization;3LTMnFa0hhwisyq6ILahyj;Sultans Of Swing;Dire Straits;0,0771;0,731;348624;0,797;0,0248;5;0,334;-9,992;1;0,0309;148,192;4;0,933;0
+No_Autorization;3k9i7UzeSUYWIfUZFeFDUd;Layla;Derek & The Dominos;0,577;0,404;423840;0,903;0,297;1;0,287;-3,88;1;0,0668;115,672;4;0,498;0
+No_Autorization;5FMlUJ6wd2aN0lkdlRrEtH;Jumpin' Jack Flash;The Rolling Stones;0,0582;0,575;222280;0,909;0,238;3;0,0724;-8,003;1;0,0654;137,335;4;0,693;0
+No_Autorization;1H5IfYyIIAlgDX8zguUzns;Suspicious Minds;Elvis Presley;0,0422;0,487;261280;0,382;4,74E-06;7;0,411;-10,889;1;0,0309;116,557;4;0,714;0
+No_Autorization;2zvot9pY2FNl1E94kc4K8M;Rocket Man (I Think It's Going To Be A Long, Long Time);Elton John;0,432;0,601;281613;0,532;6,25E-06;10;0,0925;-9,119;1;0,0286;136,571;4;0,341;0
+No_Autorization;0FeCO85RKW8fDRytwXof2x;Go Your Own Way - 2004 Remaster;Fleetwood Mac;0,0219;0,597;218400;0,812;0,00106;5;0,102;-12,062;1;0,0315;135,68;4;0,823;0
+No_Autorization;2LpirOWiA4eslLRuPpQT7V;Maggie May;Rod Stewart;0,559;0,605;350267;0,574;0,113;2;0,0684;-10,536;1;0,0377;129,449;4;0,543;0
+No_Autorization;2fF7mQOxo1SZuIMHTQgQD8;Romeo And Juliet;Dire Straits;0,546;0,613;360667;0,441;0,0132;5;0,0869;-11,999;1;0,0309;87,573;4;0,525;0
+No_Autorization;0iOZM63lendWRTTeKhZBSC;Mrs. Robinson - From "The Graduate" Soundtrack;Simon & Garfunkel;0,713;0,606;244027;0,457;2,53E-05;6;0,0747;-14,035;0;0,0497;92,033;4;0,813;0
+No_Autorization;4pU7ed71DOZozQrBQzqkdw;With A Little Help From My Friends;Joe Cocker;0,317;0,339;314200;0,426;0,00082;2;0,103;-11,303;1;0,0543;72,445;3;0,285;0
+No_Autorization;5nbNdS5SKdpiDZjCBh8W7b;Get It On;T. Rex;0,176;0,728;262613;0,878;0,856;11;0,61;-6,926;0;0,0564;126,59;4;0,911;0
+No_Autorization;3AhXZa8sUQht0UEdBJgpGc;Like a Rolling Stone;Bob Dylan;0,731;0,482;369600;0,721;0;0;0,189;-6,839;1;0,0321;95,263;4;0,557;0
+No_Autorization;6hTcuIQa0sxrrByu9wTD7s;Born to Run;Bruce Springsteen;0,00501;0,27;269920;0,944;2,05E-05;4;0,116;-4,199;1;0,0975;146,347;4;0,606;0
+No_Autorization;2fuCquhmrzHpu5xcA1ci9x;Under Pressure - Remastered 2011;Queen;0,429;0,671;248440;0,712;0;2;0,103;-7,815;1;0,0476;113,805;4;0,462;0
+No_Autorization;7odHgoLFi3GQ90E9PeraI3;Son Of A Preacher Man;Dusty Springfield;0,394;0,401;149160;0,498;0;4;0,13;-10,682;1;0,0757;181,701;4;0,816;0
+No_Autorization;4iFiqGqxaEQzm1CfoGVZib;All Right Now;Free;0,247;0,781;330643;0,484;0,000138;2;0,147;-12,853;1;0,087;119,993;4;0,804;0
+No_Autorization;3ZE3wv8V3w2T2f7nOCjV0N;Life on Mars? - 2015 Remaster;David Bowie;0,639;0,442;235987;0,384;7,7E-05;10;0,0539;-14,635;1;0,0414;123,281;4;0,216;0
+No_Autorization;4tyl9OMKMG8F2L0RUYQMH3;Walk Of Life;Dire Straits;0,405;0,461;249960;0,918;0,00033;4;0,126;-8,507;1;0,0959;172,435;4;0,802;0
+No_Autorization;269OfNY9Je1QWaDnu31KKp;Wild World;Yusuf / Cat Stevens;0,376;0,484;200173;0,508;0,000791;0;0,0961;-9,308;1;0,0364;151,867;4;0,554;0
+No_Autorization;1q4XkQXsmgDgK2S1Umqf7D;Live And Let Die - 2018 Remaster;Wings;0,366;0,258;184973;0,94;0,0013;7;0,961;-3,163;1;0,0984;147,346;4;0,285;0
+No_Autorization;2hdNya0b6Cc2YJ8IyaQIWp;Livin' Thing;Electric Light Orchestra;0,583;0,549;212307;0,651;0;0;0,121;-7,097;1;0,0323;122,818;4;0,368;0
+No_Autorization;76TZCvJ8GitQ2FA1q5dKu0;The Boxer;Simon & Garfunkel;0,702;0,439;308520;0,488;0,000339;11;0,16;-14,464;1;0,0615;93,017;4;0,629;0
+No_Autorization;1Q1b8eVkUPGlpSArl8JAVw;Heart Of Gold;Neil Young;0,189;0,541;187013;0,459;0,0274;4;0,099;-10,433;0;0,0297;171,165;4;0,803;0
+No_Autorization;7Jh1bpe76CNTCgdgAdBw4Z;Heroes - 2017 Remaster;David Bowie;0,000671;0,49;371413;0,758;0,484;7;0,092;-6,491;1;0,0297;112,114;4;0,435;0
+No_Autorization;54X78diSLoUDI3joC2bjMz;Purple Rain - 2015 Paisley Park Remaster;Prince;0,0353;0,367;520787;0,452;0,00228;10;0,689;-10,422;1;0,0307;113,066;4;0,189;0
+No_Autorization;5p3JunprHCxClJjOmcLV8G;Walk On the Wild Side;Lou Reed;0,683;0,575;254173;0,318;0,000202;0;0,0934;-16,729;1;0,109;104,522;4;0,385;0
+No_Autorization;0pQskrTITgmCMyr85tb9qq;Starman - 2012 Remaster;David Bowie;0,166;0,486;254293;0,449;2,23E-06;5;0,54;-10,298;1;0,0267;100,456;4;0,549;0
+No_Autorization;6ml6iL8HUdQKgtMaehAZc8;Start Me Up - Remastered 2009;The Rolling Stones;0,0436;0,631;213067;0,932;0,137;5;0,0918;-4,142;1;0,0354;122,429;4;0,971;0
+No_Autorization;3zBhihYUHBmGd2bcQIobrF;(Sittin' On) the Dock of the Bay;Otis Redding;0,684;0,769;163756;0,367;1,62E-05;2;0,081;-11,226;1;0,0312;103,621;4;0,535;0
+No_Autorization;2KmEgiY8fQs0G6WNxtzQKr;Baba O'Riley;The Who;0,313;0,489;300400;0,724;0,185;5;0,287;-8,367;1;0,0352;117,292;4;0,15;0
+No_Autorization;6NxsCnLeLd8Ai1TrgGxzIx;Bad Moon Rising;Creedence Clearwater Revival;0,0599;0,647;141600;0,762;3,35E-06;2;0,0705;-5,856;1;0,0287;89,837;4;0,93;0
+No_Autorization;3EOZLnmwc7i7VFAtM5uNN4;Gimme Some Lovin' - Single Mix;The Spencer Davis Group;0,162;0,633;178840;0,562;0,000191;7;0,43;-6,405;1;0,0311;73,71;4;0,377;0
+No_Autorization;6FnuMo55jNECTDdS1nD5H0;Dancing in the Street - 2002 Remaster;David Bowie;0,117;0,6;204787;0,816;0;4;0,126;-13,64;1;0,0431;130,99;4;0,744;0
+No_Autorization;6iGU74CwXuT4XVepjc9Emf;God Only Knows - Mono / 1997 Remastered;The Beach Boys;0,253;0,521;173040;0,487;0;6;0,0579;-7,525;0;0,0299;117,072;4;0,483;0
+No_Autorization;1A3OA6zON5HHueFm4ejrRF;Because the Night;Patti Smith;0,0557;0,442;202867;0,793;0;11;0,0934;-5,378;0;0,0354;123,67;4;0,547;0
+No_Autorization;6yLIqXX9edg1x0HZS7cZEv;The Air That I Breathe - 2008 Remaster;The Hollies;0,242;0,279;257107;0,473;0,00164;4;0,158;-8,375;0;0,0309;167,792;4;0,246;0
+No_Autorization;029NqmIySn1kOY305AAhxT;Sledgehammer;Peter Gabriel;0,0246;0,657;313533;0,685;0;1;0,037;-5,203;1;0,0334;96,458;4;0,424;0
+No_Autorization;78lJEojkdaVbQRkFOTNMKG;I Don't Like Mondays;The Boomtown Rats;0,717;0,464;259093;0,46;0;11;0,151;-6,874;1;0,0393;143,603;4;0,476;0
+No_Autorization;0sDqo9UPzPUtu9wEkI3zRB;The Weight - Remastered 2000;The Band;0,225;0,63;278627;0,519;4,3E-06;9;0,0974;-10,997;1;0,0528;143,942;4;0,502;0
+No_Autorization;3FmAUR4SPWa3P1KyDf21Fu;Roxanne;The Police;0,0384;0,618;191500;0,748;4,1E-06;0;0,0477;-8,905;1;0,361;134,001;4;0,662;0
+No_Autorization;4gvea7UlDkAvsJBPZAd4oB;The Boys Of Summer;Don Henley;0,501;0,516;288733;0,549;0,00572;6;0,184;-13,741;1;0,0373;176,941;4;0,907;0
+No_Autorization;7fLTytvnvxy653VWxflTRf;Stay with Me;Faces;0,0969;0,458;279360;0,869;0,0596;9;0,357;-8,381;1;0,032;91,39;4;0,813;0
+No_Autorization;2hvOsGJc6qll4WzW8Ljqc3;Brass in Pocket - 2006 Remaster;Pretenders;0,368;0,751;185960;0,703;0,00123;9;0,196;-5,687;1;0,0287;97,931;4;0,907;0
+No_Autorization;6l8EbYRtQMgKOyc1gcDHF9;Bridge Over Troubled Water;Simon & Garfunkel;0,822;0,149;293120;0,206;0,000649;3;0,115;-13,888;1;0,0323;79,764;4;0,264;0
+No_Autorization;6aMg17mRAbKDayw8pRRADw;Gloria (feat. Van Morrison) - Stereo Version;Them;0,397;0,641;156800;0,703;0,00546;9;0,104;-10,434;1;0,0518;129,118;4;0,722;0
+No_Autorization;0i0yTnhVQV2J44vrLVU3dD;Fisherman's Blues - 2006 Remaster;The Waterboys;0,0032;0,371;266667;0,847;6,28E-06;9;0,107;-4,564;0;0,0803;137,97;4;0,62;0
+No_Autorization;4MZEZz8MqVgvIMXU6AVP22;Running on Empty;Jackson Browne;0,006;0,531;298093;0,948;0,0117;9;0,694;-5,438;1;0,0568;136,891;4;0,498;0
+No_Autorization;5jzma6gCzYtKB1DbEwFZKH;London Calling - Remastered;The Clash;0,123;0,651;200480;0,801;0;0;0,0825;-7,34;1;0,0514;133,769;4;0,776;0
+No_Autorization;0qxYx4F3vm1AOnfux6dDxP;You Can Call Me Al;Paul Simon;0,182;0,776;280000;0,763;0,00647;5;0,077;-8,124;1;0,0534;128,433;4;0,82;0
+No_Autorization;2DnJjbjNTV9Nd5NOa1KGba;You're so Vain;Carly Simon;0,157;0,659;258411;0,678;6,69E-06;0;0,0784;-8,18;1;0,0313;106,186;4;0,647;0
+No_Autorization;0HEmnAUT8PHznIAAmVXqFJ;Faith - Remastered;George Michael;0,0094;0,887;193200;0,48;3,58E-05;11;0,0662;-11,994;1;0,117;95,846;4;0,607;0
+No_Autorization;7fSGbZLhWlAiCC3HDPAULu;(I Can't Get No) Satisfaction - Mono Version;The Rolling Stones;0,0348;0,725;222813;0,853;0,127;2;0,196;-7,842;1;0,0353;136,282;4;0,904;0
+No_Autorization;4dwrL3Z5U2RZ6MZiKE2PgL;Superstition;Stevie Wonder;0,0182;0,648;244827;0,751;0,000401;8;0,0418;-8,582;1;0,0806;100,437;4;0,863;0
+No_Autorization;3qitymULqEibr7yknRMKU4;A Whiter Shade of Pale - Original Single Version;Procol Harum;0,504;0,249;248947;0,66;0,0026;0;0,0891;-6,905;1;0,0342;149,813;4;0,435;0
+No_Autorization;4BGJSbB5rAcg4pNzD4gfxU;Tiny Dancer;Elton John;0,396;0,415;377093;0,425;0,000407;0;0,143;-11,082;1;0,0278;145,234;4;0,281;0
+No_Autorization;3G7tRC24Uh09Hmp1KZ7LQ2;I'm a Believer - 2006 Remaster;The Monkees;0,707;0,526;167373;0,775;2,05E-05;0;0,217;-6,05;1;0,0352;80,106;4;0,962;0
+No_Autorization;54eZmuggBFJbV7k248bTTt;A Horse with No Name;America;0,686;0,654;252240;0,506;0,0155;11;0,155;-17,18;0;0,0535;123,179;4;0,831;0
+No_Autorization;254bXAqt3zP6P50BdQvEsq;Everywhere - 2017 Remaster;Fleetwood Mac;0,258;0,73;226653;0,487;0,01;4;0,0852;-10,991;1;0,0303;114,965;4;0,731;0
+No_Autorization;4WfGrAJVC3A5xhUTja0gUG;Money For Nothing;Dire Straits;0,043;0,666;510933;0,667;0,0005;2;0,074;-9,305;0;0,0371;134,219;4;0,679;0
+No_Autorization;2hitsKa8SthKhRJBXUHbIv;Our House;Crosby, Stills, Nash & Young;0,896;0,593;179760;0,205;5,46E-05;9;0,119;-14,601;1;0,0479;140,279;4;0,377;0
+No_Autorization;2LawezPeJhN4AWuSB0GtAU;Have You Ever Seen The Rain;Creedence Clearwater Revival;0,0664;0,741;160133;0,697;2,28E-05;0;0,133;-7,028;1;0,0277;116,109;4;0,774;0
+No_Autorization;70C4NyhjD5OZUMzvWZ3njJ;Piano Man;Billy Joel;0,605;0,331;339000;0,55;3,96E-06;0;0,192;-6,483;1;0,0272;177,734;3;0,429;0
+No_Autorization;7woZGXjtaYwuvSoU1zToB3;Free Fallin';Tom Petty;0,178;0,617;256667;0,435;0;5;0,0822;-13,547;1;0,0256;84,382;4;0,601;0
+No_Autorization;4sFbojhVXQv7dBC9PVCcRn;Sympathy For The Devil - 50th Anniversary Edition;The Rolling Stones;0,565;0,566;377747;0,673;1,13E-06;9;0,0438;-10,814;1;0,306;114,385;4;0,583;0
+No_Autorization;63rva3TBizr6x1Yp5uwKfD;California Dreamin' - Single Version;The Mamas & The Papas;0,628;0,554;157960;0,667;0;1;0,0486;-10,226;0;0,0342;112,749;4;0,597;0
+No_Autorization;0VNzEY1G4GLqcNx5qaaTl6;Vincent;Don McLean;0,908;0,419;243493;0,085;5,33E-06;7;0,34;-19,387;1;0,0362;91,509;3;0,458;0
+No_Autorization;7EmSPZ9f1AiLR9eVHNSI62;Brothers In Arms;Dire Straits;0,531;0,413;424000;0,296;0,801;8;0,183;-13,904;0;0,0277;79,273;4;0,144;0
