@@ -1,0 +1,5 @@
+Программа предоставляет пользователю следующие возможности: авторизация через официальный сайт Spotify, поиск аудиоконтента, просмотр и сохранение информации о музыкальных композициях, создание персонализированных подборок аудиоконтента, а также визуальное представление данных о плейлистах.
+Разработанное приложение включает в себя программные модули для работы с Spotify WEB API и библиотекой машинного обучения ML.net, а также пользовательский интерфейс, реализованный с помощью Windows Forms .NET. Программа разработанна на языке C#. 
+
+The program provides the user with the following features: authorization through the official Spotify`s website, search for audio content, viewing and saving information about music compositions, creating personalized collections of audio content, as well as visual representation of data about tracks selected by the user.
+The developed application includes software modules for working with the Spotify WEB API and the machine learning library ML.net, as well as the user interface implemented using Windows Forms .NET. The program is developed in C#. 
